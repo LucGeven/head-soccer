@@ -150,6 +150,6 @@ public class GameRender {
         spritebatch.end();
 
         SpriteHomeCollision.draw(shaperender);
-
+        //TEST
     }
 }
