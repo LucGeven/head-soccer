@@ -149,7 +149,7 @@ public class GameRender {
 
         spritebatch.end();
 
-        //SpriteHomeCollision.draw(shaperender);
+        SpriteHomeCollision.draw(shaperender);
 
     }
 }
