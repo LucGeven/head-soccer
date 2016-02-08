@@ -1,0 +1,10428 @@
+
+all.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1899-HOFFENHEIM
+  rotate: false
+  xy: 1, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+4 25 SPORTS GROUP
+  rotate: false
+  xy: 1, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AA COIMBRA
+  rotate: false
+  xy: 153, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AA PONTE PRETA
+  rotate: false
+  xy: 1, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AALBORG BK
+  rotate: false
+  xy: 153, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AALESUNDS FK
+  rotate: false
+  xy: 305, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AARHUS GF
+  rotate: false
+  xy: 1, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AB ARGIR
+  rotate: false
+  xy: 153, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ABERDEEN FC
+  rotate: false
+  xy: 305, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ABERYSTWYTH TOWN
+  rotate: false
+  xy: 457, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AC JUVENES
+  rotate: false
+  xy: 1, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AC LIBERTAS
+  rotate: false
+  xy: 153, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AC MILAN
+  rotate: false
+  xy: 305, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ACADEMICA PETROLEOS
+  rotate: false
+  xy: 457, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ACS POLI
+  rotate: false
+  xy: 609, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AD CARMELITA
+  rotate: false
+  xy: 1, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AD ISIDRO
+  rotate: false
+  xy: 153, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AD MUNICIPAL
+  rotate: false
+  xy: 305, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ADELAIDE UNITED
+  rotate: false
+  xy: 457, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ADF SPORTING
+  rotate: false
+  xy: 609, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ADMIRALTY PELIAU
+  rotate: false
+  xy: 761, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ADO DEN HAAG
+  rotate: false
+  xy: 1, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AEL LEMES�S
+  rotate: false
+  xy: 153, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AFC BOURNEMOUTH
+  rotate: false
+  xy: 305, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AH CHIEVO VERONA
+  rotate: false
+  xy: 457, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AIK FOTBOLL
+  rotate: false
+  xy: 609, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AIRBUS UK
+  rotate: false
+  xy: 761, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AJAX CAPE TOWN
+  rotate: false
+  xy: 913, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AJAX
+  rotate: false
+  xy: 1, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AKANDA FC
+  rotate: false
+  xy: 153, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AKHISAR BELEDIYE
+  rotate: false
+  xy: 305, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL AHLI SC
+  rotate: false
+  xy: 457, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL ARABI SC
+  rotate: false
+  xy: 609, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL GHARAFA SC
+  rotate: false
+  xy: 761, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL HILAL SAUDI
+  rotate: false
+  xy: 913, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL JAZEERA CLUB
+  rotate: false
+  xy: 1065, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL KHOR SC
+  rotate: false
+  xy: 1, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL NASSR FC
+  rotate: false
+  xy: 153, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL RAMTHA
+  rotate: false
+  xy: 305, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL SADD SC
+  rotate: false
+  xy: 457, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL SAILIYA SC
+  rotate: false
+  xy: 609, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL SHAHANIYA SC
+  rotate: false
+  xy: 761, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL SHAMAL SC
+  rotate: false
+  xy: 913, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL WAKRAH SC
+  rotate: false
+  xy: 1065, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL WEHDAT SC
+  rotate: false
+  xy: 1217, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-AHLI SAUDI
+  rotate: false
+  xy: 1, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-AHLI SC
+  rotate: false
+  xy: 153, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-BAQA A SC
+  rotate: false
+  xy: 305, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-FAISALY FC
+  rotate: false
+  xy: 457, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-FAISALY
+  rotate: false
+  xy: 609, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-FATEH FC
+  rotate: false
+  xy: 761, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-HUSSEIN SC
+  rotate: false
+  xy: 913, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-ITTIHAD SC
+  rotate: false
+  xy: 1065, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-ITTIHAD
+  rotate: false
+  xy: 1217, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-KHALEEJ CLUB
+  rotate: false
+  xy: 1369, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-KHARAITIYATH SC
+  rotate: false
+  xy: 1, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-ORUBAH FC
+  rotate: false
+  xy: 153, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-SAREEH SC
+  rotate: false
+  xy: 305, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-SHABAB FC
+  rotate: false
+  xy: 457, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-SHOALAH
+  rotate: false
+  xy: 609, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AL-TAAWON FC
+  rotate: false
+  xy: 761, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ALBIREX NIIGATA
+  rotate: false
+  xy: 913, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ALHCS SPARTAN FC
+  rotate: false
+  xy: 1065, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATTACKERS FC
+  rotate: false
+  xy: 1065, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DOCS UNITED FC
+  rotate: false
+  xy: 1065, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SANTOS VATICANI
+  rotate: false
+  xy: 1065, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ST JOHNS UNITED
+  rotate: false
+  xy: 1065, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ALIANZA FC
+  rotate: false
+  xy: 1217, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ALIANZA
+  rotate: false
+  xy: 1369, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ALRAED CLUB
+  rotate: false
+  xy: 1521, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AMICALE FC
+  rotate: false
+  xy: 1, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AMROKGANG
+  rotate: false
+  xy: 153, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AM�RICA FC
+  rotate: false
+  xy: 305, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ANDERLECHT
+  rotate: false
+  xy: 457, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ANGERS
+  rotate: false
+  xy: 609, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ANTALYASPOR PFT
+  rotate: false
+  xy: 761, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ANTIGUA GFC
+  rotate: false
+  xy: 913, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AO AYIA
+  rotate: false
+  xy: 1065, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AO CENTRE
+  rotate: false
+  xy: 1217, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+APOEL FC
+  rotate: false
+  xy: 1369, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+APOLLON FC
+  rotate: false
+  xy: 1521, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ARAZ-NAXICIVAN
+  rotate: false
+  xy: 1673, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AREMA CRONUS
+  rotate: false
+  xy: 1, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ARGENTINOS JUNIORS
+  rotate: false
+  xy: 153, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ARMY FC
+  rotate: false
+  xy: 305, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ARMY UNITED
+  rotate: false
+  xy: 457, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ARNETT GARDENS
+  rotate: false
+  xy: 609, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ARSENAL
+  rotate: false
+  xy: 761, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS AN�RTHOSIS
+  rotate: false
+  xy: 913, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS CAPOISE
+  rotate: false
+  xy: 1065, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS CAVALY
+  rotate: false
+  xy: 1217, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS ETHNIKOS
+  rotate: false
+  xy: 1369, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS MANGASPORT
+  rotate: false
+  xy: 1521, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS MIREBALAIS
+  rotate: false
+  xy: 1673, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS NEA
+  rotate: false
+  xy: 1825, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS OMONIA
+  rotate: false
+  xy: 1, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS P�LICAN
+  rotate: false
+  xy: 153, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS ROMA
+  rotate: false
+  xy: 305, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AS SOLIDARIT�
+  rotate: false
+  xy: 457, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ASA TARGU
+  rotate: false
+  xy: 609, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ASIA EURO UNITED
+  rotate: false
+  xy: 761, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ASM ORAN
+  rotate: false
+  xy: 913, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ASTERAS TRIPOLIS
+  rotate: false
+  xy: 1065, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ASTON VILLA
+  rotate: false
+  xy: 1217, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATALANTA BC
+  rotate: false
+  xy: 1369, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATHLETIC CLUB
+  rotate: false
+  xy: 1521, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATLAS FC
+  rotate: false
+  xy: 1673, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATLETICO PETROLEOS
+  rotate: false
+  xy: 1825, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATLETICO SPORT AVIACAO
+  rotate: false
+  xy: 1977, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATM FA
+  rotate: false
+  xy: 1, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATROMITOS ATH�NA
+  rotate: false
+  xy: 153, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ATVIDABERGS FF
+  rotate: false
+  xy: 305, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AUCKLAND CITY
+  rotate: false
+  xy: 457, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AVAI FC
+  rotate: false
+  xy: 609, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AZ
+  rotate: false
+  xy: 761, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+AZAL PFK
+  rotate: false
+  xy: 913, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+A�K L�RNAKA
+  rotate: false
+  xy: 1065, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+B-67 NUUK
+  rotate: false
+  xy: 1217, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+B36
+  rotate: false
+  xy: 1369, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BA FC
+  rotate: false
+  xy: 1521, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BAKI FK
+  rotate: false
+  xy: 1673, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALA TOWN FC
+  rotate: false
+  xy: 1825, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALESTIER KHALSA
+  rotate: false
+  xy: 1977, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALI UNITED
+  rotate: false
+  xy: 2129, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALLINAMALLARD
+  rotate: false
+  xy: 1, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALLYMENA UNITED
+  rotate: false
+  xy: 153, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALTIMORE SC
+  rotate: false
+  xy: 305, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BALZAN FC
+  rotate: false
+  xy: 457, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BANGKOK GLASS
+  rotate: false
+  xy: 609, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BANGKOK UNITED
+  rotate: false
+  xy: 761, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BANGOR CITY
+  rotate: false
+  xy: 913, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BARBICAN FC
+  rotate: false
+  xy: 1065, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BASSA SC
+  rotate: false
+  xy: 1217, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BASTIA
+  rotate: false
+  xy: 1369, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BATE BORISOV
+  rotate: false
+  xy: 1521, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BAYER-LEVERKUSEN
+  rotate: false
+  xy: 1673, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BAYERN-M�NCHEN
+  rotate: false
+  xy: 1825, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BEC TERO SASANA
+  rotate: false
+  xy: 1977, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BEIJING GUOAN
+  rotate: false
+  xy: 2129, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BEITAR JERUSALEM
+  rotate: false
+  xy: 2281, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BELGRAVE WANDERERS
+  rotate: false
+  xy: 1, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BELSHINA BOBRUISK
+  rotate: false
+  xy: 153, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BEL�N BRIDGESTONE
+  rotate: false
+  xy: 305, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BENGALURU FC
+  rotate: false
+  xy: 457, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BESIKTAS JK
+  rotate: false
+  xy: 609, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BESTA PNG UNITED
+  rotate: false
+  xy: 761, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BFC DAUGAVPILS
+  rotate: false
+  xy: 913, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BG SPORTS CLUB
+  rotate: false
+  xy: 1065, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BHUTAN CLEARING
+  rotate: false
+  xy: 1217, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHUAC LUN
+  rotate: false
+  xy: 1217, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BARKI
+  rotate: false
+  xy: 1217, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KOREAN FOOTBALL
+  rotate: false
+  xy: 1217, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV BOTOPASIE
+  rotate: false
+  xy: 1217, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BIDVEST WITS
+  rotate: false
+  xy: 1369, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BINATLI YILMAZ
+  rotate: false
+  xy: 1521, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BIRKIRKARA FC
+  rotate: false
+  xy: 1673, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BIU CHUN RANGERS
+  rotate: false
+  xy: 1825, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BK HACKEN
+  rotate: false
+  xy: 1977, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BLACK ACES
+  rotate: false
+  xy: 2129, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BLOEMFONTEIN CELTIC
+  rotate: false
+  xy: 2281, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOAVISTA FC
+  rotate: false
+  xy: 2433, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOCA JUNIORS
+  rotate: false
+  xy: 1, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BODDEN TOWN FC
+  rotate: false
+  xy: 153, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOEUNG KET
+  rotate: false
+  xy: 305, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOHEMIANS FC
+  rotate: false
+  xy: 457, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOHEMIANS
+  rotate: false
+  xy: 609, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOLOGNA FC
+  rotate: false
+  xy: 761, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BORDEAUX
+  rotate: false
+  xy: 913, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BORUSSIA-DORTMUND
+  rotate: false
+  xy: 1065, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BORUSSIA-M�NCHENGLADBACH
+  rotate: false
+  xy: 1217, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOSTANCI BAGCIL
+  rotate: false
+  xy: 1369, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOULEVARD BLAZERS
+  rotate: false
+  xy: 1521, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BOYS TOWN
+  rotate: false
+  xy: 1673, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BRAY WANDERERS
+  rotate: false
+  xy: 1825, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BREIOABLIK UBK
+  rotate: false
+  xy: 1977, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BRISBANE ROAR
+  rotate: false
+  xy: 2129, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BRONDBY IF
+  rotate: false
+  xy: 2281, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BSC YOUNG BOYS
+  rotate: false
+  xy: 2433, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BUBALI SC
+  rotate: false
+  xy: 2585, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BUDAPEST HONV�D
+  rotate: false
+  xy: 1, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BUILD BRIGHT UNITED
+  rotate: false
+  xy: 153, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BUNYODKOR PFK
+  rotate: false
+  xy: 305, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BURIRAM UNITED
+  rotate: false
+  xy: 457, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BURSASPOR K
+  rotate: false
+  xy: 609, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BUXORO FK
+  rotate: false
+  xy: 761, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+B�K�SCSABAI
+  rotate: false
+  xy: 913, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA ALDOSIVI
+  rotate: false
+  xy: 1065, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA ATENAS
+  rotate: false
+  xy: 1217, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA BANFIELD
+  rotate: false
+  xy: 1369, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA BELGRANO
+  rotate: false
+  xy: 1521, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA CERRO
+  rotate: false
+  xy: 1673, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA FENIX
+  rotate: false
+  xy: 1825, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA INDEPENDIENTE
+  rotate: false
+  xy: 1977, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA JUVENTUD
+  rotate: false
+  xy: 2129, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA LANUS
+  rotate: false
+  xy: 2281, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA MINEIRO
+  rotate: false
+  xy: 2433, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA OLD BOYS
+  rotate: false
+  xy: 2585, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA PARANAENSE
+  rotate: false
+  xy: 2737, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA PENAROL
+  rotate: false
+  xy: 1, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA RENTISTAS
+  rotate: false
+  xy: 153, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA RIVER PLATE
+  rotate: false
+  xy: 305, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA SAN MARTIN
+  rotate: false
+  xy: 457, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA TIGRE
+  rotate: false
+  xy: 609, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CA UNION
+  rotate: false
+  xy: 761, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CAEN
+  rotate: false
+  xy: 913, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CAMBODIAN TIGER
+  rotate: false
+  xy: 1065, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CANTERBURY UNITED
+  rotate: false
+  xy: 1217, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CARMARTHEN TOWN
+  rotate: false
+  xy: 1369, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CARPI FC
+  rotate: false
+  xy: 1521, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CARRICK RANGERS
+  rotate: false
+  xy: 1673, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CASA BENFICA
+  rotate: false
+  xy: 1825, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CAVALIER SC
+  rotate: false
+  xy: 1977, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CAYMAN ATHLETICS
+  rotate: false
+  xy: 2129, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CAYMAN BRAC
+  rotate: false
+  xy: 2281, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CCYD EL TANQUE
+  rotate: false
+  xy: 2433, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD ANTOFAGASTA
+  rotate: false
+  xy: 2585, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD ARABE UNIDO
+  rotate: false
+  xy: 2737, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD ATL�TICO CHIRIQUI
+  rotate: false
+  xy: 2889, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD ATL�TICO
+  rotate: false
+  xy: 1, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD AUDAX ITALIANO
+  rotate: false
+  xy: 153, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD CAPIATA
+  rotate: false
+  xy: 305, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD CASA
+  rotate: false
+  xy: 457, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD COBRESAL
+  rotate: false
+  xy: 609, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD DRAG�N
+  rotate: false
+  xy: 761, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD FAS
+  rotate: false
+  xy: 913, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD GUADALAJARA
+  rotate: false
+  xy: 1065, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD HUACHIPATO
+  rotate: false
+  xy: 1217, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD IQUIQUE
+  rotate: false
+  xy: 1369, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD JUVENTUD
+  rotate: false
+  xy: 1521, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD MALACATECO
+  rotate: false
+  xy: 1673, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD MARATH�N
+  rotate: false
+  xy: 1825, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD MARQUENSE
+  rotate: false
+  xy: 1977, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD MONTE CARLO
+  rotate: false
+  xy: 2129, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD MOTAGUA
+  rotate: false
+  xy: 2281, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD NACIONAL
+  rotate: false
+  xy: 2433, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD O HIGGINS
+  rotate: false
+  xy: 2585, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD OLIMPIA
+  rotate: false
+  xy: 2737, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PALESTINO
+  rotate: false
+  xy: 2889, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PARILLAS ONE
+  rotate: false
+  xy: 3041, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PASAQUINA
+  rotate: false
+  xy: 1, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PETAPA
+  rotate: false
+  xy: 153, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PLATENSE
+  rotate: false
+  xy: 305, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PLAZA AMADOR
+  rotate: false
+  xy: 457, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PRIMEIRO DE AGOSTO
+  rotate: false
+  xy: 609, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD PROGRESSO
+  rotate: false
+  xy: 761, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD SAN LUIS
+  rotate: false
+  xy: 913, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD SANTANI
+  rotate: false
+  xy: 1065, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD SANTIAGO
+  rotate: false
+  xy: 1217, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD SUCHITEP�QUEZ
+  rotate: false
+  xy: 1369, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD TIBURONES ROJOS
+  rotate: false
+  xy: 1521, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD TONDELA
+  rotate: false
+  xy: 1673, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD UNION LA CALERA
+  rotate: false
+  xy: 1825, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD UNIVERSIDAD CATOLICA
+  rotate: false
+  xy: 1977, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD UNIVERSIDAD CONCEPCION
+  rotate: false
+  xy: 2129, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD UNIVERSIDAD
+  rotate: false
+  xy: 2281, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD VICTORIA
+  rotate: false
+  xy: 2433, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CD �GUILA
+  rotate: false
+  xy: 2585, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CDC SAN MARCOS
+  rotate: false
+  xy: 2737, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CDS VIDA
+  rotate: false
+  xy: 2889, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CELTIC FC
+  rotate: false
+  xy: 3041, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CENTRAL COAST MARINERS
+  rotate: false
+  xy: 3193, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CERES FC
+  rotate: false
+  xy: 1, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF AM�RICA
+  rotate: false
+  xy: 153, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF MONTERREY
+  rotate: false
+  xy: 305, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF MOUNANA
+  rotate: false
+  xy: 457, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF OS BELENENSES
+  rotate: false
+  xy: 609, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF PACHUCA
+  rotate: false
+  xy: 761, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF UNIAO
+  rotate: false
+  xy: 913, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF UNIVERSIDAD DE CHILE
+  rotate: false
+  xy: 1065, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CF UNIVERSIDAD
+  rotate: false
+  xy: 1217, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHABAB ATLAS
+  rotate: false
+  xy: 1369, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHABAB RIF
+  rotate: false
+  xy: 1521, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHAINAT HORNBILL
+  rotate: false
+  xy: 1673, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHAMPASAK UNITED
+  rotate: false
+  xy: 1825, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHANGCHUN YATAI
+  rotate: false
+  xy: 1977, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHAO PAK KEI
+  rotate: false
+  xy: 2129, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHAPECOENSE AF
+  rotate: false
+  xy: 2281, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHELSEA
+  rotate: false
+  xy: 2433, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHEPO FC
+  rotate: false
+  xy: 2585, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHIANGRAI UNITED
+  rotate: false
+  xy: 2737, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHIAPAS FC
+  rotate: false
+  xy: 2889, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHICAGO FIRE
+  rotate: false
+  xy: 3041, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHIPPA UNITED
+  rotate: false
+  xy: 3193, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHONBURI FC
+  rotate: false
+  xy: 3345, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHONGQING LIFAN
+  rotate: false
+  xy: 1, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CHORRILLO FC
+  rotate: false
+  xy: 153, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CIHANGIR GSK
+  rotate: false
+  xy: 305, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB BECAMEX
+  rotate: false
+  xy: 457, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB CAN THO
+  rotate: false
+  xy: 609, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB DONG NAI
+  rotate: false
+  xy: 761, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB DONG TAM
+  rotate: false
+  xy: 913, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB DONG THAP
+  rotate: false
+  xy: 1065, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB HA NOI
+  rotate: false
+  xy: 1217, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB HAI PHONG
+  rotate: false
+  xy: 1369, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB HOANG ANH
+  rotate: false
+  xy: 1521, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB QNK
+  rotate: false
+  xy: 1673, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB SANNA KHANH
+  rotate: false
+  xy: 1825, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB SONG LAM
+  rotate: false
+  xy: 1977, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB THAN QUANG
+  rotate: false
+  xy: 2129, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLB THANH
+  rotate: false
+  xy: 2281, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLIFTONVILLE
+  rotate: false
+  xy: 2433, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB ATL�TICO MADRID
+  rotate: false
+  xy: 2585, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB CERRO
+  rotate: false
+  xy: 2737, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB EAGLES
+  rotate: false
+  xy: 2889, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB GENERAL DIAZ
+  rotate: false
+  xy: 3041, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB GUARANI
+  rotate: false
+  xy: 3193, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB LE�N
+  rotate: false
+  xy: 3345, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB LIBERTAD
+  rotate: false
+  xy: 3497, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB NACIONAL FOOTBALL
+  rotate: false
+  xy: 1, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB NACIONAL
+  rotate: false
+  xy: 153, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB OLIMPIA
+  rotate: false
+  xy: 305, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB RUBIO
+  rotate: false
+  xy: 457, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB SANTOS LAGUNA
+  rotate: false
+  xy: 609, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB SOL DE AM�RICA
+  rotate: false
+  xy: 761, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB TIJUANA
+  rotate: false
+  xy: 913, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB VALENCIA
+  rotate: false
+  xy: 1065, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUB BRUGGE
+  rotate: false
+  xy: 1217, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUBE DESPORTIVO
+  rotate: false
+  xy: 1369, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CLUBE RECREATIVO
+  rotate: false
+  xy: 1521, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CMAC UNITED
+  rotate: false
+  xy: 1673, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+COB�N IMPERIAL
+  rotate: false
+  xy: 1825, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+COLERAINE FC
+  rotate: false
+  xy: 1977, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+COLORADO RAPIDS
+  rotate: false
+  xy: 2129, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+COLUMBUS CREW
+  rotate: false
+  xy: 2281, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+COMUNICACIONES
+  rotate: false
+  xy: 2433, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CORITIBA FC
+  rotate: false
+  xy: 2585, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CORK CITY
+  rotate: false
+  xy: 2737, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+COURTS YOUNG LIONS
+  rotate: false
+  xy: 2889, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CR BELOUIZDAD
+  rotate: false
+  xy: 3041, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CR FLAMENGO
+  rotate: false
+  xy: 3193, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CRD DO LIBOLO
+  rotate: false
+  xy: 3345, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CRUSADERS FC
+  rotate: false
+  xy: 3497, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CRUZ AZUL
+  rotate: false
+  xy: 3649, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CRUZEIRO EC
+  rotate: false
+  xy: 1, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CRYSTAL PALACE
+  rotate: false
+  xy: 153, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS CARTAGIN�S
+  rotate: false
+  xy: 305, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS CONCORDIA
+  rotate: false
+  xy: 457, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS CONSTANTINE
+  rotate: false
+  xy: 609, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS HEREDIANO
+  rotate: false
+  xy: 761, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS LUQUENO
+  rotate: false
+  xy: 913, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS MARITIMO
+  rotate: false
+  xy: 1065, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS PANDURII
+  rotate: false
+  xy: 1217, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS SAN LORENZO
+  rotate: false
+  xy: 1369, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS UNIVERSITATEA
+  rotate: false
+  xy: 1521, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS URUGUAY
+  rotate: false
+  xy: 1673, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CS-GREVENMACHER
+  rotate: false
+  xy: 1825, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CSD COLO-COLO
+  rotate: false
+  xy: 1977, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CSD MUNICIPAL
+  rotate: false
+  xy: 2129, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CSD XELAJ� MC
+  rotate: false
+  xy: 2281, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CSKA MOSKVA
+  rotate: false
+  xy: 2433, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CSKA PAMIR
+  rotate: false
+  xy: 2585, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CSM STUDENTESC
+  rotate: false
+  xy: 2737, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DANDY TOWN
+  rotate: false
+  xy: 2889, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DANUBIO FC
+  rotate: false
+  xy: 3041, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DARMSTADT-98
+  rotate: false
+  xy: 3193, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DC UNITED SC
+  rotate: false
+  xy: 3345, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DE ABASIN SAPE
+  rotate: false
+  xy: 3497, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DE MAIWAND ATALAN
+  rotate: false
+  xy: 3649, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DE SPIN GHAR BAZAN
+  rotate: false
+  xy: 3801, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DE GRAAFSCHAP
+  rotate: false
+  xy: 1, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEBRECENI
+  rotate: false
+  xy: 153, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEFENSOR SC
+  rotate: false
+  xy: 305, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEGIRMENLIK
+  rotate: false
+  xy: 457, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DELTING FC
+  rotate: false
+  xy: 609, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEMPO SC
+  rotate: false
+  xy: 761, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEPORTIVO MICTL�N
+  rotate: false
+  xy: 913, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEPORTIVO SAPRISSA
+  rotate: false
+  xy: 1065, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEPORTIVO TOLUCA
+  rotate: false
+  xy: 1217, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DERRY CITY
+  rotate: false
+  xy: 1369, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DESPORTIVO GUASTATOYA
+  rotate: false
+  xy: 1521, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEVONSHIRE COLTS
+  rotate: false
+  xy: 1673, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DEVONSHIRE COUGARS
+  rotate: false
+  xy: 1825, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DHJ EL-JADIDA
+  rotate: false
+  xy: 1977, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DHSOB AFC
+  rotate: false
+  xy: 2129, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DIAMOND FC
+  rotate: false
+  xy: 2281, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DIFFERDANGE-03
+  rotate: false
+  xy: 2433, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO BATUMI
+  rotate: false
+  xy: 2585, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO BREST
+  rotate: false
+  xy: 2737, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO MINSK
+  rotate: false
+  xy: 2889, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO MOSKVA
+  rotate: false
+  xy: 3041, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO SAMARQAND
+  rotate: false
+  xy: 3193, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO TBILISI
+  rotate: false
+  xy: 3345, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO ZAGREB
+  rotate: false
+  xy: 3497, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DINAMO-AUTO
+  rotate: false
+  xy: 3649, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DIRTEL TEAM
+  rotate: false
+  xy: 3801, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DI�SGY�RI
+  rotate: false
+  xy: 3953, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DJURGARDENS IF
+  rotate: false
+  xy: 1, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DOGAN T�RK
+  rotate: false
+  xy: 153, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DOMANT FC
+  rotate: false
+  xy: 305, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DON BOSCO FC
+  rotate: false
+  xy: 457, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DORADOS
+  rotate: false
+  xy: 609, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DPMM FC
+  rotate: false
+  xy: 761, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DRB TRADJENANET
+  rotate: false
+  xy: 913, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DRITA KF
+  rotate: false
+  xy: 1065, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DROGHEDA UNITED
+  rotate: false
+  xy: 1217, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DUNDALK FC
+  rotate: false
+  xy: 1369, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DUNDEE FC
+  rotate: false
+  xy: 1521, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DUNDEE UNITED
+  rotate: false
+  xy: 1673, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+DUNGANNON SWIFTS
+  rotate: false
+  xy: 1825, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EASTERN SALON
+  rotate: false
+  xy: 1977, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EASTERN STAR
+  rotate: false
+  xy: 2129, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EB STREYMUR
+  rotate: false
+  xy: 2281, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EINTRACHT-FRANKFURT
+  rotate: false
+  xy: 2433, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EL JAISH SC
+  rotate: false
+  xy: 2585, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ELECTRICIT�
+  rotate: false
+  xy: 2737, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ELITE SC
+  rotate: false
+  xy: 2889, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EMPOLI FC
+  rotate: false
+  xy: 3041, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ENOSIS NEON
+  rotate: false
+  xy: 3193, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EQALUK 54
+  rotate: false
+  xy: 3345, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ERAKOR GOLDEN STAR
+  rotate: false
+  xy: 3497, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ERCHIM CLUB
+  rotate: false
+  xy: 3649, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ERMIS FC
+  rotate: false
+  xy: 3801, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ES SETIF
+  rotate: false
+  xy: 3953, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ESBJERG FB
+  rotate: false
+  xy: 4105, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ESKISEHIRSPOR K
+  rotate: false
+  xy: 1, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ESTEGHLAL FC
+  rotate: false
+  xy: 153, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ESTEGHLAL TEHERAN
+  rotate: false
+  xy: 305, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ESTORIL PRAIA
+  rotate: false
+  xy: 457, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ESTUDIANTES
+  rotate: false
+  xy: 609, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ETZELLA-ETTELBR�CK
+  rotate: false
+  xy: 761, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EUROPA FC
+  rotate: false
+  xy: 913, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EVERTON
+  rotate: false
+  xy: 1065, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EXCELSIOR
+  rotate: false
+  xy: 1217, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+EZRA FC
+  rotate: false
+  xy: 1369, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+F91-DUDELANGE
+  rotate: false
+  xy: 1521, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FA SARAWAK
+  rotate: false
+  xy: 1673, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FA SELANGOR
+  rotate: false
+  xy: 1825, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FALKENBERGS FF
+  rotate: false
+  xy: 1977, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FAR RABAT
+  rotate: false
+  xy: 2129, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FB GULBENE
+  rotate: false
+  xy: 2281, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC 105
+  rotate: false
+  xy: 2433, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ACADEMIA
+  rotate: false
+  xy: 2585, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ARARAT
+  rotate: false
+  xy: 2737, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC AROUCA
+  rotate: false
+  xy: 2889, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ASHDOD
+  rotate: false
+  xy: 3041, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ASTRA
+  rotate: false
+  xy: 3193, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC BANANTS
+  rotate: false
+  xy: 3345, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC BAN�K
+  rotate: false
+  xy: 3497, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC BARCELONA
+  rotate: false
+  xy: 3649, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC BASEL
+  rotate: false
+  xy: 3801, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC BRITANNIA XI
+  rotate: false
+  xy: 3953, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC CAMAG�EY
+  rotate: false
+  xy: 4105, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC CFR
+  rotate: false
+  xy: 4257, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC CHAMAN
+  rotate: false
+  xy: 1, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC CHIKHURA
+  rotate: false
+  xy: 153, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC CIEGO
+  rotate: false
+  xy: 305, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC CIENFUEGOS
+  rotate: false
+  xy: 457, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC COSTULENI
+  rotate: false
+  xy: 609, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DAC
+  rotate: false
+  xy: 761, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DACIA
+  rotate: false
+  xy: 913, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DALLAS
+  rotate: false
+  xy: 1065, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DEREN-SUMIDA
+  rotate: false
+  xy: 1217, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DILA
+  rotate: false
+  xy: 1369, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DINAMO
+  rotate: false
+  xy: 1521, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC DOMAGNANO
+  rotate: false
+  xy: 1673, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ENCAMP
+  rotate: false
+  xy: 1825, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC FASTAV
+  rotate: false
+  xy: 1977, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC FIORENTINO
+  rotate: false
+  xy: 2129, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC FLORA
+  rotate: false
+  xy: 2281, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC GUANT�NAMO
+  rotate: false
+  xy: 2433, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC GUERDIA
+  rotate: false
+  xy: 2585, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC GURIA
+  rotate: false
+  xy: 2737, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC INTER MOENGO
+  rotate: false
+  xy: 2889, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC INTER TURKU
+  rotate: false
+  xy: 3041, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ISLA
+  rotate: false
+  xy: 3193, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC KOBENHAVN
+  rotate: false
+  xy: 3345, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC KOLKHETI
+  rotate: false
+  xy: 3497, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LAHTI
+  rotate: false
+  xy: 3649, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LEVADIA
+  rotate: false
+  xy: 3801, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LOKOMOTIVI
+  rotate: false
+  xy: 3953, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LUGANO
+  rotate: false
+  xy: 4105, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LUKA KOPER
+  rotate: false
+  xy: 4257, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LUSITANOS
+  rotate: false
+  xy: 4409, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC LUZERN
+  rotate: false
+  xy: 1, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC MALAMUK
+  rotate: false
+  xy: 153, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC MANU LAEVA
+  rotate: false
+  xy: 305, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC MERANI
+  rotate: false
+  xy: 457, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC MIDTJYLLAND
+  rotate: false
+  xy: 609, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC MIKA YEREVAN
+  rotate: false
+  xy: 761, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC NANUMAGA
+  rotate: false
+  xy: 913, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC NIUTAO
+  rotate: false
+  xy: 1065, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC NORDSJAELLAND
+  rotate: false
+  xy: 1217, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ONZE BRAVOS
+  rotate: false
+  xy: 1369, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ORDINO
+  rotate: false
+  xy: 1521, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC PA�OS
+  rotate: false
+  xy: 1673, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC PORT
+  rotate: false
+  xy: 1825, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC PORTO
+  rotate: false
+  xy: 1977, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC PYUNIK YEREVAN
+  rotate: false
+  xy: 2129, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC QUETTA
+  rotate: false
+  xy: 2281, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SA BOTOSANI
+  rotate: false
+  xy: 2433, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SABURTALO
+  rotate: false
+  xy: 2585, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SAMTREDIA
+  rotate: false
+  xy: 2737, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SAN NICOLAAS
+  rotate: false
+  xy: 2889, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SANCTI
+  rotate: false
+  xy: 3041, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SANTA COLOMA
+  rotate: false
+  xy: 3193, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SANTIAGO
+  rotate: false
+  xy: 3345, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SAPOVNELA
+  rotate: false
+  xy: 3497, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SAXAN GAGAUZ YERI
+  rotate: false
+  xy: 3649, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SELENGE PRESS
+  rotate: false
+  xy: 3801, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SHERIFF
+  rotate: false
+  xy: 3953, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SHUKURA
+  rotate: false
+  xy: 4105, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SION
+  rotate: false
+  xy: 4257, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SIONI
+  rotate: false
+  xy: 4409, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SKBC
+  rotate: false
+  xy: 4561, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SLOVAN
+  rotate: false
+  xy: 1, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SLOV�CKO
+  rotate: false
+  xy: 153, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SPARTAK
+  rotate: false
+  xy: 305, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ST GALLEN
+  rotate: false
+  xy: 457, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC SUOUROY
+  rotate: false
+  xy: 609, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC TERTONS
+  rotate: false
+  xy: 761, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC THUN
+  rotate: false
+  xy: 913, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC TIRASPOL
+  rotate: false
+  xy: 1065, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC TOFAGA
+  rotate: false
+  xy: 1217, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC TORPEDO
+  rotate: false
+  xy: 1369, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC TSKHINVALI
+  rotate: false
+  xy: 1521, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ULANBAATAR
+  rotate: false
+  xy: 1673, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VADUZ
+  rotate: false
+  xy: 1825, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VERIS
+  rotate: false
+  xy: 1977, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VIITORUL
+  rotate: false
+  xy: 2129, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VIKTORIA
+  rotate: false
+  xy: 2281, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VILLA CLARA
+  rotate: false
+  xy: 2433, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VION
+  rotate: false
+  xy: 2585, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VOLUNTARI
+  rotate: false
+  xy: 2737, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC VYSOCINA
+  rotate: false
+  xy: 2889, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ZARIA
+  rotate: false
+  xy: 3041, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ZBROJOVKA
+  rotate: false
+  xy: 3193, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ZIMBRU
+  rotate: false
+  xy: 3345, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ZUGDIDI
+  rotate: false
+  xy: 3497, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC ZURICH
+  rotate: false
+  xy: 3649, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC-AUGSBURG
+  rotate: false
+  xy: 3801, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC GRONINGEN
+  rotate: false
+  xy: 3953, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC-INGOLSTADT-04
+  rotate: false
+  xy: 4105, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC-K�LN
+  rotate: false
+  xy: 4257, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC TWENTE
+  rotate: false
+  xy: 4409, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FC UTRECHT
+  rotate: false
+  xy: 4561, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FD ZALGIRIS
+  rotate: false
+  xy: 4713, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FENERBAH�E SK
+  rotate: false
+  xy: 1, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FERENCV�ROSI
+  rotate: false
+  xy: 153, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FEYENOORD
+  rotate: false
+  xy: 305, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FF JARO JS
+  rotate: false
+  xy: 457, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FICA
+  rotate: false
+  xy: 609, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FIGUEIRENSE FC
+  rotate: false
+  xy: 761, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FIORENTINA
+  rotate: false
+  xy: 913, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FIVE ISLANDS FC
+  rotate: false
+  xy: 1065, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ABDYSH-ATA
+  rotate: false
+  xy: 1217, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK AHAL
+  rotate: false
+  xy: 1369, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK AKTOBE
+  rotate: false
+  xy: 1521, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ALA-TOO
+  rotate: false
+  xy: 1673, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ALAY OSH
+  rotate: false
+  xy: 1825, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ALGA
+  rotate: false
+  xy: 1977, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ALTYN
+  rotate: false
+  xy: 2129, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK AMKAR
+  rotate: false
+  xy: 2281, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ANZHI
+  rotate: false
+  xy: 2433, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK AS TRENCIN
+  rotate: false
+  xy: 2585, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ASGABAT
+  rotate: false
+  xy: 2737, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ASTANA
+  rotate: false
+  xy: 2889, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ATLANTAS
+  rotate: false
+  xy: 3041, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ATYRAU
+  rotate: false
+  xy: 3193, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BALKAN
+  rotate: false
+  xy: 3345, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BAUMIT
+  rotate: false
+  xy: 3497, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BODO
+  rotate: false
+  xy: 3649, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BOKELJ
+  rotate: false
+  xy: 3801, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BORAC CACAK
+  rotate: false
+  xy: 3953, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BORAC
+  rotate: false
+  xy: 4105, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BOTEV
+  rotate: false
+  xy: 4257, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BREGALNICA
+  rotate: false
+  xy: 4409, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK BUDUCNOST
+  rotate: false
+  xy: 4561, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK CHERNOMORETS
+  rotate: false
+  xy: 4713, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK CRVENA
+  rotate: false
+  xy: 4865, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK CUKARICIKI
+  rotate: false
+  xy: 1, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DALERON
+  rotate: false
+  xy: 153, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DASOGUZ
+  rotate: false
+  xy: 305, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DECIC
+  rotate: false
+  xy: 457, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DNIPRO
+  rotate: false
+  xy: 609, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DORDOI
+  rotate: false
+  xy: 761, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DRINA
+  rotate: false
+  xy: 913, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DUKLA
+  rotate: false
+  xy: 1065, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK DYNAMO KYIV
+  rotate: false
+  xy: 1217, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ENERGETIK
+  rotate: false
+  xy: 1369, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK GOMEL
+  rotate: false
+  xy: 1521, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK HAUGESUND
+  rotate: false
+  xy: 1673, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK HAZYNA
+  rotate: false
+  xy: 1825, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK HORIZONT
+  rotate: false
+  xy: 1977, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK HOVERLA
+  rotate: false
+  xy: 2129, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK IRTYSH
+  rotate: false
+  xy: 2281, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ISKRA
+  rotate: false
+  xy: 2433, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ISTIKLOL
+  rotate: false
+  xy: 2585, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK JAGODINA
+  rotate: false
+  xy: 2737, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK JAVOR
+  rotate: false
+  xy: 2889, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK JELGAVA
+  rotate: false
+  xy: 3041, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KAISAR
+  rotate: false
+  xy: 3193, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KARPATY
+  rotate: false
+  xy: 3345, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KHUJAND
+  rotate: false
+  xy: 3497, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KLAIPEDOS
+  rotate: false
+  xy: 3649, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KRASNODAR
+  rotate: false
+  xy: 3801, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KRUOJA
+  rotate: false
+  xy: 3953, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KRYLIA
+  rotate: false
+  xy: 4105, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KUBAN
+  rotate: false
+  xy: 4257, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK KUKESI
+  rotate: false
+  xy: 4409, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK LIEPAJA
+  rotate: false
+  xy: 4561, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK LOKOMOTIV MOSKVA
+  rotate: false
+  xy: 4713, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK LOVCEN
+  rotate: false
+  xy: 4865, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MASH
+  rotate: false
+  xy: 5017, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MERW MARY
+  rotate: false
+  xy: 1, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK METALAC
+  rotate: false
+  xy: 153, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK METALIST
+  rotate: false
+  xy: 305, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK METALURG
+  rotate: false
+  xy: 457, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK METALURH
+  rotate: false
+  xy: 609, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MINSK
+  rotate: false
+  xy: 761, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MLADOST CAREV
+  rotate: false
+  xy: 913, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MLADOST LUCANI
+  rotate: false
+  xy: 1065, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MLADOST PODGORICA
+  rotate: false
+  xy: 1217, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MLADOST
+  rotate: false
+  xy: 1369, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MLAD�
+  rotate: false
+  xy: 1521, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MORDOVIA
+  rotate: false
+  xy: 1673, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK MORNAR
+  rotate: false
+  xy: 1825, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK NEFTCHI
+  rotate: false
+  xy: 1977, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK NOVI
+  rotate: false
+  xy: 2129, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK OKZHETPES
+  rotate: false
+  xy: 2281, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK OLEKSANDRIYA
+  rotate: false
+  xy: 2433, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK OLIMPIC
+  rotate: false
+  xy: 2585, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK OLIMPIK DONETSK
+  rotate: false
+  xy: 2737, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ORDABASY
+  rotate: false
+  xy: 2889, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK PAKHTAKOR
+  rotate: false
+  xy: 3041, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK PARTIZAN
+  rotate: false
+  xy: 3193, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK PARTIZANI
+  rotate: false
+  xy: 3345, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK PARVOZ
+  rotate: false
+  xy: 3497, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK PRIBRAM
+  rotate: false
+  xy: 3649, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RABOTNICKI
+  rotate: false
+  xy: 3801, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RAD BEOGRAD
+  rotate: false
+  xy: 3953, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RADNICKI
+  rotate: false
+  xy: 4105, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RADNIK SURDULICA
+  rotate: false
+  xy: 4257, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RADNIK
+  rotate: false
+  xy: 4409, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RAVSHAN
+  rotate: false
+  xy: 4561, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK REGAR
+  rotate: false
+  xy: 4713, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ROSTOV
+  rotate: false
+  xy: 4865, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RUBIN KAZAN
+  rotate: false
+  xy: 5017, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK RUDAR
+  rotate: false
+  xy: 5169, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SAGADAM
+  rotate: false
+  xy: 1, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SARAJEVO
+  rotate: false
+  xy: 153, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SENICA
+  rotate: false
+  xy: 305, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SHAKHTAR DONETSK
+  rotate: false
+  xy: 457, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SHAKHTYOR
+  rotate: false
+  xy: 609, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SHKUPI
+  rotate: false
+  xy: 761, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SIAULIAI
+  rotate: false
+  xy: 913, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SLAVIJA
+  rotate: false
+  xy: 1065, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SLAVIYA-MOZYR
+  rotate: false
+  xy: 1217, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SLOBODA
+  rotate: false
+  xy: 1369, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SPARTAK SUBOTICA
+  rotate: false
+  xy: 1521, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SPARTAKS JURMALA
+  rotate: false
+  xy: 1673, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SPYRIS
+  rotate: false
+  xy: 1825, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK STUMBRAS
+  rotate: false
+  xy: 1977, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SUDUVA
+  rotate: false
+  xy: 2129, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK SUTJESKA
+  rotate: false
+  xy: 2281, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK TARAZ
+  rotate: false
+  xy: 2433, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK TEPLICE
+  rotate: false
+  xy: 2585, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK TOBOL
+  rotate: false
+  xy: 2737, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK TORPEDO
+  rotate: false
+  xy: 2889, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK TRAKAI
+  rotate: false
+  xy: 3041, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK UFA
+  rotate: false
+  xy: 3193, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK URAL
+  rotate: false
+  xy: 3345, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK UTENIS
+  rotate: false
+  xy: 3497, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VAKHSH
+  rotate: false
+  xy: 3649, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VARDAR
+  rotate: false
+  xy: 3801, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VELEZ
+  rotate: false
+  xy: 3953, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VENTSPILS
+  rotate: false
+  xy: 4105, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VITEBSK
+  rotate: false
+  xy: 4257, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VLLAZNIA SHKODER
+  rotate: false
+  xy: 4409, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VOJVODINA
+  rotate: false
+  xy: 4561, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VOLYN
+  rotate: false
+  xy: 4713, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VORSKLA
+  rotate: false
+  xy: 4865, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK VOZDOVAC
+  rotate: false
+  xy: 5017, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK XAYR
+  rotate: false
+  xy: 5169, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ZELJEZNICAR
+  rotate: false
+  xy: 5321, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ZENIT
+  rotate: false
+  xy: 1, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ZETA
+  rotate: false
+  xy: 153, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ZHETYSU
+  rotate: false
+  xy: 305, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FK ZORJA
+  rotate: false
+  xy: 457, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FLORIANA FC
+  rotate: false
+  xy: 609, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FLUMINENSE
+  rotate: false
+  xy: 761, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FO ZP SPORT
+  rotate: false
+  xy: 913, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FOLA-ESCH
+  rotate: false
+  xy: 1065, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FOOLAD FC
+  rotate: false
+  xy: 1217, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FOOLAD MOBARAKEH
+  rotate: false
+  xy: 1369, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FOOLAD NOVIN
+  rotate: false
+  xy: 1521, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FORT ROAD FC
+  rotate: false
+  xy: 1673, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FORTITUDO 2007
+  rotate: false
+  xy: 1825, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FREE STATE STARS
+  rotate: false
+  xy: 1977, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FROSINONE CALCIO
+  rotate: false
+  xy: 2129, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FS METTA
+  rotate: false
+  xy: 2281, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FSV-MAINZ-05
+  rotate: false
+  xy: 2433, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FUS RABAT
+  rotate: false
+  xy: 2585, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+G-44 QUEQERTARSUAQ
+  rotate: false
+  xy: 2737, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GALATASARAY SK
+  rotate: false
+  xy: 2889, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GALWAY UNITED
+  rotate: false
+  xy: 3041, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GANDZASAR FC
+  rotate: false
+  xy: 3193, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GAP CONNAHS
+  rotate: false
+  xy: 3345, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GAZIANTEPSPOR K
+  rotate: false
+  xy: 3497, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GAZ�LEC-AJACCIO
+  rotate: false
+  xy: 3649, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GD INTERCLUBE
+  rotate: false
+  xy: 3801, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GD SAGRADA EXPERANCA
+  rotate: false
+  xy: 3953, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GEFLE IF
+  rotate: false
+  xy: 4105, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GENCLERBIRLIGI SK
+  rotate: false
+  xy: 4257, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GENK
+  rotate: false
+  xy: 4409, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GENOA CFC
+  rotate: false
+  xy: 4561, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GENT
+  rotate: false
+  xy: 4713, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GEORGE TOWN
+  rotate: false
+  xy: 4865, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GETAFE CF
+  rotate: false
+  xy: 5017, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GEYLANG INTERNATIONAL
+  rotate: false
+  xy: 5169, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GHAJNSIELEM FC
+  rotate: false
+  xy: 5321, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GIF SUNDSVALL
+  rotate: false
+  xy: 5473, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GIMNASIA
+  rotate: false
+  xy: 1, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GKS GORNIK
+  rotate: false
+  xy: 153, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GKS PIAST
+  rotate: false
+  xy: 305, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GLACIS UNITED FC
+  rotate: false
+  xy: 457, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GLENAVON FC
+  rotate: false
+  xy: 609, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GLENTORAN FC
+  rotate: false
+  xy: 761, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GLOBAL FC
+  rotate: false
+  xy: 913, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GOIAS EC
+  rotate: false
+  xy: 1065, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GOLDEN ARROWS
+  rotate: false
+  xy: 1217, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GOSTARESH FOOLAD
+  rotate: false
+  xy: 1369, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GRANADA CF
+  rotate: false
+  xy: 1521, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GRASSHOPPER CLUB
+  rotate: false
+  xy: 1673, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GREEN ARCHERS
+  rotate: false
+  xy: 1825, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GREENBAY HOPPERS
+  rotate: false
+  xy: 1977, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GRENADES FC
+  rotate: false
+  xy: 2129, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GRESIK UNITED
+  rotate: false
+  xy: 2281, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GREMIO
+  rotate: false
+  xy: 2433, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GS NIKI VOLOS
+  rotate: false
+  xy: 2585, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GUANGZHOU FC
+  rotate: false
+  xy: 2737, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GUANGZHOU
+  rotate: false
+  xy: 2889, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GUERNSEY RANGERS
+  rotate: false
+  xy: 3041, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GUERNSEY ROVERS
+  rotate: false
+  xy: 3193, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GUINGAMP
+  rotate: false
+  xy: 3345, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GUIZHOU RENHE
+  rotate: false
+  xy: 3497, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+GULF SARABURI
+  rotate: false
+  xy: 3649, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAFNARFJ�ROUR
+  rotate: false
+  xy: 3801, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAJDUK SPLIT
+  rotate: false
+  xy: 3953, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAJER FC
+  rotate: false
+  xy: 4105, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HALMSTADS BK
+  rotate: false
+  xy: 4257, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAMBURGER-SV
+  rotate: false
+  xy: 4409, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAMILTON FC
+  rotate: false
+  xy: 4561, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAMILTON PARISH
+  rotate: false
+  xy: 4713, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAMMARBY IF
+  rotate: false
+  xy: 4865, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HANA FC
+  rotate: false
+  xy: 5017, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HANGSZHOU GREENTOWN
+  rotate: false
+  xy: 5169, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HANNOVER-96
+  rotate: false
+  xy: 5321, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL BEER
+  rotate: false
+  xy: 5473, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL HAIFA
+  rotate: false
+  xy: 5625, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL IRONI ACRE
+  rotate: false
+  xy: 1, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL IRONI
+  rotate: false
+  xy: 153, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL PETAH
+  rotate: false
+  xy: 305, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL TEL AVIV
+  rotate: false
+  xy: 457, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAPOEL
+  rotate: false
+  xy: 609, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HARBOUR VIEW
+  rotate: false
+  xy: 761, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HARIMAU MUDA
+  rotate: false
+  xy: 913, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HASAN CLUB
+  rotate: false
+  xy: 1065, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAVERFORDWEST COUNTY
+  rotate: false
+  xy: 1217, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HAWKES BAY UNITED
+  rotate: false
+  xy: 1369, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HB
+  rotate: false
+  xy: 1521, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HEART OF MIDLOTHIAN
+  rotate: false
+  xy: 1673, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HEKARI UNITED
+  rotate: false
+  xy: 1825, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HELLAS VERONA
+  rotate: false
+  xy: 1977, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HELSINGBORGS IF
+  rotate: false
+  xy: 2129, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HENAN JIANYE FC
+  rotate: false
+  xy: 2281, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HERACLES ALMELO
+  rotate: false
+  xy: 2433, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HERTHA-BSC
+  rotate: false
+  xy: 2585, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HIBERNIANS FC
+  rotate: false
+  xy: 2737, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HIFK SOCCER
+  rotate: false
+  xy: 2889, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HJK
+  rotate: false
+  xy: 3041, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HNK RIJEKA
+  rotate: false
+  xy: 3193, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HOANG ANH
+  rotate: false
+  xy: 3345, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HOBRO IK
+  rotate: false
+  xy: 3497, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HOME UNITED
+  rotate: false
+  xy: 3649, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HOUGANG UNITED
+  rotate: false
+  xy: 3801, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HOUSTON DYNAMO
+  rotate: false
+  xy: 3953, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HRANIT MIKASEVICHY
+  rotate: false
+  xy: 4105, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HTTU ASGABAT
+  rotate: false
+  xy: 4257, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HUMBLE LIONS
+  rotate: false
+  xy: 4409, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HUNDURAS PROGRESO
+  rotate: false
+  xy: 4561, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+HUS AGADIR
+  rotate: false
+  xy: 4713, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IASA
+  rotate: false
+  xy: 4865, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IF ELFSBORG
+  rotate: false
+  xy: 5017, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IFIRA BLACK BIRD
+  rotate: false
+  xy: 5169, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IFK GOTEBORG
+  rotate: false
+  xy: 5321, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IFK MARIEHAMN
+  rotate: false
+  xy: 5473, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IFK NORRKOPING
+  rotate: false
+  xy: 5625, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IHOUD BNEI
+  rotate: false
+  xy: 5777, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IK START
+  rotate: false
+  xy: 1, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ILVES TAMPERE
+  rotate: false
+  xy: 153, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INDEPENDIENTE FC
+  rotate: false
+  xy: 305, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INTER GODFATHERS
+  rotate: false
+  xy: 457, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INTER PFK
+  rotate: false
+  xy: 609, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INTER ZAPRESIC
+  rotate: false
+  xy: 761, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INTER
+  rotate: false
+  xy: 913, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INTERNAZIONALE
+  rotate: false
+  xy: 1065, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+INVERNESS CALEDONIAN
+  rotate: false
+  xy: 1217, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ISTANBUL BASAKSEHIR
+  rotate: false
+  xy: 1369, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IT-79 NUUK
+  rotate: false
+  xy: 1521, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IZ KH�MISSET
+  rotate: false
+  xy: 1673, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JADONGCHA
+  rotate: false
+  xy: 1825, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JAGIELLONIA
+  rotate: false
+  xy: 1977, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JEUNESSE-DESCH
+  rotate: false
+  xy: 2129, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JIANGSU
+  rotate: false
+  xy: 2281, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JK NARVA
+  rotate: false
+  xy: 2433, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JK SILLAM�E
+  rotate: false
+  xy: 2585, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JK TRAMMEKA
+  rotate: false
+  xy: 2737, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JK VILJANDI
+  rotate: false
+  xy: 2889, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JOHOR DARUL
+  rotate: false
+  xy: 3041, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JOINVILLE EC
+  rotate: false
+  xy: 3193, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JOMO COSMOS
+  rotate: false
+  xy: 3345, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JS KABYLIE
+  rotate: false
+  xy: 3497, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JS SAOURA
+  rotate: false
+  xy: 3649, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+JUVENTUS
+  rotate: false
+  xy: 3801, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+K-ELECTRIC FC
+  rotate: false
+  xy: 3953, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KABUSCORP SC
+  rotate: false
+  xy: 4105, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KAIRAT ALMATY
+  rotate: false
+  xy: 4257, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KAIZER CHIEFS
+  rotate: false
+  xy: 4409, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KALMAR FF
+  rotate: false
+  xy: 4561, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KALYANI BHARAT
+  rotate: false
+  xy: 4713, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KARACHI
+  rotate: false
+  xy: 4865, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KASIMPASA SK
+  rotate: false
+  xy: 5017, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KAWKAB AC
+  rotate: false
+  xy: 5169, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KAYA FC
+  rotate: false
+  xy: 5321, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KAYSERISPOR K
+  rotate: false
+  xy: 5473, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KELANTAN FA
+  rotate: false
+  xy: 5625, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KENITRA AC
+  rotate: false
+  xy: 5777, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KERCEM AJAX FC
+  rotate: false
+  xy: 5929, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF BESA PEJE
+  rotate: false
+  xy: 1, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF DRENICA
+  rotate: false
+  xy: 153, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF FERIZAJ
+  rotate: false
+  xy: 305, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF FERRONIKELI
+  rotate: false
+  xy: 457, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF HAJVALIA
+  rotate: false
+  xy: 609, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF ISTOGU
+  rotate: false
+  xy: 761, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF KEFLAV�K
+  rotate: false
+  xy: 913, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF LACI
+  rotate: false
+  xy: 1065, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF LLAMKOS
+  rotate: false
+  xy: 1217, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF PRISHTINA
+  rotate: false
+  xy: 1369, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF RENOVA
+  rotate: false
+  xy: 1521, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF SHK�NDIJA
+  rotate: false
+  xy: 1673, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF SKENDERBEU KORCE
+  rotate: false
+  xy: 1825, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF TEUTA DURRES
+  rotate: false
+  xy: 1977, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF TIRANE
+  rotate: false
+  xy: 2129, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF TREPCA MITROVICE
+  rotate: false
+  xy: 2281, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF TREPCA
+  rotate: false
+  xy: 2433, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF TERBUNI
+  rotate: false
+  xy: 2585, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF VALUR
+  rotate: false
+  xy: 2737, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF V�LLAZNIMI
+  rotate: false
+  xy: 2889, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KF V�KINGUR
+  rotate: false
+  xy: 3041, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KG UNITED
+  rotate: false
+  xy: 3193, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KHANGARID CLUB
+  rotate: false
+  xy: 3345, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KHOROMKHON CLUB
+  rotate: false
+  xy: 3497, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KICKS UNITED FC
+  rotate: false
+  xy: 3649, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KILMARNOCK FC
+  rotate: false
+  xy: 3801, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KINGFISHER
+  rotate: false
+  xy: 3953, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KIRIVONG FC
+  rotate: false
+  xy: 4105, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KITCHEE SC
+  rotate: false
+  xy: 4257, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KKS LECH
+  rotate: false
+  xy: 4409, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KL FELDA UNITED
+  rotate: false
+  xy: 4561, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KOLOALE FC
+  rotate: false
+  xy: 4713, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KORONA KIELCE
+  rotate: false
+  xy: 4865, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KORTRIJK
+  rotate: false
+  xy: 5017, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KOSSA FC
+  rotate: false
+  xy: 5169, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KOTKA TP
+  rotate: false
+  xy: 5321, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KR REYKJAV�K
+  rotate: false
+  xy: 5473, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KRL FC
+  rotate: false
+  xy: 5625, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KS BYLIS BALLSHI
+  rotate: false
+  xy: 5777, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KS FLAMURTARI VLORE
+  rotate: false
+  xy: 5929, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KS LECHIA
+  rotate: false
+  xy: 6081, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KS RUCH
+  rotate: false
+  xy: 1, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KS TERMALICA
+  rotate: false
+  xy: 153, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KUOPION PS
+  rotate: false
+  xy: 305, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+KV OOSTENDE
+  rotate: false
+  xy: 457, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+K�
+  rotate: false
+  xy: 609, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+K�C�K KAYMAKLI
+  rotate: false
+  xy: 761, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LA HABANA
+  rotate: false
+  xy: 913, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LABASA FC
+  rotate: false
+  xy: 1065, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAE CITY DWELLERS
+  rotate: false
+  xy: 1217, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAI CHI
+  rotate: false
+  xy: 1369, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAKENA UNITED
+  rotate: false
+  xy: 1521, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LANEXANG UNITED
+  rotate: false
+  xy: 1673, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAO POLICE
+  rotate: false
+  xy: 1825, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAO TOYOTA
+  rotate: false
+  xy: 1977, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LARNAKA GEN�LER
+  rotate: false
+  xy: 2129, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAUTOKA FC
+  rotate: false
+  xy: 2281, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAXEY AFC
+  rotate: false
+  xy: 2433, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LAZIO
+  rotate: false
+  xy: 2585, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LD ALAJUELENSE
+  rotate: false
+  xy: 2737, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEFKE TSK
+  rotate: false
+  xy: 2889, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEGIA WARSZAWA
+  rotate: false
+  xy: 3041, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEICESTER CITY
+  rotate: false
+  xy: 3193, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEIKNIR
+  rotate: false
+  xy: 3345, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEKHWIYA SC
+  rotate: false
+  xy: 3497, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LERWICK CELTIC
+  rotate: false
+  xy: 3649, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LERWICK SPURS
+  rotate: false
+  xy: 3801, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LERWICK THISTLE
+  rotate: false
+  xy: 3953, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEVADEIAKOS
+  rotate: false
+  xy: 4105, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LEVANTE UD
+  rotate: false
+  xy: 4257, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LIAONING
+  rotate: false
+  xy: 4409, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LILLE
+  rotate: false
+  xy: 4561, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LILLESTROM SK
+  rotate: false
+  xy: 4713, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LIMERICK FC
+  rotate: false
+  xy: 4865, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LIM�N FC
+  rotate: false
+  xy: 5017, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LINCOLN RED IMPS
+  rotate: false
+  xy: 5169, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LINFIELD FC
+  rotate: false
+  xy: 5321, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LION HEART FC
+  rotate: false
+  xy: 5473, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LIONS FC
+  rotate: false
+  xy: 5625, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LIONS XII
+  rotate: false
+  xy: 5777, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LIVERPOOL
+  rotate: false
+  xy: 5929, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LLANDUDNO FC
+  rotate: false
+  xy: 6081, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LOCOMOTIVE SPORTS GROUP
+  rotate: false
+  xy: 6233, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LOKEREN
+  rotate: false
+  xy: 1, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LOKOMOTIV TOSHKENT
+  rotate: false
+  xy: 153, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LONGFORD TOWN
+  rotate: false
+  xy: 305, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LORIENT
+  rotate: false
+  xy: 457, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LOS ANGELES GALAXY
+  rotate: false
+  xy: 609, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+LYNX FC
+  rotate: false
+  xy: 761, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MACCABI HAIFA
+  rotate: false
+  xy: 913, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MACCABI NETANYA
+  rotate: false
+  xy: 1065, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MACCABI PETAH
+  rotate: false
+  xy: 1217, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MACCABI TEL AVIV
+  rotate: false
+  xy: 1369, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MADANG FC
+  rotate: false
+  xy: 1521, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAGHREB AS
+  rotate: false
+  xy: 1673, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAGUSA T�RK
+  rotate: false
+  xy: 1825, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAHIBADHOO ZJ
+  rotate: false
+  xy: 1977, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MALAGA CF
+  rotate: false
+  xy: 2129, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MALAITA KINGZ
+  rotate: false
+  xy: 2281, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MALAVAN BANDAR
+  rotate: false
+  xy: 2433, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MALMO FF
+  rotate: false
+  xy: 2585, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAMELODI SUNDOWNS
+  rotate: false
+  xy: 2737, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MANCHESTER 62 FC
+  rotate: false
+  xy: 2889, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MANCHESTER CITY
+  rotate: false
+  xy: 3041, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MANCHESTER UNITED
+  rotate: false
+  xy: 3193, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MANILA JEEPNEY
+  rotate: false
+  xy: 3345, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MARIST FIRE FC
+  rotate: false
+  xy: 3497, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MARITZBURG UNITED
+  rotate: false
+  xy: 3649, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAWJHAI AMU
+  rotate: false
+  xy: 3801, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAZAALAYNUUD CLUB
+  rotate: false
+  xy: 3953, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MAZIYA SRC
+  rotate: false
+  xy: 4105, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MC ALGER
+  rotate: false
+  xy: 4257, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MC ORAN
+  rotate: false
+  xy: 4409, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MECHELEN
+  rotate: false
+  xy: 4561, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MEDICANA K
+  rotate: false
+  xy: 4713, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MELBOURNE CITY
+  rotate: false
+  xy: 4865, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MELBOURNE VICTORY
+  rotate: false
+  xy: 5017, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MERSIN IDMAN
+  rotate: false
+  xy: 5169, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+METALURH FK
+  rotate: false
+  xy: 5321, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MFA DEVELOPMENT
+  rotate: false
+  xy: 5473, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MFK RUZOMBEROK
+  rotate: false
+  xy: 5625, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MFK SKALICA
+  rotate: false
+  xy: 5777, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MFK ZEMPLIN
+  rotate: false
+  xy: 5929, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MILSAMI ORHEI
+  rotate: false
+  xy: 6081, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MISSILE FC
+  rotate: false
+  xy: 6233, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MJONDALEN IF
+  rotate: false
+  xy: 6385, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MKS CRACOVIA
+  rotate: false
+  xy: 1, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MKS POGON
+  rotate: false
+  xy: 153, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MO BEJAIA
+  rotate: false
+  xy: 305, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOGHREB ATHLETIC
+  rotate: false
+  xy: 457, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOHUN BAGAN AC
+  rotate: false
+  xy: 609, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOLDE FK
+  rotate: false
+  xy: 761, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONACO
+  rotate: false
+  xy: 913, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONARCAS MOREILIA
+  rotate: false
+  xy: 1065, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONDORF-LES-BAINS
+  rotate: false
+  xy: 1217, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONTEGO BAY UNITED
+  rotate: false
+  xy: 1369, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONTEVIDEO WANDERERS
+  rotate: false
+  xy: 1521, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONTPELLIER
+  rotate: false
+  xy: 1673, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MONTREAL IMPACT
+  rotate: false
+  xy: 1825, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOREIRENSE FC
+  rotate: false
+  xy: 1977, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MORMENEKSE
+  rotate: false
+  xy: 2129, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOSTA FC
+  rotate: false
+  xy: 2281, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOTHERWELL FC
+  rotate: false
+  xy: 2433, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MOUSCRON-PERUWELZ
+  rotate: false
+  xy: 2585, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MP UNITED FC
+  rotate: false
+  xy: 2737, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MSK ZILINA
+  rotate: false
+  xy: 2889, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MTK BUDAPEST
+  rotate: false
+  xy: 3041, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MUMBAI FC
+  rotate: false
+  xy: 3193, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MUNICIPAL LIBERIA
+  rotate: false
+  xy: 3345, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MUSEI VATICANI
+  rotate: false
+  xy: 3497, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MUSLIM FC
+  rotate: false
+  xy: 3649, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NA HUSSEIN-DEY
+  rotate: false
+  xy: 3801, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NADI FA
+  rotate: false
+  xy: 3953, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NADROGA FC
+  rotate: false
+  xy: 4105, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NADUR YOUNGSTERS FC
+  rotate: false
+  xy: 4257, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAFT TEHERAN
+  rotate: false
+  xy: 4409, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAFTAN NOVOPOLATSK
+  rotate: false
+  xy: 4561, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAGAWORLD FC
+  rotate: false
+  xy: 4713, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAGDLUNGUAQ-48
+  rotate: false
+  xy: 4865, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAGTORALIK N-45
+  rotate: false
+  xy: 5017, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAJRAN SC
+  rotate: false
+  xy: 5169, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAKHON FC
+  rotate: false
+  xy: 5321, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NANTES
+  rotate: false
+  xy: 5473, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAPOLI
+  rotate: false
+  xy: 5625, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NASAF QARSHI
+  rotate: false
+  xy: 5777, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NATIONAL DEFENSE
+  rotate: false
+  xy: 5929, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NATIONAL POLICE
+  rotate: false
+  xy: 6081, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAUTI FC
+  rotate: false
+  xy: 6233, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NAXXAR LIONS FC
+  rotate: false
+  xy: 6385, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NBP FC
+  rotate: false
+  xy: 6537, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ND GORICA
+  rotate: false
+  xy: 1, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEC
+  rotate: false
+  xy: 153, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEFTCI PFK
+  rotate: false
+  xy: 305, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEMAN GRODNO
+  rotate: false
+  xy: 457, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NESS UNITED
+  rotate: false
+  xy: 609, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEW ENGLAND REVOLUTION
+  rotate: false
+  xy: 761, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEW RADIANT SC
+  rotate: false
+  xy: 913, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEW YORK CITY
+  rotate: false
+  xy: 1065, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEW YORK RED BULLS
+  rotate: false
+  xy: 1217, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEWCASTLE UNITED JETS
+  rotate: false
+  xy: 1369, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEWCASTLE UNITED
+  rotate: false
+  xy: 1521, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NEWTOWN AFC
+  rotate: false
+  xy: 1673, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NICE
+  rotate: false
+  xy: 1825, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK CELIK
+  rotate: false
+  xy: 1977, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK CELJE
+  rotate: false
+  xy: 2129, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK DOMZALE
+  rotate: false
+  xy: 2281, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK ISTRA
+  rotate: false
+  xy: 2433, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK KRKA
+  rotate: false
+  xy: 2585, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK KRSKO
+  rotate: false
+  xy: 2737, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK LOKOMOTIVA
+  rotate: false
+  xy: 2889, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK MARIBOR
+  rotate: false
+  xy: 3041, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK OLIMPIJA LJUBLJANA
+  rotate: false
+  xy: 3193, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK OSIJEK
+  rotate: false
+  xy: 3345, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK RUDAR
+  rotate: false
+  xy: 3497, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK SIROKI
+  rotate: false
+  xy: 3649, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK SLAVEN
+  rotate: false
+  xy: 3801, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK TRAVNIK
+  rotate: false
+  xy: 3953, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK VITEZ
+  rotate: false
+  xy: 4105, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK ZAGREB
+  rotate: false
+  xy: 4257, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK ZAVRC
+  rotate: false
+  xy: 4409, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NK ZVIJEZDA
+  rotate: false
+  xy: 4561, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NOMME JK
+  rotate: false
+  xy: 4713, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NORTH VILLAGE
+  rotate: false
+  xy: 4865, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NORTHERNERS AC
+  rotate: false
+  xy: 5017, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NORWICH CITY
+  rotate: false
+  xy: 5169, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NS� RUNAV�K
+  rotate: false
+  xy: 5321, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NUI FC
+  rotate: false
+  xy: 5473, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NUUK IL
+  rotate: false
+  xy: 5625, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+O MBILAZIAMI
+  rotate: false
+  xy: 5777, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OC KHOURIGBA
+  rotate: false
+  xy: 5929, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OC SAFI
+  rotate: false
+  xy: 6081, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ODDS BK
+  rotate: false
+  xy: 6233, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ODENSE BK
+  rotate: false
+  xy: 6385, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OFI
+  rotate: false
+  xy: 6537, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OFK BEOGRAD
+  rotate: false
+  xy: 6689, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OFK GRBALJ
+  rotate: false
+  xy: 1, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OFK PETROVAC
+  rotate: false
+  xy: 153, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OFK PIRIN
+  rotate: false
+  xy: 305, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OH LEUVEN
+  rotate: false
+  xy: 457, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OLD ROAD FC
+  rotate: false
+  xy: 609, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OLMALIQ FK
+  rotate: false
+  xy: 761, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OLYMPIQUE-LYONNAIS
+  rotate: false
+  xy: 913, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OLYMPIQUE-MARSEILLE
+  rotate: false
+  xy: 1065, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OQABAN HINDUKUSH
+  rotate: false
+  xy: 1217, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ORATORY YOUTHS
+  rotate: false
+  xy: 1369, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OREBRO SK
+  rotate: false
+  xy: 1521, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ORLANDO CITY
+  rotate: false
+  xy: 1673, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ORLANDO PIRATES
+  rotate: false
+  xy: 1825, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ORO FC
+  rotate: false
+  xy: 1977, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OSMANLISPOR FK
+  rotate: false
+  xy: 2129, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OSOTSPA
+  rotate: false
+  xy: 2281, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OTTOS RANGERS FC
+  rotate: false
+  xy: 2433, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+OUANAMINTHE FC
+  rotate: false
+  xy: 2585, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PACHANGA DILIMAN
+  rotate: false
+  xy: 2737, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PADIDEH SHAANDIZ
+  rotate: false
+  xy: 2889, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE ENOSIS
+  rotate: false
+  xy: 3041, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE KALLONIS
+  rotate: false
+  xy: 3193, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE KERKYRA
+  rotate: false
+  xy: 3345, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE OLYMPIAKOS
+  rotate: false
+  xy: 3497, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE PANIONIOS
+  rotate: false
+  xy: 3649, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE PLATANIAS
+  rotate: false
+  xy: 3801, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAE V�ROIA
+  rotate: false
+  xy: 3953, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAFOS FC
+  rotate: false
+  xy: 4105, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAHANG FA
+  rotate: false
+  xy: 4257, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAIDE LINNAMEESKOND
+  rotate: false
+  xy: 4409, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAIRE FC
+  rotate: false
+  xy: 4561, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAKISTAN AIR FORCE
+  rotate: false
+  xy: 4713, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAKISTAN ARMY
+  rotate: false
+  xy: 4865, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAKISTAN RAILWAYS
+  rotate: false
+  xy: 5017, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAKSI FC
+  rotate: false
+  xy: 5169, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PANAITOLIK�S
+  rotate: false
+  xy: 5321, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PANATHINAIKOS
+  rotate: false
+  xy: 5473, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PANSA SC
+  rotate: false
+  xy: 5625, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PANTHRAKIKOS
+  rotate: false
+  xy: 5777, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAOK FC
+  rotate: false
+  xy: 5929, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PARHAM FC
+  rotate: false
+  xy: 6081, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PARO UNITED
+  rotate: false
+  xy: 6233, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PARTICK THISTLE
+  rotate: false
+  xy: 6385, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PAS GIANNINA
+  rotate: false
+  xy: 6537, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PEC ZWOLLE
+  rotate: false
+  xy: 6689, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PEEL AFC
+  rotate: false
+  xy: 6841, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PELITA
+  rotate: false
+  xy: 1, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PEMBROKE ATHLETA
+  rotate: false
+  xy: 153, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PENYA ENCARNADA
+  rotate: false
+  xy: 305, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERAK FA
+  rotate: false
+  xy: 457, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSEBAYA
+  rotate: false
+  xy: 609, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSELA
+  rotate: false
+  xy: 761, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSEPOLIS
+  rotate: false
+  xy: 913, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSERU
+  rotate: false
+  xy: 1065, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSIB
+  rotate: false
+  xy: 1217, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSIBA
+  rotate: false
+  xy: 1369, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSIJA JAKARTA
+  rotate: false
+  xy: 1521, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSIPURA
+  rotate: false
+  xy: 1673, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERSIRAM
+  rotate: false
+  xy: 1825, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PERTH GLORY FC
+  rotate: false
+  xy: 1977, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PETROFAC FC
+  rotate: false
+  xy: 2129, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK ANDIJON
+  rotate: false
+  xy: 2281, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK BEROE STARA
+  rotate: false
+  xy: 2433, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK CHERNO
+  rotate: false
+  xy: 2585, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK JIZZAX
+  rotate: false
+  xy: 2737, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK LEVSKI
+  rotate: false
+  xy: 2889, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK LITEX
+  rotate: false
+  xy: 3041, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK LOKOMOTIV
+  rotate: false
+  xy: 3193, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK LUDOGORETS
+  rotate: false
+  xy: 3345, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK METALOURG
+  rotate: false
+  xy: 3497, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK MONTANA
+  rotate: false
+  xy: 3649, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK NAVBAHOR
+  rotate: false
+  xy: 3801, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK QIZILQUM
+  rotate: false
+  xy: 3953, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PFK SLAVIA
+  rotate: false
+  xy: 4105, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PHC ZEBRAS
+  rotate: false
+  xy: 4257, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PHILADELPHIA UNION
+  rotate: false
+  xy: 4409, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PHNOM PENH CROWN
+  rotate: false
+  xy: 4561, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PHOENIX FC
+  rotate: false
+  xy: 4713, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WELLINGTON PHOENIX
+  rotate: false
+  xy: 4713, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PIA FC
+  rotate: false
+  xy: 4865, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PLATINUM STARS
+  rotate: false
+  xy: 5017, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+POLICE NATIONALE
+  rotate: false
+  xy: 5169, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+POLICIA
+  rotate: false
+  xy: 5321, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+POLIS DI-RAJA
+  rotate: false
+  xy: 5473, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+POLOKWANE CITY
+  rotate: false
+  xy: 5625, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PORT FC
+  rotate: false
+  xy: 5777, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PORT TALBOT
+  rotate: false
+  xy: 5929, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PORT-GENTIL FC
+  rotate: false
+  xy: 6081, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PORTADOWN FC
+  rotate: false
+  xy: 6233, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PORTLAND TIMBERS
+  rotate: false
+  xy: 6385, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PROGRESSO
+  rotate: false
+  xy: 6537, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PROGR�S-NIEDERCORN
+  rotate: false
+  xy: 6689, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PS BARITO PUTERA
+  rotate: false
+  xy: 6841, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PS MITRA KUKAR
+  rotate: false
+  xy: 6993, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PSG
+  rotate: false
+  xy: 1, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PSM MAKASSAR
+  rotate: false
+  xy: 153, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PSV
+  rotate: false
+  xy: 305, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PUEBLA FC
+  rotate: false
+  xy: 457, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PUMAS
+  rotate: false
+  xy: 609, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PUNE FC
+  rotate: false
+  xy: 761, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PUSAMANIA
+  rotate: false
+  xy: 913, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PUSK�S FC
+  rotate: false
+  xy: 1065, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+PYONGYANG CITY
+  rotate: false
+  xy: 1217, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+P�RNU LINNAMEESKOND
+  rotate: false
+  xy: 1369, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+QARABAG AGDAM
+  rotate: false
+  xy: 1521, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+QATAR SC
+  rotate: false
+  xy: 1673, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+QEBELE FK
+  rotate: false
+  xy: 1825, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+QORMI FC
+  rotate: false
+  xy: 1977, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+QUER�TARO FC
+  rotate: false
+  xy: 2129, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RACING CLUB HA�TIEN
+  rotate: false
+  xy: 2281, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RACING CLUB MONTEVIDEO
+  rotate: false
+  xy: 2433, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RACING CLUB
+  rotate: false
+  xy: 2585, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RACING FC
+  rotate: false
+  xy: 2737, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RACING-UNION-LUXEMBURG
+  rotate: false
+  xy: 2889, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RAJA AC
+  rotate: false
+  xy: 3041, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RAMPLA JUNIORS
+  rotate: false
+  xy: 3193, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RANDERS FC
+  rotate: false
+  xy: 3345, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RATCHABURI MITRPHOL
+  rotate: false
+  xy: 3497, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RAYO VALLECANO
+  rotate: false
+  xy: 3649, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RC ARBA
+  rotate: false
+  xy: 3801, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RC CELTA
+  rotate: false
+  xy: 3953, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RC DEPORTIVO
+  rotate: false
+  xy: 4105, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RC RELIZANE
+  rotate: false
+  xy: 4257, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RCD ESPANYOL
+  rotate: false
+  xy: 4409, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL BETIS
+  rotate: false
+  xy: 4561, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL CD ESPANA
+  rotate: false
+  xy: 4713, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL KAKAMORA
+  rotate: false
+  xy: 4865, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL MADRID
+  rotate: false
+  xy: 5017, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL SALT LAKE
+  rotate: false
+  xy: 5169, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL SOCIEDAD DE FUTBOL
+  rotate: false
+  xy: 5321, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL SOCIEDAD
+  rotate: false
+  xy: 5473, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REAL SPORTING
+  rotate: false
+  xy: 5625, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REALTY WOFOO
+  rotate: false
+  xy: 5777, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REIMS
+  rotate: false
+  xy: 5929, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RENNES
+  rotate: false
+  xy: 6081, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RENO FC
+  rotate: false
+  xy: 6233, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+REWA FC
+  rotate: false
+  xy: 6385, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RFK TEREK
+  rotate: false
+  xy: 6537, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RHYL FC
+  rotate: false
+  xy: 6689, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RIMYONGSU
+  rotate: false
+  xy: 6841, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RIO AVE
+  rotate: false
+  xy: 6993, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RIVER PLATE
+  rotate: false
+  xy: 7145, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RIVOLI UNITED
+  rotate: false
+  xy: 1, 734
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RM-HAMM-BENFICA
+  rotate: false
+  xy: 153, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RNK SPLIT
+  rotate: false
+  xy: 305, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROARING LIONS FC
+  rotate: false
+  xy: 457, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROBIN HOOD FC
+  rotate: false
+  xy: 609, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RODA JC
+  rotate: false
+  xy: 761, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROMA UNITED
+  rotate: false
+  xy: 913, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROSARIO CENTRAL
+  rotate: false
+  xy: 1065, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROSENBORG BK
+  rotate: false
+  xy: 1217, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROSS COUNTY
+  rotate: false
+  xy: 1369, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROULADO FC
+  rotate: false
+  xy: 1521, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROVANIEMI PS
+  rotate: false
+  xy: 1673, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ROYAL WAHINGDOH
+  rotate: false
+  xy: 1825, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RSB BERKANE
+  rotate: false
+  xy: 1977, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RUMELANGE
+  rotate: false
+  xy: 2129, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+RUSHEN UNITED
+  rotate: false
+  xy: 2281, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SABA QOM
+  rotate: false
+  xy: 2433, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAINT ANDREWS
+  rotate: false
+  xy: 2585, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAINT MARTINS AC
+  rotate: false
+  xy: 2737, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAINT PATRICKS
+  rotate: false
+  xy: 2889, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAINT-�TIENNE
+  rotate: false
+  xy: 3041, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAIPA FC
+  rotate: false
+  xy: 3193, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SALGAOCAR FC
+  rotate: false
+  xy: 3345, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SALSA BALLERS FC
+  rotate: false
+  xy: 3497, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAN FRANCISCO FC
+  rotate: false
+  xy: 3649, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAN GIOVANNI
+  rotate: false
+  xy: 3801, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAN JOSE EARTHQUAKES
+  rotate: false
+  xy: 3953, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAN LORENZO
+  rotate: false
+  xy: 4105, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SANDEFJORD FOTBALL
+  rotate: false
+  xy: 4257, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SANTA TECLA
+  rotate: false
+  xy: 4409, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SANTOS DE GU�PILES
+  rotate: false
+  xy: 4561, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SANTOS FC
+  rotate: false
+  xy: 4713, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAP FC
+  rotate: false
+  xy: 4865, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SARPSBORG 08
+  rotate: false
+  xy: 5017, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAVAN FC
+  rotate: false
+  xy: 5169, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC CORINTHIANS
+  rotate: false
+  xy: 5321, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC FAETANO
+  rotate: false
+  xy: 5473, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC FC PETROLUL
+  rotate: false
+  xy: 5625, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC INTERNACIONAL
+  rotate: false
+  xy: 5777, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC PALMEIRAS
+  rotate: false
+  xy: 5929, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC PETROLEOS
+  rotate: false
+  xy: 6081, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC RECIFE
+  rotate: false
+  xy: 6233, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC CAMBUUR
+  rotate: false
+  xy: 6385, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SC HEERENVEEN
+  rotate: false
+  xy: 6537, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SCALLOWAY FC
+  rotate: false
+  xy: 6689, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SCG MUANGTHONG
+  rotate: false
+  xy: 6841, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SCHALKE-04
+  rotate: false
+  xy: 6993, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SCHOLARS INTERNATIONAL
+  rotate: false
+  xy: 7145, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SCSV BOMASTAR
+  rotate: false
+  xy: 7297, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SD EIBAR
+  rotate: false
+  xy: 1, 582
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SEATTLE SOUNDERS
+  rotate: false
+  xy: 153, 734
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SEIN�JOEN JK
+  rotate: false
+  xy: 305, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SEMEN PADANG
+  rotate: false
+  xy: 457, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SEVILLA FC
+  rotate: false
+  xy: 609, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SFK SLUTSK
+  rotate: false
+  xy: 761, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHABAB AL-ORDON
+  rotate: false
+  xy: 913, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHAHEEN ASMAYEE
+  rotate: false
+  xy: 1065, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHAKHTYOR SOLIGORSK
+  rotate: false
+  xy: 1217, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHAMROCK ROVERS
+  rotate: false
+  xy: 1369, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHANDONG
+  rotate: false
+  xy: 1521, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHANGHAI SHENXIN
+  rotate: false
+  xy: 1673, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHANGHAI SIPG
+  rotate: false
+  xy: 1825, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHB DA NANG
+  rotate: false
+  xy: 1977, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHB VIENTIANE
+  rotate: false
+  xy: 2129, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHENGHAI GREENLAND
+  rotate: false
+  xy: 2281, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHEPHERDS UNITED
+  rotate: false
+  xy: 2433, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHIJIAZHUANG
+  rotate: false
+  xy: 2585, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHILLONG LAJONG
+  rotate: false
+  xy: 2737, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SHIRAK FC
+  rotate: false
+  xy: 2889, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SIAH FC
+  rotate: false
+  xy: 3041, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SIAM NAVY FC
+  rotate: false
+  xy: 3193, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SILEKS FK
+  rotate: false
+  xy: 3345, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SIME DARBY FC
+  rotate: false
+  xy: 3497, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SIMORGH ALBORZ
+  rotate: false
+  xy: 3649, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SIMURQ PIK
+  rotate: false
+  xy: 3801, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SINT-TRUIDEN
+  rotate: false
+  xy: 3953, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SISAKET FC
+  rotate: false
+  xy: 4105, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SK SIGMA
+  rotate: false
+  xy: 4257, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SK VICTORIA
+  rotate: false
+  xy: 4409, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SKODA X�NTHI
+  rotate: false
+  xy: 4561, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SKONTO FC
+  rotate: false
+  xy: 4713, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SLAVIA PRAHA
+  rotate: false
+  xy: 4865, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SLIEMA WANDERERS
+  rotate: false
+  xy: 5017, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SLIGO ROVERS
+  rotate: false
+  xy: 5169, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SLOVAN BRATISLAVA
+  rotate: false
+  xy: 5321, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOLOMON WARRIORS
+  rotate: false
+  xy: 5473, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOMERSET CC
+  rotate: false
+  xy: 5625, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SONDERJYSKE
+  rotate: false
+  xy: 5777, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SORINET FC
+  rotate: false
+  xy: 5929, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOUTH CHINA AA
+  rotate: false
+  xy: 6081, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOUTHAMPTON RANGERS
+  rotate: false
+  xy: 6233, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOUTHAMPTON
+  rotate: false
+  xy: 6385, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOUTHERN UNITED
+  rotate: false
+  xy: 6537, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SOYOMBRYN BARSUUD
+  rotate: false
+  xy: 6689, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SP CAILUNGO
+  rotate: false
+  xy: 6841, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SP COSMOS
+  rotate: false
+  xy: 6993, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SP LA FIORITA
+  rotate: false
+  xy: 7145, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SP TRE FIORI
+  rotate: false
+  xy: 7297, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPARKS FC
+  rotate: false
+  xy: 7449, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPARTA PRAHA
+  rotate: false
+  xy: 1, 430
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPARTAK MOSKVA
+  rotate: false
+  xy: 153, 582
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPIRIT 08
+  rotate: false
+  xy: 305, 734
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORT LISBOA
+  rotate: false
+  xy: 457, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORT LUANDA
+  rotate: false
+  xy: 609, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING CENTRAL
+  rotate: false
+  xy: 761, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING CLUB BRAGA
+  rotate: false
+  xy: 913, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING CLUBE DE MACAU
+  rotate: false
+  xy: 1065, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING CLUBE
+  rotate: false
+  xy: 1217, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING KANSAS CITY
+  rotate: false
+  xy: 1369, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING PORTUGAL
+  rotate: false
+  xy: 1521, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SPORTING CHARLEROI
+  rotate: false
+  xy: 1673, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SRIWIJAYA
+  rotate: false
+  xy: 1825, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SS FOLGORE
+  rotate: false
+  xy: 1977, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SS MURATA
+  rotate: false
+  xy: 2129, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SS PENNAROSSA
+  rotate: false
+  xy: 2281, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SS VIRTUS
+  rotate: false
+  xy: 2433, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ST JOHNSTONE
+  rotate: false
+  xy: 2585, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ST JOSEPHS FC
+  rotate: false
+  xy: 2737, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ST LAWRENCE SPURS
+  rotate: false
+  xy: 2889, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STADE MIGOV�EN
+  rotate: false
+  xy: 3041, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STALLION FC
+  rotate: false
+  xy: 3193, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STANDARD LIEGE
+  rotate: false
+  xy: 3345, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STEAUA BUCURESTI
+  rotate: false
+  xy: 3497, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STOKE CITY
+  rotate: false
+  xy: 3649, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STRABAEK FOTBALL
+  rotate: false
+  xy: 3801, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+STROMSGODSET IF
+  rotate: false
+  xy: 3953, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUMQAYIT
+  rotate: false
+  xy: 4105, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUN PEGASUS FC
+  rotate: false
+  xy: 4257, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUNDERLAND
+  rotate: false
+  xy: 4409, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUNSET FC
+  rotate: false
+  xy: 4561, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUPERSPORT UNITED
+  rotate: false
+  xy: 4713, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUPHANBURI
+  rotate: false
+  xy: 4865, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SUVA FA
+  rotate: false
+  xy: 5017, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV BRAZIL JUNIORS
+  rotate: false
+  xy: 5169, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV BRITANNIA
+  rotate: false
+  xy: 5321, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV DAKOTA
+  rotate: false
+  xy: 5473, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV DEPORTIVO
+  rotate: false
+  xy: 5625, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV ESTRELLA
+  rotate: false
+  xy: 5777, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV EXCELSIOR
+  rotate: false
+  xy: 5929, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV LA FAMA
+  rotate: false
+  xy: 6081, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV LEO VICTOR
+  rotate: false
+  xy: 6233, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV NOTCH
+  rotate: false
+  xy: 6385, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV RACING CLUB
+  rotate: false
+  xy: 6537, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV RIVERPLATE
+  rotate: false
+  xy: 6689, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV SNL
+  rotate: false
+  xy: 6841, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV TRANSVAAL
+  rotate: false
+  xy: 6993, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SV WALKING BOYZ
+  rotate: false
+  xy: 7145, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SVAY RIENG
+  rotate: false
+  xy: 7297, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SWANSEA CITY
+  rotate: false
+  xy: 7449, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SYDNEY FC
+  rotate: false
+  xy: 7601, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SYLVANS SC
+  rotate: false
+  xy: 1, 278
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SZOMBATHELYI
+  rotate: false
+  xy: 153, 430
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+SAO PAULO FC
+  rotate: false
+  xy: 305, 582
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TACUAREMBO FC
+  rotate: false
+  xy: 457, 734
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAFEA FC
+  rotate: false
+  xy: 609, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAFUNA JETS
+  rotate: false
+  xy: 761, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAILEVU FC
+  rotate: false
+  xy: 913, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAKDIER BOYS
+  rotate: false
+  xy: 1065, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TALLINNA FC
+  rotate: false
+  xy: 1217, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAMANUKU
+  rotate: false
+  xy: 1369, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAMPINES ROVERS
+  rotate: false
+  xy: 1521, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TANHOLDINGS FC
+  rotate: false
+  xy: 1673, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TARXIEN RAINBOWS
+  rotate: false
+  xy: 1825, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TAURO FC
+  rotate: false
+  xy: 1977, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TB TVOROYRI
+  rotate: false
+  xy: 2129, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TC SPORTS CLUB
+  rotate: false
+  xy: 2281, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TEAM SOCCEROO
+  rotate: false
+  xy: 2433, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TEAM WELLINGTON
+  rotate: false
+  xy: 2585, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TEMPETE FC
+  rotate: false
+  xy: 2737, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TERENGGANU FA
+  rotate: false
+  xy: 2889, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+THAT RAS CLUB
+  rotate: false
+  xy: 3041, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+THE NEW SAINTS
+  rotate: false
+  xy: 3193, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+THIMPHU CITY
+  rotate: false
+  xy: 3345, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+THIMPHU FC
+  rotate: false
+  xy: 3497, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TIANJIN TEDA
+  rotate: false
+  xy: 3649, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TIGRES
+  rotate: false
+  xy: 3801, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TIVOLI GARDENS
+  rotate: false
+  xy: 3953, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TJ SPARTAK MYJAVA
+  rotate: false
+  xy: 4105, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TOOFAAN HARIROD
+  rotate: false
+  xy: 4257, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TORINO FC
+  rotate: false
+  xy: 4409, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TORKU KONYASPOR
+  rotate: false
+  xy: 4561, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TORONTO FC
+  rotate: false
+  xy: 4713, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TOT SC
+  rotate: false
+  xy: 4865, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TOTTENHAM HOTSPUR
+  rotate: false
+  xy: 5017, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TOULOUSE
+  rotate: false
+  xy: 5169, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TRABZONSPOR K
+  rotate: false
+  xy: 5321, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TRACTOR SAZI
+  rotate: false
+  xy: 5473, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TRE PENNE
+  rotate: false
+  xy: 5625, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TROMSO IL
+  rotate: false
+  xy: 5777, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TROYES
+  rotate: false
+  xy: 5929, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TS PODBESKIDZIE
+  rotate: false
+  xy: 6081, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TUPUJI IMERE
+  rotate: false
+  xy: 6233, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+T�RK OCAGI
+  rotate: false
+  xy: 6385, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UC SAMPDORIA
+  rotate: false
+  xy: 6537, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UD LAS PALMAS
+  rotate: false
+  xy: 6689, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UDINESE CALCIO
+  rotate: false
+  xy: 6841, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UE ENGORDANY
+  rotate: false
+  xy: 6993, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UE SANT JULIA
+  rotate: false
+  xy: 7145, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UE SANTA COLOMA
+  rotate: false
+  xy: 7297, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UGYEN ACADEMY
+  rotate: false
+  xy: 7449, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ULAANBAATAR UNIVERSITY
+  rotate: false
+  xy: 7601, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ULISSES FC
+  rotate: false
+  xy: 7753, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UMF FJ�LNIR
+  rotate: false
+  xy: 1, 126
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UMF STJARNAN
+  rotate: false
+  xy: 153, 278
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UMM SALAL SC
+  rotate: false
+  xy: 305, 430
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UNA-STRASSEN
+  rotate: false
+  xy: 457, 582
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UNION ESPANOLA
+  rotate: false
+  xy: 609, 734
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UNIVERSIDAD
+  rotate: false
+  xy: 761, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UNIVERSITY OF PRETORIA
+  rotate: false
+  xy: 913, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+URLINGS GOLDEN STARS
+  rotate: false
+  xy: 1065, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+US BITAM
+  rotate: false
+  xy: 1217, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+US CITTA
+  rotate: false
+  xy: 1369, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+US LAJEUNE
+  rotate: false
+  xy: 1521, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+US OYEM
+  rotate: false
+  xy: 1673, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+US SASSUOLO CALCIO
+  rotate: false
+  xy: 1825, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+USM ALGER
+  rotate: false
+  xy: 1977, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+USM BLIDA
+  rotate: false
+  xy: 2129, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+USM EL HARRACH
+  rotate: false
+  xy: 2281, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UTULEI YOUTH
+  rotate: false
+  xy: 2433, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VAASAN PS
+  rotate: false
+  xy: 2585, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VAIALA TONGAN
+  rotate: false
+  xy: 2737, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VALE RECREATION
+  rotate: false
+  xy: 2889, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VALENCIA CF
+  rotate: false
+  xy: 3041, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VALENCIA FC
+  rotate: false
+  xy: 3193, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VALERENGA IF
+  rotate: false
+  xy: 3345, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VALLETTA FC
+  rotate: false
+  xy: 3497, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VANCOUVER WHITECAPS
+  rotate: false
+  xy: 3649, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VASAS FC
+  rotate: false
+  xy: 3801, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VASCO DA GAMA
+  rotate: false
+  xy: 3953, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VESTMANNAEYJA
+  rotate: false
+  xy: 4105, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VFB-STUTTGART
+  rotate: false
+  xy: 4257, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VFL-WOLFSBURG
+  rotate: false
+  xy: 4409, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VIBORG FF
+  rotate: false
+  xy: 4561, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VICTORIA HOTSPURS
+  rotate: false
+  xy: 4713, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VICTORIA-ROSPORT
+  rotate: false
+  xy: 4865, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VICTORY SC
+  rotate: false
+  xy: 5017, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VIDEOTON FC
+  rotate: false
+  xy: 5169, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VIKING FK
+  rotate: false
+  xy: 5321, 5446
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VILLARREAL CF
+  rotate: false
+  xy: 5473, 5598
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VIOLETTE AC
+  rotate: false
+  xy: 5625, 5750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VITESSE
+  rotate: false
+  xy: 5777, 5902
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VITORIA FC
+  rotate: false
+  xy: 5929, 6054
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VITORIA SC
+  rotate: false
+  xy: 6081, 6206
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+VELEZ SARSFIELD
+  rotate: false
+  xy: 6233, 6358
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+V�KINGUR GOTA
+  rotate: false
+  xy: 6385, 6510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WAASLAND BEVEREN
+  rotate: false
+  xy: 6537, 6662
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WAIBOP UNITED
+  rotate: false
+  xy: 6689, 6814
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WAITAKERE UNITED
+  rotate: false
+  xy: 6841, 6966
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WANDERERS SC
+  rotate: false
+  xy: 6993, 7118
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WAPDA FC
+  rotate: false
+  xy: 7145, 7270
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WARRENPOINT TOWN
+  rotate: false
+  xy: 7297, 7422
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WARRIORS FC
+  rotate: false
+  xy: 7449, 7574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WATERHOUSE FC
+  rotate: false
+  xy: 7601, 7726
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WATFORD
+  rotate: false
+  xy: 7753, 7878
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WERDER-BREMEN
+  rotate: false
+  xy: 7905, 8030
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WEST BROMWICH
+  rotate: false
+  xy: 153, 126
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WEST HAM UNITED
+  rotate: false
+  xy: 305, 278
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WESTERLO
+  rotate: false
+  xy: 457, 430
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WESTERN PHNOM
+  rotate: false
+  xy: 609, 582
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WESTERN SYDNEY
+  rotate: false
+  xy: 761, 734
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WESTERN UNITED
+  rotate: false
+  xy: 913, 886
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WHALSAY FC
+  rotate: false
+  xy: 1065, 1038
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WHITEDALE FC
+  rotate: false
+  xy: 1217, 1190
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WILD BILLS
+  rotate: false
+  xy: 1369, 1342
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WILLEM II
+  rotate: false
+  xy: 1521, 1494
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WILTZ
+  rotate: false
+  xy: 1673, 1646
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WINDSOR ARCH KA I
+  rotate: false
+  xy: 1825, 1798
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WISLA KRAKOW
+  rotate: false
+  xy: 1977, 1950
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WKS SLASK
+  rotate: false
+  xy: 2129, 2102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WONG TAI SIN
+  rotate: false
+  xy: 2281, 2254
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+WYDAD ATHLETIC CLUB
+  rotate: false
+  xy: 2433, 2406
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+X-BEAM FC
+  rotate: false
+  xy: 2585, 2558
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+XEWKIJA TIGERS
+  rotate: false
+  xy: 2737, 2710
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+XEZER LENKERAN
+  rotate: false
+  xy: 2889, 2862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+YENI BOGAZI�I
+  rotate: false
+  xy: 3041, 3014
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+YENICAMI AK
+  rotate: false
+  xy: 3193, 3166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+YFCMD
+  rotate: false
+  xy: 3345, 3318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+YOUNG ELEPHANT
+  rotate: false
+  xy: 3497, 3470
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+YUEN LONG
+  rotate: false
+  xy: 3649, 3622
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ZABRZE
+  rotate: false
+  xy: 3801, 3774
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ZAGLEBIE LUBIN
+  rotate: false
+  xy: 3953, 3926
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ZOB AHAN
+  rotate: false
+  xy: 4105, 4078
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ZRINJSKI MOSTAR
+  rotate: false
+  xy: 4257, 4230
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ZULTE-WAREGEM
+  rotate: false
+  xy: 4409, 4382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+�AYKUR RIZESPOR K
+  rotate: false
+  xy: 4561, 4534
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+�ETINKAYA T�RK
+  rotate: false
+  xy: 4713, 4686
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+�A AKRANES
+  rotate: false
+  xy: 4865, 4838
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+�F FUGLAFJOROUR
+  rotate: false
+  xy: 5017, 4990
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+�F FYLKIR
+  rotate: false
+  xy: 5169, 5142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+�JPEST FC
+  rotate: false
+  xy: 5321, 5294
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+CASTLETOWN MFC
+  rotate: false
+  xy: 5473, 5448
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+FC LAS TUNAS
+  rotate: false
+  xy: 5625, 5598
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+ALSHKERT FC
+  rotate: false
+  xy: 5777, 5755
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+SS PIETRO E PAOLO
+  rotate: false
+  xy: 5929, 5902
+  size: 142, 150
+  orig: 142, 150
+  offset: 0, 0
+  index: -1
+AIGLE NOIR AC
+  rotate: false
+  xy: 6081, 6065
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+NARAK TEGAPU
+  rotate: false
+  xy: 6233, 6206
+  size: 128, 150
+  orig: 128, 150
+  offset: 0, 0
+  index: -1
+UNION MILLS FC
+  rotate: false
+  xy: 6385, 6370
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+CORINTHIANS AFC
+  rotate: false
+  xy: 1, 1
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+SAN PIETRO TEAM
+  rotate: false
+  xy: 6537, 6510
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+ST MARYS AFC
+  rotate: false
+  xy: 6689, 6662
+  size: 121, 150
+  orig: 121, 150
+  offset: 0, 0
+  index: -1
+ST GEORGES AFC
+  rotate: false
+  xy: 6841, 6826
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
+RAMSEY AFC
+  rotate: false
+  xy: 6993, 6978
+  size: 113, 138
+  orig: 113, 138
+  offset: 0, 0
+  index: -1
+PETIT-GOAVE
+  rotate: false
+  xy: 7145, 7118
+  size: 93, 150
+  orig: 93, 150
+  offset: 0, 0
+  index: -1
+MAROWN AFC
+  rotate: false
+  xy: 7297, 7322
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1

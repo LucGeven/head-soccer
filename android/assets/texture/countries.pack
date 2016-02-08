@@ -1,0 +1,1545 @@
+
+countries.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+AFGHANISTAN
+  rotate: false
+  xy: 1, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ALBANIË
+  rotate: false
+  xy: 1, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ALGERIJE
+  rotate: false
+  xy: 131, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+AMERIKAANS-SAMOA
+  rotate: false
+  xy: 1, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+AMERIKAANSE-MAAGDENEILANDEN
+  rotate: false
+  xy: 131, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ANDORRA
+  rotate: false
+  xy: 261, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ANGOLA
+  rotate: false
+  xy: 1, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ANGUILLA
+  rotate: false
+  xy: 131, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ANTIGUA EN BARBUDA
+  rotate: false
+  xy: 261, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ARGENTINIË
+  rotate: false
+  xy: 391, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ARMENIË
+  rotate: false
+  xy: 1, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ARUBA
+  rotate: false
+  xy: 131, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+AUSTRALIË
+  rotate: false
+  xy: 261, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+AZERBEIDZJAN
+  rotate: false
+  xy: 391, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BAHAMAS
+  rotate: false
+  xy: 521, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BAHREIN
+  rotate: false
+  xy: 1, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BANGLADESH
+  rotate: false
+  xy: 131, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BARBADOS
+  rotate: false
+  xy: 261, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BELGIË
+  rotate: false
+  xy: 391, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BELIZE
+  rotate: false
+  xy: 521, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BENIN
+  rotate: false
+  xy: 651, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BERMUDA
+  rotate: false
+  xy: 1, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BHUTAN
+  rotate: false
+  xy: 131, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BOLIVIA
+  rotate: false
+  xy: 261, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BOSNIË
+  rotate: false
+  xy: 391, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BOTSWANA
+  rotate: false
+  xy: 521, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BRAZILIË
+  rotate: false
+  xy: 651, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BRITS-TERRITORIUM-IN-DE-INDISCHE-OCEAAN
+  rotate: false
+  xy: 781, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BRITSE-MAAGDENEILANDEN
+  rotate: false
+  xy: 1, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BRUNEI
+  rotate: false
+  xy: 131, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BULGARIJE
+  rotate: false
+  xy: 261, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BURKINAFASO
+  rotate: false
+  xy: 391, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BURUNDI
+  rotate: false
+  xy: 521, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CAMBODJA
+  rotate: false
+  xy: 651, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CANADA
+  rotate: false
+  xy: 781, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CENTRAALAFRIKAANSEREPUBLIEK
+  rotate: false
+  xy: 911, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CHILI
+  rotate: false
+  xy: 1, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CHINA
+  rotate: false
+  xy: 131, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+COLOMBIA
+  rotate: false
+  xy: 261, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+COMOREN
+  rotate: false
+  xy: 391, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CONGO
+  rotate: false
+  xy: 521, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+COOK-EILANDEN
+  rotate: false
+  xy: 651, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+COSTA-RICA
+  rotate: false
+  xy: 781, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CUBA
+  rotate: false
+  xy: 911, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CYPRUS
+  rotate: false
+  xy: 1041, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DENEMARKEN
+  rotate: false
+  xy: 1, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DJIBOUTI
+  rotate: false
+  xy: 131, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DOMINICA
+  rotate: false
+  xy: 261, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DOMINICAANSE REPUBLIEK
+  rotate: false
+  xy: 391, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DUITSLAND
+  rotate: false
+  xy: 521, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ECUADOR
+  rotate: false
+  xy: 651, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EGYPTE
+  rotate: false
+  xy: 781, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EL-SALVADOR
+  rotate: false
+  xy: 911, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ENGELAND
+  rotate: false
+  xy: 1041, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EQUATORIAALGUINEA
+  rotate: false
+  xy: 1171, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ERITREA
+  rotate: false
+  xy: 1, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ESTLAND
+  rotate: false
+  xy: 131, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ETHIOPI�
+  rotate: false
+  xy: 261, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FAER�ER
+  rotate: false
+  xy: 391, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FALKLANDEILANDEN
+  rotate: false
+  xy: 521, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FIJI
+  rotate: false
+  xy: 651, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FILIPIJNEN
+  rotate: false
+  xy: 781, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FINLAND
+  rotate: false
+  xy: 911, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FRANKRIJK
+  rotate: false
+  xy: 1041, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FRANS-POLYNESI�
+  rotate: false
+  xy: 1171, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GABON
+  rotate: false
+  xy: 1301, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GAMBIA
+  rotate: false
+  xy: 1, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GEORGI�
+  rotate: false
+  xy: 131, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GHANA
+  rotate: false
+  xy: 261, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GIBRALTAR
+  rotate: false
+  xy: 391, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GRENADA
+  rotate: false
+  xy: 521, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GRIEKENLAND
+  rotate: false
+  xy: 651, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GROENLAND
+  rotate: false
+  xy: 781, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GUAM
+  rotate: false
+  xy: 911, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GUATEMALA
+  rotate: false
+  xy: 1041, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GUINEE
+  rotate: false
+  xy: 1171, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GUYANA
+  rotate: false
+  xy: 1301, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+HA�TI
+  rotate: false
+  xy: 1431, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+HONDURAS
+  rotate: false
+  xy: 1, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+HONGARIJE
+  rotate: false
+  xy: 131, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+HONGKONG
+  rotate: false
+  xy: 261, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IERLAND
+  rotate: false
+  xy: 391, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IJSLAND
+  rotate: false
+  xy: 521, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+INDIA
+  rotate: false
+  xy: 651, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+INDONESI�
+  rotate: false
+  xy: 781, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IRAK
+  rotate: false
+  xy: 911, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IRAN
+  rotate: false
+  xy: 1041, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ISRA�L
+  rotate: false
+  xy: 1171, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ITALI�
+  rotate: false
+  xy: 1301, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IVOORKUST
+  rotate: false
+  xy: 1431, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+JAMAICA
+  rotate: false
+  xy: 1561, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+JAPAN
+  rotate: false
+  xy: 1, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+JEMEN
+  rotate: false
+  xy: 131, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+JERSEY
+  rotate: false
+  xy: 261, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+JORDANI�
+  rotate: false
+  xy: 391, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KAAIMANEILANDEN
+  rotate: false
+  xy: 521, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KAAPVERDI�
+  rotate: false
+  xy: 651, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KAMEROEN
+  rotate: false
+  xy: 781, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KAZACHSTAN
+  rotate: false
+  xy: 911, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KENIA
+  rotate: false
+  xy: 1041, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KIRGIZI�
+  rotate: false
+  xy: 1171, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KIRIBATI
+  rotate: false
+  xy: 1301, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KOEWEIT
+  rotate: false
+  xy: 1431, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+KROATI�
+  rotate: false
+  xy: 1561, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LAOS
+  rotate: false
+  xy: 1691, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LESOTHO
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LETLAND
+  rotate: false
+  xy: 131, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LIBANON
+  rotate: false
+  xy: 261, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LIBERIA
+  rotate: false
+  xy: 391, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LIECHTENSTEIN
+  rotate: false
+  xy: 521, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LITOUWEN
+  rotate: false
+  xy: 651, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LUXEMBURG
+  rotate: false
+  xy: 781, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MACAU
+  rotate: false
+  xy: 911, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MACEDONI�
+  rotate: false
+  xy: 1041, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MADAGASKAR
+  rotate: false
+  xy: 1171, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MALAWI
+  rotate: false
+  xy: 1301, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MALDIVEN
+  rotate: false
+  xy: 1431, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MALEISI�
+  rotate: false
+  xy: 1561, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MALI
+  rotate: false
+  xy: 1691, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MALTA
+  rotate: false
+  xy: 1821, 1821
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MAN
+  rotate: false
+  xy: 131, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MAROKKO
+  rotate: false
+  xy: 261, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MARSCHALLEILANDEN
+  rotate: false
+  xy: 391, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MARTINIQUE
+  rotate: false
+  xy: 521, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MAURITANI�
+  rotate: false
+  xy: 651, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MAURITIUS
+  rotate: false
+  xy: 781, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MEXICO
+  rotate: false
+  xy: 911, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MICRONESIA
+  rotate: false
+  xy: 1041, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MOLDAVI�
+  rotate: false
+  xy: 1171, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MONACO
+  rotate: false
+  xy: 1301, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MONGOLI�
+  rotate: false
+  xy: 1431, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MONTENEGRO
+  rotate: false
+  xy: 1561, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MONTSERRAT
+  rotate: false
+  xy: 1691, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MOZAMBIQUE
+  rotate: false
+  xy: 1821, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MYANMAR
+  rotate: false
+  xy: 261, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NAMIBI�
+  rotate: false
+  xy: 391, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NAURU
+  rotate: false
+  xy: 521, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NEDERLAND
+  rotate: false
+  xy: 651, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NEDERLANDSE-ANTILLEN
+  rotate: false
+  xy: 781, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NEPAL
+  rotate: false
+  xy: 911, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NICARAGUA
+  rotate: false
+  xy: 1041, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NIEUW-ZEELAND
+  rotate: false
+  xy: 1171, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NIGER
+  rotate: false
+  xy: 1301, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NIGERIA
+  rotate: false
+  xy: 1431, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NIUE
+  rotate: false
+  xy: 1561, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NOORD-KOREA
+  rotate: false
+  xy: 1691, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NOORDELIJKE MARIANEN
+  rotate: false
+  xy: 1821, 1561
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NOORWEGEN
+  rotate: false
+  xy: 391, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OEGANDA
+  rotate: false
+  xy: 521, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OEKRA�NE
+  rotate: false
+  xy: 651, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OEZBEKISTAN
+  rotate: false
+  xy: 781, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OMAN
+  rotate: false
+  xy: 911, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OOST-TIMOR
+  rotate: false
+  xy: 1041, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OOSTENRIJK
+  rotate: false
+  xy: 1171, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PAKISTAN
+  rotate: false
+  xy: 1301, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PALAU
+  rotate: false
+  xy: 1431, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PANAMA
+  rotate: false
+  xy: 1561, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PAPOEA-NIEUW-GUINEA
+  rotate: false
+  xy: 1691, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PARAGUAY
+  rotate: false
+  xy: 1821, 1431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PERU
+  rotate: false
+  xy: 521, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PITCAIRNEILANDEN
+  rotate: false
+  xy: 651, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+POLEN
+  rotate: false
+  xy: 781, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PORTUGAL
+  rotate: false
+  xy: 911, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PUERTO-RICO
+  rotate: false
+  xy: 1041, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+QATAR
+  rotate: false
+  xy: 1171, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ROEMENI�
+  rotate: false
+  xy: 1301, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+RUSLAND
+  rotate: false
+  xy: 1431, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+RWANDA
+  rotate: false
+  xy: 1561, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAINT-KITTS-EN-NEVIS
+  rotate: false
+  xy: 1691, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAINT-LUCIA
+  rotate: false
+  xy: 1821, 1301
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAINT-PIERRE-EN-MIQUELON
+  rotate: false
+  xy: 651, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAINT-VINCENT-EN-DE-GRENADINES
+  rotate: false
+  xy: 781, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SALOMONSEILANDEN
+  rotate: false
+  xy: 911, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAMOA
+  rotate: false
+  xy: 1041, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAOEDI-ARABI�
+  rotate: false
+  xy: 1171, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SAOTOM�ENPRINCIPE
+  rotate: false
+  xy: 1301, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SCHOTLAND
+  rotate: false
+  xy: 1431, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SENEGAL
+  rotate: false
+  xy: 1561, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SERVI�
+  rotate: false
+  xy: 1691, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SEYCHELLEN
+  rotate: false
+  xy: 1821, 1171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SIERRALEONE
+  rotate: false
+  xy: 781, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SINGAPORE
+  rotate: false
+  xy: 911, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SLOVENI�
+  rotate: false
+  xy: 1041, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SLOWAKIJE
+  rotate: false
+  xy: 1171, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SOMALI�
+  rotate: false
+  xy: 1301, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SPANJE
+  rotate: false
+  xy: 1431, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SRI-LANKA
+  rotate: false
+  xy: 1561, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SURINAME
+  rotate: false
+  xy: 1691, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SWAZILAND
+  rotate: false
+  xy: 1821, 1041
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SYRI�
+  rotate: false
+  xy: 911, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TADZJIKISTAN
+  rotate: false
+  xy: 1041, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TAIWAN
+  rotate: false
+  xy: 1171, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TANZANIA
+  rotate: false
+  xy: 1301, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+THAILAND
+  rotate: false
+  xy: 1431, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TOGO
+  rotate: false
+  xy: 1561, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TONGA
+  rotate: false
+  xy: 1691, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TRINIDAD-EN-TOBAGO
+  rotate: false
+  xy: 1821, 911
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TSJAAD
+  rotate: false
+  xy: 1041, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TSJECHI�
+  rotate: false
+  xy: 1171, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TUNESI�
+  rotate: false
+  xy: 1301, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TURKIJE
+  rotate: false
+  xy: 1431, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TURKMENISTAN
+  rotate: false
+  xy: 1561, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TURKS-EN-CAICOSEILANDEN
+  rotate: false
+  xy: 1691, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TUVALU
+  rotate: false
+  xy: 1821, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+URUGUAY
+  rotate: false
+  xy: 1171, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VANUATU
+  rotate: false
+  xy: 1301, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VATICAANSTAD
+  rotate: false
+  xy: 1431, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VENEZUELA
+  rotate: false
+  xy: 1561, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VERENIGDE-ARABISCHE-EMIRATEN
+  rotate: false
+  xy: 1691, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VERENIGDE-STATEN
+  rotate: false
+  xy: 1821, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VIETNAM
+  rotate: false
+  xy: 1301, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+WALLIS-EN-FUTUNA
+  rotate: false
+  xy: 1431, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+WIT-RUSLAND
+  rotate: false
+  xy: 1561, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZAMBIA
+  rotate: false
+  xy: 1691, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZIMBABWE
+  rotate: false
+  xy: 1821, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZUID-AFRIKA
+  rotate: false
+  xy: 1431, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZUID-GEORGI�-EN-DE-ZUIDELIJKE-SANDWICHEILANDEN
+  rotate: false
+  xy: 1561, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZUID-KOREA
+  rotate: false
+  xy: 1691, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZWEDEN
+  rotate: false
+  xy: 1821, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ZWITSERLAND
+  rotate: false
+  xy: 1561, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
