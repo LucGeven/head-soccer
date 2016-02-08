@@ -149,6 +149,7 @@ public class GameRender {
 
         spritebatch.end();
 
+        //Bug fix
         SpriteHomeCollision.draw(shaperender);
 
     }
