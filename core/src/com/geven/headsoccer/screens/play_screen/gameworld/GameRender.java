@@ -151,6 +151,6 @@ public class GameRender {
 
         //Bug fix
         SpriteHomeCollision.draw(shaperender);
-
+        //TEST
     }
 }
