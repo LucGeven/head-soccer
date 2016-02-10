@@ -65,7 +65,6 @@ public class InputHandler implements InputProcessor {
             Ball.hPressed = "NOTHING_PRESSED";
         }
 
-
         return true;
     }
 
