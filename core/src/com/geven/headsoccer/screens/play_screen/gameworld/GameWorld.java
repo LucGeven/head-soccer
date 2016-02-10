@@ -2,6 +2,7 @@ package com.geven.headsoccer.screens.play_screen.gameworld;
 
 import com.geven.headsoccer.screens.play_screen.collision.BallCollision;
 import com.geven.headsoccer.screens.play_screen.collision.SpriteHomeCollision;
+import com.geven.headsoccer.screens.play_screen.handler.InputHandler;
 import com.geven.headsoccer.screens.play_screen.objects.Ball;
 import com.geven.headsoccer.screens.play_screen.objects.Goal;
 import com.geven.headsoccer.screens.play_screen.objects.Score;
@@ -20,6 +21,8 @@ public class GameWorld {
     private SpriteHomeCollision spriteHomeCollision;
     private BallCollision ballCollision;
 
+    private InputHandler inputHandler;
+
     public static boolean goalScore;
     private float timer;
 
@@ -33,6 +36,8 @@ public class GameWorld {
 
         spriteHomeCollision = new SpriteHomeCollision();
         ballCollision = new BallCollision();
+
+        inputHandler = new InputHandler();
 
         goalScore = false;
         timer = 0;
@@ -48,6 +53,8 @@ public class GameWorld {
 
         spriteHomeCollision.update();
         ballCollision.update();
+
+        inputHandler.update(delta);
 
         //Wait 2 second to set the new positions after the goal
         if (goalScore){
