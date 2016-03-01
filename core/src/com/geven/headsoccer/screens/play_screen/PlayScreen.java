@@ -2,12 +2,23 @@ package com.geven.headsoccer.screens.play_screen;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
+import com.badlogic.gdx.math.Vector2;
+import com.badlogic.gdx.physics.box2d.BodyDef;
+import com.badlogic.gdx.physics.box2d.Contact;
+import com.badlogic.gdx.physics.box2d.ContactImpulse;
+import com.badlogic.gdx.physics.box2d.ContactListener;
+import com.badlogic.gdx.physics.box2d.Manifold;
+import com.badlogic.gdx.physics.box2d.World;
 import com.geven.headsoccer.screens.play_screen.gameworld.GameRender;
 import com.geven.headsoccer.screens.play_screen.gameworld.GameWorld;
 import com.geven.headsoccer.screens.play_screen.handler.InputHandler;
+import com.geven.headsoccer.screens.play_screen.objects.SpriteHome;
 import com.geven.headsoccer.screens.play_screen.objects.TimerHandler;
 
 public class PlayScreen implements Screen {
+
+    //Box2D:
+    private static World world;
 
     private GameRender gamerender;
     private GameWorld gameworld;
@@ -15,6 +26,7 @@ public class PlayScreen implements Screen {
 
 
     public PlayScreen(){
+        world = new World(new Vector2(0,9.81f),true);
         gamerender = new GameRender();
         gameworld = new GameWorld();
 
@@ -56,5 +68,8 @@ public class PlayScreen implements Screen {
     @Override
     public void dispose() {
 
+    }
+    public static World getWorld(){
+        return world;
     }
 }

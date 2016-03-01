@@ -1,25 +1,24 @@
 package com.geven.headsoccer.screens.play_screen.gameworld;
 
-import com.geven.headsoccer.screens.play_screen.collision.BallCollision;
-import com.geven.headsoccer.screens.play_screen.collision.SpriteHomeCollision;
 import com.geven.headsoccer.screens.play_screen.handler.InputHandler;
 import com.geven.headsoccer.screens.play_screen.objects.Ball;
 import com.geven.headsoccer.screens.play_screen.objects.Goal;
+import com.geven.headsoccer.screens.play_screen.objects.Ground;
 import com.geven.headsoccer.screens.play_screen.objects.Score;
 import com.geven.headsoccer.screens.play_screen.objects.SpriteHome;
-import com.geven.headsoccer.screens.play_screen.objects.SpriteOut;
 import com.geven.headsoccer.screens.play_screen.objects.TimerHandler;
+import com.geven.headsoccer.screens.play_screen.objects.WorldSize;
 
 public class GameWorld {
     private Score score;
     private TimerHandler timeHandler;
-    private SpriteHome spriteHome;
-    private SpriteOut spriteOut;
-    private Ball ball;
-    private Goal goal;
 
-    private SpriteHomeCollision spriteHomeCollision;
-    private BallCollision ballCollision;
+    //Box2d bodies:
+    private Ball ball;
+    private Ground ground;
+    private WorldSize worldSize;
+    private Goal goal;
+    private SpriteHome spriteHome;
 
     private InputHandler inputHandler;
 
@@ -29,13 +28,12 @@ public class GameWorld {
     public GameWorld(){
         score = new Score();
         timeHandler = new TimerHandler();
-        spriteHome = new SpriteHome();
-        spriteOut = new SpriteOut();
-        ball = new Ball();
-        goal = new Goal();
 
-        spriteHomeCollision = new SpriteHomeCollision();
-        ballCollision = new BallCollision();
+        ball = new Ball();
+        ground = new Ground();
+        worldSize = new WorldSize();
+        goal = new Goal();
+        spriteHome = new SpriteHome();
 
         inputHandler = new InputHandler();
 
@@ -47,12 +45,7 @@ public class GameWorld {
         score.update();
         timeHandler.update(delta);
         spriteHome.update(delta);
-        spriteOut.update(delta);
 
-        ball.update(delta);
-
-        spriteHomeCollision.update();
-        ballCollision.update();
 
         inputHandler.update(delta);
 

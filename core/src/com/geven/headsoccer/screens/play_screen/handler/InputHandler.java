@@ -56,11 +56,19 @@ public class InputHandler implements InputProcessor {
             touchY = new Float(screenY) / Gdx.graphics.getHeight() * 1360;
 
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                SpriteHome.shootIsNotPressed();
+                SpriteHome.shootIsPressed(false);
             }
-            if (!Button.isPressed(20, 1360 - 20 - 150, 350, 150, touchX, touchY) && !Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                Ball.hPressed = "NOTHING_PRESSED";
+            if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                SpriteHome.leftIsPressed(false);
             }
+            if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                SpriteHome.rightIsPressed(false);
+            }
+            if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                SpriteHome.jumpIsPressed(false);
+            }
+
+
             touchActive = false;
         }
         if (pointer == 1){
@@ -68,10 +76,7 @@ public class InputHandler implements InputProcessor {
             _TouchY = new Float(screenY) / Gdx.graphics.getHeight() * 1360;
 
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.shootIsNotPressed();
-            }
-            if (!Button.isPressed(20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY) && !Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                Ball.hPressed = "NOTHING_PRESSED";
+                SpriteHome.shootIsPressed(false);
             }
             _TouchActive = false;
         }
@@ -80,6 +85,7 @@ public class InputHandler implements InputProcessor {
 
     @Override
     public boolean touchDragged(int screenX, int screenY, int pointer) {
+
         if (pointer == 0) {
             touchX = new Float(screenX) / Gdx.graphics.getWidth() * 2040;
             touchY = new Float(screenY) / Gdx.graphics.getHeight() * 1360;
@@ -114,43 +120,38 @@ public class InputHandler implements InputProcessor {
 
         if (touchActive) {
             if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                SpriteHome.leftIsPressed();
+                SpriteHome.leftIsPressed(true);
             }
             if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                SpriteHome.rightIsPressed();
+                SpriteHome.rightIsPressed(true);
             }
             if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                SpriteHome.jumpIsPressed();
+                SpriteHome.jumpIsPressed(true);
             }
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                SpriteHome.shootIsPressed();
+                SpriteHome.shootIsPressed(true);
             }
             if (!Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                SpriteHome.shootIsNotPressed();
-            }
-            if (!Button.isPressed(20, 1360 - 20 - 150, 350, 150, touchX, touchY) && !Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
-                Ball.hPressed = "NOTHING_PRESSED";
+                SpriteHome.shootIsPressed(false);
             }
         }
         if (_TouchActive){
             if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.leftIsPressed();
+                SpriteHome.leftIsPressed(true);
             }
             if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.rightIsPressed();
+                SpriteHome.rightIsPressed(true);
             }
             if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.jumpIsPressed();
+                SpriteHome.jumpIsPressed(true);
             }
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.shootIsPressed();
+                SpriteHome.shootIsPressed(true);
             }
             if (!Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.shootIsNotPressed();
+                SpriteHome.shootIsPressed(false);
             }
-            if (!Button.isPressed(20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY) && !Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                Ball.hPressed = "NOTHING_PRESSED";
-            }
+
         }
     }
 
@@ -158,7 +159,7 @@ public class InputHandler implements InputProcessor {
     public boolean mouseMoved(int screenX, int screenY) {
         return false;
     }
-git
+
     @Override
     public boolean scrolled(int amount) {
         return false;

@@ -3,6 +3,7 @@ package com.geven.headsoccer.handler;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.Animation;
+import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
@@ -17,6 +18,7 @@ public class AssetLoader {
     public static Animation spriteAnimation;
     public static Texture _BALL;
     public static TextureRegion ball;
+    public static Sprite spriteBall;
 
     public static void load(){
         countriesFlags = new TextureAtlas(Gdx.files.internal("texture/countries.pack"));
@@ -42,6 +44,7 @@ public class AssetLoader {
         _BALL = new Texture(Gdx.files.internal("texture/ball.png"));
         ball = new TextureRegion(_BALL,_BALL.getWidth(),_BALL.getHeight());
         ball.flip(false,true);
+        spriteBall = new Sprite(ball);
 
     }
     public static void dispose(){
