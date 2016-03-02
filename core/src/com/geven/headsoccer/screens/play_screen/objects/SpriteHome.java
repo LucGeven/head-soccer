@@ -106,17 +106,15 @@ public class SpriteHome {
         PlayScreen.getWorld().setContactListener(new ContactListener() {
             @Override
             public void beginContact(Contact contact) {
-                if ((contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == Goal.oBody1) ||
+                if ((contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == Goal.oBody1) ||         //Collision with ball and goal
                         (contact.getFixtureA().getBody() == Goal.oBody1 && contact.getFixtureB().getBody() == Ball.ball)){
                     collision = true;
-                    Gdx.app.log("TEST","COLLISION");
                 }
                 if (collision){
-                    if (contact.getFixtureA().getBody() == body2 && contact.getFixtureB().getBody() == Ball.ball ||
+                    if (contact.getFixtureA().getBody() == body2 && contact.getFixtureB().getBody() == Ball.ball ||             //Collision with SpriteHome and ball
                             contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == body2) {
                         collision1 = true;
-                        body1.setLinearVelocity(0, 0);
-                        body2.setLinearVelocity(0, 0);
+
                     }
 
 
@@ -125,14 +123,13 @@ public class SpriteHome {
 
             @Override
             public void endContact(Contact contact) {
-                if (contact.getFixtureA().getBody() == body2 && contact.getFixtureB().getBody() == Goal.oBody1 ||
-                        contact.getFixtureA().getBody() == Goal.oBody1 && contact.getFixtureB().getBody() == body2){
+                if (contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == Goal.oBody1 ||
+                        contact.getFixtureA().getBody() == Goal.oBody1 && contact.getFixtureB().getBody() == Ball.ball){
                     collision = false;
                     collision1 = false;
                 }
                 if (contact.getFixtureA().getBody() == body2 && contact.getFixtureB().getBody() == Ball.ball ||
                         contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == body2){
-                    collision = false;
                     collision1 = false;
                 }
             }
@@ -196,12 +193,14 @@ public class SpriteHome {
         shootIsPressed = pressed;
     }
     public static void leftIsPressed(boolean pressed){
-        if (!collision1) {
             leftIsPressed = pressed;
-        }
+
     }
     public static void rightIsPressed(boolean pressed){
-        if (!collision1) {
+        if (collision1) {
+            rightIsPressed = false;
+        }
+        else {
             rightIsPressed = pressed;
         }
     }

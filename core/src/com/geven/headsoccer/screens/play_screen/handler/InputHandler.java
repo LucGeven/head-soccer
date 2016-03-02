@@ -2,6 +2,7 @@ package com.geven.headsoccer.screens.play_screen.handler;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.InputProcessor;
+import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.geven.headsoccer.handler.Button;
 import com.geven.headsoccer.screens.play_screen.objects.Ball;
 import com.geven.headsoccer.screens.play_screen.objects.SpriteHome;
@@ -68,7 +69,6 @@ public class InputHandler implements InputProcessor {
                 SpriteHome.jumpIsPressed(false);
             }
 
-
             touchActive = false;
         }
         if (pointer == 1){
@@ -78,8 +78,18 @@ public class InputHandler implements InputProcessor {
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
                 SpriteHome.shootIsPressed(false);
             }
+            if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
+                SpriteHome.leftIsPressed(false);
+            }
+            if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
+                SpriteHome.rightIsPressed(false);
+            }
+            if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
+                SpriteHome.jumpIsPressed(false);
+            }
             _TouchActive = false;
         }
+
         return true;
     }
 
@@ -122,36 +132,87 @@ public class InputHandler implements InputProcessor {
             if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
                 SpriteHome.leftIsPressed(true);
             }
+            else {
+                SpriteHome.leftIsPressed(false);
+            }
             if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
                 SpriteHome.rightIsPressed(true);
+            }
+            else {
+                SpriteHome.rightIsPressed(false);
             }
             if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
                 SpriteHome.jumpIsPressed(true);
             }
+            else {
+                SpriteHome.jumpIsPressed(false);
+            }
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
                 SpriteHome.shootIsPressed(true);
             }
-            if (!Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+            else {
                 SpriteHome.shootIsPressed(false);
             }
+            /*if (!Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                SpriteHome.shootIsPressed(false);
+            }*/
+
         }
         if (_TouchActive){
             if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
                 SpriteHome.leftIsPressed(true);
             }
+            else {
+                if (Button.isPressed(20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                    SpriteHome.leftIsPressed(true);
+                }
+                else {
+                    SpriteHome.leftIsPressed(false);
+                }
+            }
             if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
                 SpriteHome.rightIsPressed(true);
+            }
+            else {
+                if (Button.isPressed(370 + 20, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                    SpriteHome.rightIsPressed(true);
+                }
+                else {
+                    SpriteHome.rightIsPressed(false);
+                }
             }
             if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
                 SpriteHome.jumpIsPressed(true);
             }
+            else {
+                if (Button.isPressed(2040 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                    SpriteHome.jumpIsPressed(true);
+                }
+                else {
+                    SpriteHome.jumpIsPressed(false);
+                }
+            }
             if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
                 SpriteHome.shootIsPressed(true);
             }
-            if (!Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
-                SpriteHome.shootIsPressed(false);
+            else {
+                if (Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, touchX, touchY)) {
+                    SpriteHome.shootIsPressed(true);
+                }
+                else {
+                    SpriteHome.shootIsPressed(false);
+                }
             }
+            /*if (!Button.isPressed(2040 - 370 - 20 - 350, 1360 - 20 - 150, 350, 150, _TouchX, _TouchY)) {
+                SpriteHome.shootIsPressed(false);
+            }*/
 
+        }
+        if (!touchActive && !_TouchActive){
+                SpriteHome.shootIsPressed(false);
+                SpriteHome.leftIsPressed(false);
+                SpriteHome.rightIsPressed(false);
+                SpriteHome.jumpIsPressed(false);
         }
     }
 
