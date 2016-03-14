@@ -1,11 +1,14 @@
 package com.geven.headsoccer.screens.play_screen.gameworld;
 
+import com.geven.headsoccer.screens.play_screen.PlayScreen;
 import com.geven.headsoccer.screens.play_screen.handler.InputHandler;
 import com.geven.headsoccer.screens.play_screen.objects.Ball;
+import com.geven.headsoccer.screens.play_screen.objects.ContactListener;
 import com.geven.headsoccer.screens.play_screen.objects.Goal;
 import com.geven.headsoccer.screens.play_screen.objects.Ground;
 import com.geven.headsoccer.screens.play_screen.objects.Score;
 import com.geven.headsoccer.screens.play_screen.objects.SpriteHome;
+import com.geven.headsoccer.screens.play_screen.objects.SpriteOut;
 import com.geven.headsoccer.screens.play_screen.objects.TimerHandler;
 import com.geven.headsoccer.screens.play_screen.objects.WorldSize;
 
@@ -19,6 +22,7 @@ public class GameWorld {
     private WorldSize worldSize;
     private Goal goal;
     private SpriteHome spriteHome;
+    private SpriteOut spriteOut;
 
     private InputHandler inputHandler;
 
@@ -34,6 +38,8 @@ public class GameWorld {
         worldSize = new WorldSize();
         goal = new Goal();
         spriteHome = new SpriteHome();
+        spriteOut = new SpriteOut();
+        PlayScreen.getWorld().setContactListener(new ContactListener());
 
         inputHandler = new InputHandler();
 
@@ -45,6 +51,7 @@ public class GameWorld {
         score.update();
         timeHandler.update(delta);
         spriteHome.update(delta);
+        spriteOut.update(delta);
 
 
         inputHandler.update(delta);

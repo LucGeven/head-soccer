@@ -6,6 +6,9 @@ public class Vars {
     public static final int VELOCITYITERATIONS = 8;
     public static final int POSITIONITERATIONS = 3;
 
+    public static final int JUMPFORCE = -75000000;
+
     public static final short COLLISION = 1;
     public static final short SPRITE_HOME = 2;
+    public static final short SPRITE_OUT  = 4;
 }

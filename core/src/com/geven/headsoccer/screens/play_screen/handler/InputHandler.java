@@ -2,9 +2,7 @@ package com.geven.headsoccer.screens.play_screen.handler;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.InputProcessor;
-import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.geven.headsoccer.handler.Button;
-import com.geven.headsoccer.screens.play_screen.objects.Ball;
 import com.geven.headsoccer.screens.play_screen.objects.SpriteHome;
 
 public class InputHandler implements InputProcessor {

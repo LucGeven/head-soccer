@@ -24,6 +24,7 @@ import com.geven.headsoccer.screens.play_screen.PlayScreen;
 import com.geven.headsoccer.screens.play_screen.objects.Goal;
 import com.geven.headsoccer.screens.play_screen.objects.Score;
 import com.geven.headsoccer.screens.play_screen.objects.SpriteHome;
+import com.geven.headsoccer.screens.play_screen.objects.SpriteOut;
 import com.geven.headsoccer.screens.play_screen.objects.TimerHandler;
 
 public class GameRender {
@@ -98,9 +99,13 @@ public class GameRender {
         spritebatch.enableBlending();
 
         //Draw SpriteHome:
-        AssetLoader.spriteAnimation.getKeyFrame(SpriteHome.getRunTime()).flip(true,true);
+        AssetLoader.spriteAnimation.getKeyFrame(SpriteHome.getRunTime()).flip(true, true);
         spritebatch.draw(AssetLoader.spriteAnimation.getKeyFrame(SpriteHome.getRunTime(), true), SpriteHome.getPosition().x, SpriteHome.getPosition().y, SpriteHome.getSize().x, SpriteHome.getSize().y);
-        AssetLoader.spriteAnimation.getKeyFrame(SpriteHome.getRunTime()).flip(true,true);
+        AssetLoader.spriteAnimation.getKeyFrame(SpriteHome.getRunTime()).flip(true, true);
+        //Draw SpriteOut:
+        AssetLoader.spriteAnimation.getKeyFrame(SpriteOut.getRunTime()).flip(false, true);
+        spritebatch.draw(AssetLoader.spriteAnimation.getKeyFrame(SpriteOut.getRunTime(), true), SpriteOut.getPosition().x, SpriteOut.getPosition().y, SpriteOut.getSize().x, SpriteOut.getSize().y);
+        AssetLoader.spriteAnimation.getKeyFrame(SpriteOut.getRunTime()).flip(false, true);
 
         //Draw ball:
         PlayScreen.getWorld().getBodies(tmpBodies);
