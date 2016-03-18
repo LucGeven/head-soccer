@@ -3,6 +3,7 @@ package com.geven.headsoccer.screens.play_screen.gameworld;
 import com.geven.headsoccer.screens.play_screen.PlayScreen;
 import com.geven.headsoccer.screens.play_screen.handler.InputHandler;
 import com.geven.headsoccer.screens.play_screen.objects.Ball;
+import com.geven.headsoccer.screens.play_screen.objects.ComputerHandler;
 import com.geven.headsoccer.screens.play_screen.objects.ContactListener;
 import com.geven.headsoccer.screens.play_screen.objects.Goal;
 import com.geven.headsoccer.screens.play_screen.objects.Ground;
@@ -23,6 +24,7 @@ public class GameWorld {
     private Goal goal;
     private SpriteHome spriteHome;
     private SpriteOut spriteOut;
+    private ComputerHandler computerHandler;
 
     private InputHandler inputHandler;
 
@@ -39,6 +41,8 @@ public class GameWorld {
         goal = new Goal();
         spriteHome = new SpriteHome();
         spriteOut = new SpriteOut();
+        computerHandler = new ComputerHandler();
+
         PlayScreen.getWorld().setContactListener(new ContactListener());
 
         inputHandler = new InputHandler();
@@ -52,7 +56,7 @@ public class GameWorld {
         timeHandler.update(delta);
         spriteHome.update(delta);
         spriteOut.update(delta);
-
+        computerHandler.update();
 
         inputHandler.update(delta);
 

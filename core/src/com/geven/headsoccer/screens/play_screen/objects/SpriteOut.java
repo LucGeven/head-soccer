@@ -54,7 +54,7 @@ public class SpriteOut {
         position = new Vector2(oBody1.getPosition().x - (54.4f / PPM) - ((128.8f /2) / PPM), oBody1.getPosition().y - ((128.8f / 2) / PPM));  //Position sprite
         size = new Vector2(200 / PPM,200 / PPM);
 
-        velocityWalk = 200 / PPM;    //160
+        velocityWalk = 300 / PPM;    //160  //200
 
         runTime = 0;
         shootIsPressed = false;

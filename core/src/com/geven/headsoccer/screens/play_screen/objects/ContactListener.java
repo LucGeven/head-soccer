@@ -30,12 +30,7 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
                 (contact.getFixtureA().getBody() == SpriteHome.gethShoe() && contact.getFixtureB().getBody() == Ball.ball)){
             Ball.ball.setLinearVelocity(0,0);
             if (SpriteHome.gethTime() >= 0.2f){
-                if (Ball.ball.getLinearVelocity().x == 0){
-                    Ball.ball.setLinearVelocity(SpriteHome.gethBody1().getLinearVelocity().x,Ball.ball.getLinearVelocity().y);
-                }
-                else {
-                    Ball.ball.setLinearVelocity(SpriteHome.gethBody1().getLinearVelocity().x, Ball.ball.getLinearVelocity().y);
-                }
+                    Ball.ball.setLinearVelocity(SpriteHome.gethBody1().getLinearVelocity().x + 1,Ball.ball.getLinearVelocity().y);
             }
             else if (SpriteHome.gethTime() != 0){
                 Ball.ball.setLinearVelocity(20,10);
@@ -45,12 +40,7 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
                 (contact.getFixtureA().getBody() == SpriteOut.getoShoe() && contact.getFixtureB().getBody() == Ball.ball)){
             Ball.ball.setLinearVelocity(0,0);
             if (SpriteOut.getoTime() >= 0.2f){
-                if (Ball.ball.getLinearVelocity().x == 0){
-                    Ball.ball.setLinearVelocity(SpriteOut.getoBody1().getLinearVelocity().x,Ball.ball.getLinearVelocity().y);
-                }
-                else {
-                    Ball.ball.setLinearVelocity(SpriteOut.getoBody1().getLinearVelocity().x,Ball.ball.getLinearVelocity().y);
-                }
+                    Ball.ball.setLinearVelocity(SpriteOut.getoBody1().getLinearVelocity().x - 1,Ball.ball.getLinearVelocity().y);
             }
             else if (SpriteOut.getoTime() != 0){
                 Ball.ball.setLinearVelocity(20,10);
