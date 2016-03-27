@@ -10,6 +10,7 @@ import com.geven.headsoccer.handler.AssetLoader;
 public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactListener {
     private float prevX1, prevY1, prevX2, prevY2;
     private static Vector2 position1;
+    public static boolean test;
 
     @Override
     public void beginContact(Contact contact) {
@@ -61,6 +62,7 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
             AssetLoader.shoot.play();
         }
 
+
         prevX1 = SpriteHome.gethBody1().getPosition().x;
         prevY1 = SpriteHome.gethBody1().getPosition().y;
         prevX2 = SpriteHome.gethBody2().getPosition().x;
@@ -103,6 +105,15 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
             if (Ball.ball.getLinearVelocity().x == 0) {
                 Ball.ball.setLinearVelocity(-1, 0);
             }
+        }
+        if (contact.getFixtureA().getBody() == SpriteHome.gethBody1() && contact.getFixtureB().getBody() == SpriteOut.getoBody1() ||
+                contact.getFixtureA().getBody() == SpriteOut.getoBody1() && contact.getFixtureB().getBody() == SpriteHome.gethBody1() ||
+                contact.getFixtureA().getBody() == SpriteHome.gethBody2() && contact.getFixtureB().getBody() == SpriteOut.getoBody2() ||
+                contact.getFixtureA().getBody() == SpriteOut.getoBody2() && contact.getFixtureB().getBody() == SpriteHome.gethBody2()){
+            test = true;
+        }
+        else {
+            test = false;
         }
     }
 

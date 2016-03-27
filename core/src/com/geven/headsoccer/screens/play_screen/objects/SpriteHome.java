@@ -99,7 +99,7 @@ public class SpriteHome {
         updateShoePosition();
         //hShoe.setTransform(position.x + (24 / PPM) + ((64 / 2) / PPM), position.y + (130 / PPM) + ((60 / 2) / PPM), 0);
 
-
+        hBody2.setTransform(hBody1.getPosition().x,hBody2.getPosition().y,0);
     }
 
     private void b2dHead(){
@@ -265,15 +265,27 @@ public class SpriteHome {
     }
 
     private void jumpHandlerUpdate(){
-        if (hBody1.getPosition().y >= ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM)){   //Check if the sprite is jumping
+        if (hBody1.getPosition().y >= ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM) || com.geven.headsoccer.screens.play_screen.objects.ContactListener.test){   //Check if the sprite is jumping
             hBody1.setGravityScale(0);           //Turn of the gravity
             hBody2.setGravityScale(0);
             hBody1.setLinearVelocity(hBody1.getLinearVelocity().x, 0);        //Set linearvelocity to 0
             hBody2.setLinearVelocity(hBody2.getLinearVelocity().x, 0);
-            hBody1.setTransform(hBody1.getPosition().x, ((1360 - 200 - 190) / PPM) + ((128.8f / 2) / PPM), 0);  //Set the position to the normal position
-            hBody2.setTransform(hBody2.getPosition().x,((1360 - 200 - 190) / PPM) + ((161 - 128.8f) / PPM) + ((128.8f / 2) / PPM),0);
-            jumping = false;
+            if (!com.geven.headsoccer.screens.play_screen.objects.ContactListener.test) {
+                hBody1.setTransform(hBody1.getPosition().x, ((1360 - 200 - 190) / PPM) + ((128.8f / 2) / PPM), 0);  //Set the position to the normal position
+                hBody2.setTransform(hBody2.getPosition().x, ((1360 - 200 - 190) / PPM) + ((161 - 128.8f) / PPM) + ((128.8f / 2) / PPM), 0);
+            }
+                jumping = false;
         }
+
+        if (hBody1.getPosition().y < ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM) && !com.geven.headsoccer.screens.play_screen.objects.ContactListener.test){
+            hBody1.setGravityScale(1);
+            hBody2.setGravityScale(1);
+        }
+
+        Gdx.app.log("LUC",Boolean.toString(hBody1.getPosition().y >= ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM)) + " " +
+        Boolean.toString(com.geven.headsoccer.screens.play_screen.objects.ContactListener.test) + " " +
+        Float.toString(hBody1.getGravityScale()));
+
     }
 
 

@@ -89,6 +89,8 @@ public class SpriteOut {
 
         updateShoePosition();
 
+        oBody2.setTransform(oBody1.getPosition().x,oBody2.getPosition().y,0);
+
     }
     private void b2dHead(){
         //Body1:
@@ -185,14 +187,20 @@ public class SpriteOut {
         }
     }
     private void jumpHandlerUpdate(){
-        if (oBody1.getPosition().y >= ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM)){   //Check if the sprite is jumping
+        if (oBody1.getPosition().y >= ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM) || ContactListener.test){   //Check if the sprite is jumping
             oBody1.setGravityScale(0);           //Turn of the gravity
             oBody2.setGravityScale(0);
             oBody1.setLinearVelocity(oBody1.getLinearVelocity().x, 0);        //Set linearvelocity to 0
             oBody2.setLinearVelocity(oBody2.getLinearVelocity().x, 0);
-            oBody1.setTransform(oBody1.getPosition().x, ((1360 - 200 - 190) / PPM) + ((128.8f / 2) / PPM), 0);  //Set the position to the normal position
-            oBody2.setTransform(oBody2.getPosition().x,((1360 - 200 - 190) / PPM) + ((161 - 128.8f) / PPM) + ((128.8f / 2) / PPM),0);
-            jumping = false;
+            if (!ContactListener.test) {
+                oBody1.setTransform(oBody1.getPosition().x, ((1360 - 200 - 190) / PPM) + ((128.8f / 2) / PPM), 0);  //Set the position to the normal position
+                oBody2.setTransform(oBody2.getPosition().x, ((1360 - 200 - 190) / PPM) + ((161 - 128.8f) / PPM) + ((128.8f / 2) / PPM), 0);
+            }
+                jumping = false;
+        }
+        if (oBody1.getPosition().y < ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM) && !ContactListener.test){
+            oBody1.setGravityScale(1);
+            oBody2.setGravityScale(1);
         }
     }
     private void updateShoePosition(){
