@@ -1,6 +1,7 @@
 package com.geven.headsoccer.handler;
 
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.Sprite;
@@ -20,9 +21,14 @@ public class AssetLoader {
     public static TextureRegion ball;
     public static Sprite spriteBall;
 
+    public static Sound goal;
+    public static Sound boo;
+    public static Sound shoot;
+
     public static void load(){
         countriesFlags = new TextureAtlas(Gdx.files.internal("texture/countries.pack"));
-        teamslogos     = new TextureAtlas(Gdx.files.internal("texture/all.pack"));
+        //teamslogos     = new TextureAtlas(Gdx.files.internal("texture/all.pack"));
+        teamslogos = new TextureAtlas(Gdx.files.internal("texture/clubs/clubs.pack"));
         _GAMEBACKGROUND = new Texture(Gdx.files.internal("texture/game_background.png"));
         _GOAL = new Texture(Gdx.files.internal("texture/goal.png"));
 
@@ -46,6 +52,10 @@ public class AssetLoader {
         ball.flip(false,true);
         spriteBall = new Sprite(ball);
 
+        goal = Gdx.audio.newSound(Gdx.files.internal("sound/goal.mp3"));
+        boo = Gdx.audio.newSound(Gdx.files.internal("sound/boo.mp3"));
+        shoot = Gdx.audio.newSound(Gdx.files.internal("sound/shoot.mp3"));
+
     }
     public static void dispose(){
         countriesFlags.dispose();
@@ -54,5 +64,8 @@ public class AssetLoader {
         _GOAL.dispose();
         sprite.dispose();
         _BALL.dispose();
+        goal.dispose();
+        boo.dispose();
+        shoot.dispose();
     }
 }

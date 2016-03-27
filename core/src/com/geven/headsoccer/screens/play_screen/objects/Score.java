@@ -1,6 +1,7 @@
 package com.geven.headsoccer.screens.play_screen.objects;
 
 import com.badlogic.gdx.math.Vector2;
+import com.geven.headsoccer.handler.AssetLoader;
 import com.geven.headsoccer.screens.play_screen.gameworld.GameWorld;
 
 import static com.geven.headsoccer.handler.Vars.PPM;
@@ -27,11 +28,13 @@ public class Score {
         if ((Ball.ball.getPosition().x + (35 / PPM)) < (Goal.getPositionHome().x + Goal.getSizeHome().x) &&
                 Ball.ball.getPosition().y > Goal.getPositionHome().y && !GameWorld.goalScore ){
             score.y++;
+            AssetLoader.boo.play();
             GameWorld.goalScore = true;
         }
         if ((Ball.ball.getPosition().x - (35 / PPM)) > (Goal.getPositionOut().x) &&
                 Ball.ball.getPosition().y > Goal.getPositionOut().y && !GameWorld.goalScore){
             score.x++;
+            AssetLoader.goal.play();
             GameWorld.goalScore = true;
         }
 

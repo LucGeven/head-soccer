@@ -43,7 +43,7 @@ public class ComputerHandler {
         }
 
         //If the ball is above SpriteOut head
-        if ((Ball.ball.getPosition().x) + (100 / PPM) > (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM)) &&
+        if ((Ball.ball.getPosition().x) + (/*100*/150 / PPM) > (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM)) &&
                 Ball.ball.getPosition().x < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM))&&
                 Ball.ball.getPosition().y < SpriteOut.getoBody1().getPosition().y){
             SpriteOut.jumpIsPressed(true);
@@ -52,14 +52,21 @@ public class ComputerHandler {
             SpriteOut.jumpIsPressed(false);
         }
 
-        if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (100 / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))){
-            SpriteOut.shootIsPressed(true);
+        if (Ball.ball.getLinearVelocity().x <= 0){
+            if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (0/*200*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))){
+                SpriteOut.shootIsPressed(true);
+            }
+            else {
+                SpriteOut.shootIsPressed(false);
+            }
         }
         else {
-            SpriteOut.shootIsPressed(false);
+            if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (200/*100*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))) {
+                SpriteOut.shootIsPressed(true);
+            } else {
+                SpriteOut.shootIsPressed(false);
+            }
         }
-
-
 
     }
 

@@ -37,13 +37,15 @@ public class GameRender {
     private int i;              //Variable for check which value in country array
     private boolean draw;       //Check if country array isn't empty
 
-    private TextureRegion atlasTeams;       //Texture region for all logos
+    private TextureRegion atlasTeams, definitiveTeam, atlasDraggedTeam;       //Texture region for all logos
 
     public static float buttonsPositionX[];
     public static float buttonsPositionY[];
     int arrayValue;
 
     public static float deltaY;
+
+    public static String draggedTeam;
 
     public GameRender(){
         cam = new OrthographicCamera();
@@ -66,8 +68,8 @@ public class GameRender {
         layout = new GlyphLayout();
         layout.setText(font,teams[0]);
 
-        positionRectangle = new Vector2(1360/2-400,50);
-        positionText = new Vector2((280+ 500), (50) + (layout.height + layout.height /4));
+        positionRectangle = new Vector2(1360/2-400,50 + 200);
+        positionText = new Vector2((280+ 500), (50 + 200) + (layout.height + layout.height /4));
         surfaceRectangle = new Vector2(1000,150);
         margeRectangle = margeText = 20;
 
@@ -75,6 +77,8 @@ public class GameRender {
         i = 1;
 
         atlasTeams = new TextureRegion();
+        definitiveTeam = new TextureRegion();
+        atlasDraggedTeam = new TextureRegion();
 
         deltaY = 0;
 
@@ -82,17 +86,21 @@ public class GameRender {
         buttonsPositionY = new float[teams.length];
         arrayValue = 0;
 
+        draggedTeam = "";
+
     }
     public void render(){
-        Gdx.gl.glClearColor(0, 150 / 255f, 136 / 255f, 1);              //Material Color Background Hex Code = #009688
+        //Gdx.gl.glClearColor(0, 150 / 255f, 136 / 255f, 1);              //Material Color Background Hex Code = #009688
+        Gdx.gl.glClearColor(41 / 255f, 49 / 255f, 51 / 255f, 1); //rgba(41, 49, 51, 1)
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
         positionRectangle.y += deltaY;              //for scroll
         positionText.y += deltaY;                   //for scroll
 
+        Gdx.gl.glEnable(GL20.GL_BLEND);
         shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
-        shapeRenderer.setColor(Color.WHITE);
 
+        shapeRenderer.setColor(1,1,1,0.9f);
         //Draw rectangles:
         while (draw){
             if (i <= teams.length){
@@ -118,7 +126,7 @@ public class GameRender {
         draw = true;                                        //Next time again in the while loop
 
         shapeRenderer.end();
-
+        Gdx.gl.glDisable(GL20.GL_BLEND);
         spriteBatch.begin();                                            //Begin Spritebatch
 
         font.setColor(Color.BLACK);                                     //Make The font black
@@ -157,7 +165,36 @@ public class GameRender {
         }
         draw = true;
         spriteBatch.end();                                              //End Spritebatch
+        shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
+        shapeRenderer.setColor(new Color(255 / 255f, 71 / 255f, 111 / 255f, 1 / 255f));
+        shapeRenderer.rect(0, 0, 1360, 200);
+        shapeRenderer.end();
 
+        if (!VariablesHandler.myTeam.equals("")){
+            spriteBatch.begin();
+            definitiveTeam = AssetLoader.teamslogos.findRegion(VariablesHandler.myTeam);
+            definitiveTeam.flip(false, true);
+            spriteBatch.draw(definitiveTeam, 50, 25, 150, 150);
+            definitiveTeam.flip(false,true);
+
+            if (!draggedTeam.equals("")){
+                atlasDraggedTeam = AssetLoader.teamslogos.findRegion(draggedTeam);
+                atlasDraggedTeam.flip(false,true);
+                spriteBatch.draw(atlasDraggedTeam,1360-50-150,25,150,150);
+                atlasDraggedTeam.flip(false,true);
+            }
+            spriteBatch.end();
+        }
+        else {
+            if (!draggedTeam.equals("")){
+                spriteBatch.begin();
+                atlasDraggedTeam = AssetLoader.teamslogos.findRegion(draggedTeam);
+                atlasDraggedTeam.flip(false,true);
+                spriteBatch.draw(atlasDraggedTeam, 50, 25, 150, 150);
+                atlasDraggedTeam.flip(false,true);
+                spriteBatch.end();
+            }
+        }
 
     }
 }

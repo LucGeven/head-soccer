@@ -5,6 +5,8 @@ import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Contact;
 import com.badlogic.gdx.physics.box2d.ContactImpulse;
 import com.badlogic.gdx.physics.box2d.Manifold;
+import com.geven.headsoccer.handler.AssetLoader;
+
 public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactListener {
     private float prevX1, prevY1, prevX2, prevY2;
     private static Vector2 position1;
@@ -28,7 +30,8 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
 
         if ((contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == SpriteHome.gethShoe()) ||           //Collision with ball and shoe
                 (contact.getFixtureA().getBody() == SpriteHome.gethShoe() && contact.getFixtureB().getBody() == Ball.ball)){
-            Ball.ball.setLinearVelocity(0,0);
+            //Ball.ball.setLinearVelocity(0,0);
+            Ball.ball.setLinearVelocity(SpriteHome.gethBody1().getLinearVelocity().x,0);
             if (SpriteHome.gethTime() >= 0.2f){
                     Ball.ball.setLinearVelocity(SpriteHome.gethBody1().getLinearVelocity().x + 1,Ball.ball.getLinearVelocity().y);
             }
@@ -38,7 +41,8 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
         }
         if ((contact.getFixtureA().getBody() == Ball.ball && contact.getFixtureB().getBody() == SpriteOut.getoShoe()) ||
                 (contact.getFixtureA().getBody() == SpriteOut.getoShoe() && contact.getFixtureB().getBody() == Ball.ball)){
-            Ball.ball.setLinearVelocity(0,0);
+            //Ball.ball.setLinearVelocity(0,0);
+            Ball.ball.setLinearVelocity(SpriteOut.getoBody1().getLinearVelocity().x,0);
             if (SpriteOut.getoTime() >= 0.2f){
                     Ball.ball.setLinearVelocity(SpriteOut.getoBody1().getLinearVelocity().x - 1,Ball.ball.getLinearVelocity().y);
             }
@@ -52,6 +56,9 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
             if (Ball.ball.getLinearVelocity().x == 0) {
                 Ball.ball.setLinearVelocity(-1, 0);
             }
+        }
+        if (contact.getFixtureA().getBody() == Ball.ball || contact.getFixtureB().getBody() == Ball.ball){
+            AssetLoader.shoot.play();
         }
 
         prevX1 = SpriteHome.gethBody1().getPosition().x;

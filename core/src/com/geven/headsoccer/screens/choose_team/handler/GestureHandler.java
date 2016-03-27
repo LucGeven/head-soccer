@@ -14,7 +14,20 @@ public class GestureHandler implements GestureDetector.GestureListener {
 
     @Override
     public boolean touchDown(float x, float y, int pointer, int button) {
-        return false;
+        screenX = (x / Gdx.graphics.getWidth()) * 1360;       //Scale screenX
+        screenY = (y / Gdx.graphics.getHeight()) * 2040;      //Scale screenY
+
+        for (int i = 0; i <= VariablesHandler.finalCompetition.length - 1; i++) {
+
+            //Check if you touch the button:
+            if (screenY >= GameRender.buttonsPositionY[i] &&
+                    screenY <= GameRender.buttonsPositionY[i] + GameRender.surfaceRectangle.y) {
+                GameRender.draggedTeam = VariablesHandler.finalCompetition[i];
+                break;
+            }
+
+        }
+        return true;
     }
 
     @Override
@@ -29,7 +42,7 @@ public class GestureHandler implements GestureDetector.GestureListener {
                     screenY <= GameRender.buttonsPositionY[i] + GameRender.surfaceRectangle.y){
 
                 //Check if myTeam not is used:
-                if (VariablesHandler.myTeam == null){
+                if (VariablesHandler.myTeam.equals("")){
                     VariablesHandler.myTeam = VariablesHandler.finalCompetition[i];
 
                     CreateMenu.startChooseCountry();        //Start again choosecountry
@@ -64,7 +77,7 @@ public class GestureHandler implements GestureDetector.GestureListener {
     @Override
     public boolean pan(float x, float y, float deltaX, float deltaY) {
 
-        if (deltaY > 0 && GameRender.buttonsPositionY[0] >= 0){
+        if (deltaY > 0 && GameRender.buttonsPositionY[0] >= (0 + 200 + 50) ){
             deltaY = 0;
         }
         else if (deltaY < 0 && GameRender.buttonsPositionY[GameRender.buttonsPositionY.length-1] + GameRender.surfaceRectangle.y <= 2040 ){

@@ -42,8 +42,9 @@ public class GestureHandler implements InputProcessor{
         float touchY = new Float(screenY) / Gdx.graphics.getHeight() * 1360;
 
         if (Button.isPressed(120,1360-250,225,125,touchX,touchY)){          //If button back is pressed:
-            VariablesHandler.myTeam = null;
-            VariablesHandler.computerTeam = null;
+            VariablesHandler.myCountry = "";
+            VariablesHandler.myTeam = "";
+            VariablesHandler.computerTeam = "";
             headsoccer.screenRotation.rotateScreen("portrait");
             headsoccer.setScreen(new ChooseCountry(headsoccer));
         }
