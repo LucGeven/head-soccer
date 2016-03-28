@@ -34,6 +34,11 @@ public class VariablesHandler {
     public static String NEDERLAND[] = {"PSV","AJAX","FEYENOORD","AZ","SC HEERENVEEN","FC TWENTE","VITESSE","NEC","RODA JC","FC UTRECHT","HERACLES ALMELO","FC GRONINGEN","ADO DEN HAAG","PEC ZWOLLE","WILLEM II","SC CAMBUUR","DE GRAAFSCHAP","EXCELSIOR"};
 
     //Set the home team and the away team. The home team is myTeam and the away team is computerTeam. :
-    public static String myTeam = "";
-    public static String computerTeam = "";
+    public static String myTeam;
+    public static String computerTeam;
+
+    public VariablesHandler(){
+        myTeam = "";
+        computerTeam = "";
+    }
 }

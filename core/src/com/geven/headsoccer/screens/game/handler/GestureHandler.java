@@ -49,7 +49,7 @@ public class GestureHandler implements InputProcessor{
             headsoccer.setScreen(new ChooseCountry(headsoccer));
         }
         else if (Button.isPressed(2040 - 120 - 225, 1360 - 250, 225, 125,touchX,touchY)){
-            headsoccer.setScreen(new PlayScreen());
+            headsoccer.setScreen(new PlayScreen(headsoccer));
         }
 
         return true;

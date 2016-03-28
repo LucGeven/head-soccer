@@ -2,6 +2,7 @@ package com.geven.headsoccer.screens.play_screen.objects;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.utils.Timer;
+import com.geven.headsoccer.screens.play_screen.PlayScreen;
 
 public class TimerHandler {
 
@@ -12,7 +13,7 @@ public class TimerHandler {
     private static int second;
 
     public TimerHandler(){
-        //Initialize how long the match duurt
+        //Initialize how long the match is
         minute = 2;
         tientallen = 0;
         second = 0;
@@ -30,8 +31,11 @@ public class TimerHandler {
             timer -= 1;
         }
         //Check if time = 0:00
-        if (minute <= 0 && tientallen <= 0 && second <= 0){
-            minute = tientallen = second = 0;
+        if (minute <= 0 && tientallen <= 0 && second <= -1){
+            minute = tientallen = second = -1;
+
+            PlayScreen.headsoccer.startActivity.startActivity("com.geven.headsoccer.game.android.AD_ACTIVITY");
+
         }
         else {
             if (second < 0){

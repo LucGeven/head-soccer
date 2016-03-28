@@ -58,9 +58,9 @@ public class ContactListener implements com.badlogic.gdx.physics.box2d.ContactLi
                 Ball.ball.setLinearVelocity(-1, 0);
             }
         }
-        if (contact.getFixtureA().getBody() == Ball.ball || contact.getFixtureB().getBody() == Ball.ball){
+        /*if (contact.getFixtureA().getBody() == Ball.ball || contact.getFixtureB().getBody() == Ball.ball){
             AssetLoader.shoot.play();
-        }
+        }*/
 
 
         prevX1 = SpriteHome.gethBody1().getPosition().x;
