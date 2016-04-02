@@ -14,8 +14,8 @@ public class ComputerHandler {
     }
 
     public void update(){
-
-        if (Ball.ball.getPosition().x < (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM)) && Ball.ball.getPosition().x > (2040 / 2 / PPM)){  //If the ball is on spriteOut side
+        //If the ball is on his playside, then go to the ball
+        if (Ball.ball.getPosition().x < (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM)) /*&& Ball.ball.getPosition().x > (2040 / 2 / PPM)*/){  //If the ball is on spriteOut side
             SpriteOut.leftIsPressed(true);
             check = true;
         }
@@ -23,6 +23,7 @@ public class ComputerHandler {
             SpriteOut.leftIsPressed(false);
             check = false;
         }
+        //If the ball is behind the player, then go backward
         if ((Ball.ball.getPosition().x - (35 / PPM)) > (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM))){
             SpriteOut.rightIsPressed(true);
             rightIsPressedBool = true;
@@ -52,7 +53,7 @@ public class ComputerHandler {
             SpriteOut.jumpIsPressed(false);
         }
 
-        if (Ball.ball.getLinearVelocity().x <= 0){
+        if (Ball.ball.getLinearVelocity().x <= -0.5){
             if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (0/*200*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))){
                 SpriteOut.shootIsPressed(true);
             }
@@ -61,7 +62,7 @@ public class ComputerHandler {
             }
         }
         else {
-            if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (200/*100*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))) {
+            if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (150/*100*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))) {
                 SpriteOut.shootIsPressed(true);
             } else {
                 SpriteOut.shootIsPressed(false);

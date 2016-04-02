@@ -5,10 +5,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
 
 public class AdActivity extends Activity {
 
@@ -31,6 +36,26 @@ public class AdActivity extends Activity {
             public void onAdClosed() {
                 //requestNewInterstitial();
                 startActivity(new Intent("com.geven.headsoccer.LIBGDX"));
+            }
+
+            @Override
+            public void onAdFailedToLoad(int errorCode) {
+                super.onAdFailedToLoad(errorCode);
+                if (errorCode == 2){
+                    BufferedReader in;
+                    try {
+                        in = new BufferedReader(new InputStreamReader(new FileInputStream("/etc/hosts")));
+                        String line;
+                        while ((line = in.readLine()) != null){
+                            if (line.contains("admob")){
+                                Toast.makeText(getApplicationContext(),"Disable AdBlocker!",Toast.LENGTH_LONG).show();
+                                break;
+                            }
+                        }
+                    }catch(Exception e){
+                        e.printStackTrace();
+                    }
+                }
             }
         });
 

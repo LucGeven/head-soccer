@@ -45,11 +45,17 @@ public class GestureHandler implements GestureDetector.GestureListener {
                 if (VariablesHandler.myTeam.equals("")){
                     VariablesHandler.myTeam = VariablesHandler.finalCompetition[i];
 
+                    VariablesHandler.positionInFinalCompetition = i;
+                    VariablesHandler.lenghtPositionInFinalCompetition = VariablesHandler.finalCompetition.length - 1;
                     CreateMenu.startChooseCountry();        //Start again choosecountry
                 }
                 //If myTeam is used
                 else {
                     VariablesHandler.computerTeam = VariablesHandler.finalCompetition[i];
+
+                    VariablesHandler.positionInFinalComputerCompetition = i;
+                    VariablesHandler.lengthPositionInFinalComputerCompetition = VariablesHandler.finalCompetition.length - i;
+
 
                     Gdx.app.log("TEAM",VariablesHandler.myTeam);
                     Gdx.app.log("TEAM",VariablesHandler.computerTeam);

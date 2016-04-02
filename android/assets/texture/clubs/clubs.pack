@@ -38,7 +38,7 @@ EQALUK 54
   orig: 150, 150
   offset: 0, 0
   index: -1
-CS-GREVENMACHER
+CS GREVENMACHER
   rotate: false
   xy: 305, 861
   size: 150, 150
@@ -52,7 +52,7 @@ SV DAKOTA
   orig: 150, 150
   offset: 0, 0
   index: -1
-RENNES
+STADE RENNAIS
   rotate: false
   xy: 153, 557
   size: 150, 150
@@ -66,7 +66,7 @@ FK KLAIPEDOS
   orig: 150, 150
   offset: 0, 0
   index: -1
-FENERBAH�E SK
+FENERBAHCE SK
   rotate: false
   xy: 457, 861
   size: 150, 150
@@ -143,7 +143,7 @@ FC TIRASPOL
   orig: 150, 150
   offset: 0, 0
   index: -1
-BUDAPEST HONV�D
+BUDAPEST HONVED
   rotate: false
   xy: 761, 861
   size: 150, 150
@@ -330,7 +330,7 @@ DIAMOND FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-HUNDURAS PROGRESO
+HONDURAS PROGRESO
   rotate: false
   xy: 153, 619
   size: 150, 150
@@ -358,7 +358,7 @@ MANILA JEEPNEY
   orig: 150, 150
   offset: 0, 0
   index: -1
-FK MLAD�
+FK MLADA
   rotate: false
   xy: 761, 609
   size: 150, 150
@@ -622,14 +622,14 @@ CAYMAN BRAC
   orig: 150, 150
   offset: 0, 0
   index: -1
-PROGR�S-NIEDERCORN
+PROGRES NIEDERCORN
   rotate: false
   xy: 153, 305
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-KF SHK�NDIJA
+KF SHKENDIJA
   rotate: false
   xy: 305, 457
   size: 150, 150
@@ -643,7 +643,7 @@ GOLDEN ARROWS
   orig: 150, 150
   offset: 0, 0
   index: -1
-LARNAKA GEN�LER
+LARNAKA GENCLER
   rotate: false
   xy: 609, 761
   size: 150, 150
@@ -823,14 +823,14 @@ SINT-TRUIDEN
   orig: 150, 150
   offset: 0, 0
   index: -1
-CD SUCHITEP�QUEZ
+CD SUCHITEPEQUEZ
   rotate: false
   xy: 1, 457
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC SLOV�CKO
+FC SLOVACKO
   rotate: false
   xy: 153, 609
   size: 150, 150
@@ -886,7 +886,7 @@ FK GOMEL
   orig: 150, 150
   offset: 0, 0
   index: -1
-RM-HAMM-BENFICA
+RM HAMM BENFICA
   rotate: false
   xy: 305, 457
   size: 150, 150
@@ -963,7 +963,7 @@ CD SANTIAGO
   orig: 150, 150
   offset: 0, 0
   index: -1
-DOGAN T�RK
+DOGAN TURK
   rotate: false
   xy: 457, 305
   size: 150, 150
@@ -1012,7 +1012,7 @@ FK TOBOL
   orig: 150, 150
   offset: 0, 0
   index: -1
-CD �GUILA
+CD AGUILA
   rotate: false
   xy: 457, 1
   size: 150, 150
@@ -1047,7 +1047,7 @@ G-44 QUEQERTARSUAQ
   orig: 150, 150
   offset: 0, 0
   index: -1
-HERTHA-BSC
+HERTHA BSC
   rotate: false
   xy: 761, 1
   size: 150, 150
@@ -1080,14 +1080,14 @@ WISLA KRAKOW
   orig: 150, 150
   offset: 0, 0
   index: -1
-OLYMPIQUE-MARSEILLE
+OLYMPIQUE MARSEILLE
   rotate: false
   xy: 1, 457
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-K�C�K KAYMAKLI
+KUCUK KAYMAKLI
   rotate: false
   xy: 153, 609
   size: 150, 150
@@ -1316,7 +1316,7 @@ clubs6.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-CLUB SOL DE AM�RICA
+CLUB SOL DE AMERICA
   rotate: false
   xy: 1, 761
   size: 150, 150
@@ -1351,7 +1351,7 @@ FUS RABAT
   orig: 150, 150
   offset: 0, 0
   index: -1
-VFB-STUTTGART
+VFB STUTTGART
   rotate: false
   xy: 305, 761
   size: 150, 150
@@ -1734,7 +1734,7 @@ BIDVEST WITS
   orig: 150, 150
   offset: 0, 0
   index: -1
-BAYERN-M�NCHEN
+BAYERN MÜNCHEN
   rotate: false
   xy: 609, 609
   size: 150, 150
@@ -1748,7 +1748,7 @@ RHYL FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC-INGOLSTADT-04
+FC INGOLSTADT
   rotate: false
   xy: 153, 1
   size: 150, 150
@@ -1846,7 +1846,7 @@ EB STREYMUR
   orig: 150, 150
   offset: 0, 0
   index: -1
-ATROMITOS ATH�NA
+ATROMITOS ATHINA
   rotate: false
   xy: 761, 1
   size: 150, 150
@@ -1907,7 +1907,7 @@ KILMARNOCK FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-KR REYKJAV�K
+KR REYKJAVIK
   rotate: false
   xy: 153, 457
   size: 150, 150
@@ -2033,7 +2033,7 @@ SPORT LISBOA
   orig: 150, 150
   offset: 0, 0
   index: -1
-KF KEFLAV�K
+KF KEFLAVIK
   rotate: false
   xy: 761, 609
   size: 150, 150
@@ -2283,7 +2283,7 @@ ULISSES FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-PAE V�ROIA
+PAE VEROIA
   rotate: false
   xy: 609, 457
   size: 150, 150
@@ -2297,7 +2297,7 @@ FK ENERGETIK
   orig: 150, 150
   offset: 0, 0
   index: -1
-RACING-UNION-LUXEMBURG
+RACING UNION LUXEMBURG
   rotate: false
   xy: 305, 1
   size: 150, 150
@@ -2400,7 +2400,7 @@ CS CONCORDIA
   orig: 150, 150
   offset: 0, 0
   index: -1
-PUSK�S FC
+PUSKAS FC
   rotate: false
   xy: 153, 609
   size: 150, 150
@@ -2706,7 +2706,7 @@ NEFTCI PFK
   orig: 150, 150
   offset: 0, 0
   index: -1
-1899-HOFFENHEIM
+1899 HOFFENHEIM
   rotate: false
   xy: 153, 457
   size: 150, 150
@@ -2921,7 +2921,7 @@ LONGFORD TOWN
   orig: 150, 150
   offset: 0, 0
   index: -1
-V�KINGUR GOTA
+VIKINGUR GOTA
   rotate: false
   xy: 1, 609
   size: 150, 150
@@ -2984,14 +2984,14 @@ SHEPHERDS UNITED
   orig: 150, 150
   offset: 0, 0
   index: -1
-AS P�LICAN
+AS PELICAN
   rotate: false
   xy: 1, 153
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-CS CARTAGIN�S
+CS CARTAGINES
   rotate: false
   xy: 153, 305
   size: 150, 150
@@ -3110,7 +3110,7 @@ PAE ENOSIS
   orig: 150, 150
   offset: 0, 0
   index: -1
-�F FYLKIR
+IF FYLKIR
   rotate: false
   xy: 609, 305
   size: 150, 150
@@ -3131,7 +3131,7 @@ OH LEUVEN
   orig: 150, 150
   offset: 0, 0
   index: -1
-HANNOVER-96
+HANNOVER 96
   rotate: false
   xy: 609, 153
   size: 150, 150
@@ -3248,7 +3248,7 @@ FC SHERIFF
   orig: 150, 150
   offset: 0, 0
   index: -1
-AL-HUSSEIN SC
+AL HUSSEIN SC
   rotate: false
   xy: 153, 305
   size: 150, 150
@@ -3325,7 +3325,7 @@ NK RUDAR
   orig: 150, 150
   offset: 0, 0
   index: -1
-�A AKRANES
+IA AKRANES
   rotate: false
   xy: 305, 153
   size: 150, 150
@@ -3428,7 +3428,7 @@ clubs14.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-RACING CLUB HA�TIEN
+RACING CLUB HAITIEN
   rotate: false
   xy: 1, 761
   size: 150, 150
@@ -3456,7 +3456,7 @@ TORONTO FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-BORUSSIA-DORTMUND
+BORUSSIA DORTMUND
   rotate: false
   xy: 153, 609
   size: 150, 150
@@ -3505,7 +3505,7 @@ AL-SHOALAH
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC-AUGSBURG
+FC AUGSBURG
   rotate: false
   xy: 153, 305
   size: 150, 150
@@ -3603,7 +3603,7 @@ CA FENIX
   orig: 150, 150
   offset: 0, 0
   index: -1
-P�RNU LINNAMEESKOND
+PARNU LINNAMEESKOND
   rotate: false
   xy: 761, 609
   size: 150, 150
@@ -3748,7 +3748,7 @@ AKANDA FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-DARMSTADT-98
+DARMSTADT 98
   rotate: false
   xy: 457, 761
   size: 150, 150
@@ -3804,7 +3804,7 @@ NICE
   orig: 150, 150
   offset: 0, 0
   index: -1
-CLUB LE�N
+CLUB LEON
   rotate: false
   xy: 305, 305
   size: 150, 150
@@ -3942,7 +3942,7 @@ clubs16.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-CD ATL�TICO
+CD ATLETICO
   rotate: false
   xy: 1, 761
   size: 150, 150
@@ -3956,7 +3956,7 @@ APOLLON FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-AFC BOURNEMOUTH
+BOURNEMOUTH
   rotate: false
   xy: 153, 761
   size: 150, 150
@@ -3977,7 +3977,7 @@ ROSENBORG BK
   orig: 150, 150
   offset: 0, 0
   index: -1
-STADE MIGOV�EN
+STADE MIGOVEEN
   rotate: false
   xy: 305, 761
   size: 150, 150
@@ -4124,7 +4124,7 @@ ST LAWRENCE SPURS
   orig: 150, 150
   offset: 0, 0
   index: -1
-CSD XELAJ� MC
+CSD XELAJU MC
   rotate: false
   xy: 305, 1
   size: 150, 150
@@ -4346,7 +4346,7 @@ ZOB AHAN
   orig: 150, 150
   offset: 0, 0
   index: -1
-CD DRAG�N
+CD DRAGON
   rotate: false
   xy: 153, 1
   size: 150, 150
@@ -4360,7 +4360,7 @@ MORMENEKSE
   orig: 150, 150
   offset: 0, 0
   index: -1
-MONACO
+AS MONACO
   rotate: false
   xy: 457, 305
   size: 150, 150
@@ -4463,7 +4463,7 @@ HOBRO IK
   orig: 150, 150
   offset: 0, 0
   index: -1
-LIM�N FC
+LIMON FC
   rotate: false
   xy: 1, 609
   size: 150, 150
@@ -4582,7 +4582,7 @@ FF JARO JS
   orig: 150, 150
   offset: 0, 0
   index: -1
-AL-FAISALY
+AL FAISALY
   rotate: false
   xy: 457, 457
   size: 150, 150
@@ -4734,7 +4734,7 @@ MOSTA FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-AH CHIEVO VERONA
+AC CHIEVO VERONA
   rotate: false
   xy: 1, 457
   size: 150, 150
@@ -4811,14 +4811,14 @@ SV RACING CLUB
   orig: 150, 150
   offset: 0, 0
   index: -1
-�JPEST FC
+UJPEST FC
   rotate: false
   xy: 609, 761
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-JEUNESSE-DESCH
+JEUNESSE DESCH
   rotate: false
   xy: 1, 1
   size: 150, 150
@@ -4944,7 +4944,7 @@ FK ATLANTAS
   orig: 150, 150
   offset: 0, 0
   index: -1
-JK SILLAM�E
+JK SILLAMAE
   rotate: false
   xy: 609, 1
   size: 150, 150
@@ -4991,14 +4991,14 @@ SAN GIOVANNI
   orig: 150, 150
   offset: 0, 0
   index: -1
-VFL-WOLFSBURG
+VFL WOLFSBURG
   rotate: false
   xy: 1, 457
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-CF AM�RICA
+CF AMERICA
   rotate: false
   xy: 153, 609
   size: 150, 150
@@ -5026,7 +5026,7 @@ FC THUN
   orig: 150, 150
   offset: 0, 0
   index: -1
-WERDER-BREMEN
+WERDER BREMEN
   rotate: false
   xy: 305, 609
   size: 150, 150
@@ -5061,7 +5061,7 @@ FA SELANGOR
   orig: 150, 150
   offset: 0, 0
   index: -1
-PARTICK THISTLE
+PATRICK THISTLE
   rotate: false
   xy: 457, 609
   size: 150, 150
@@ -6276,7 +6276,7 @@ FK KUBAN
   orig: 150, 150
   offset: 0, 0
   index: -1
-�ETINKAYA T�RK
+CETINKAYA TURK
   rotate: false
   xy: 153, 761
   size: 150, 150
@@ -6325,7 +6325,7 @@ HELLAS VERONA
   orig: 150, 150
   offset: 0, 0
   index: -1
-K�
+KI
   rotate: false
   xy: 457, 761
   size: 150, 150
@@ -6409,7 +6409,7 @@ FK LOKOMOTIV MOSKVA
   orig: 150, 150
   offset: 0, 0
   index: -1
-SAINT-�TIENNE
+SAINT ETIENNE
   rotate: false
   xy: 153, 1
   size: 150, 150
@@ -6465,7 +6465,7 @@ KOLOALE FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-KF V�LLAZNIMI
+KF VELLAZNIMI
   rotate: false
   xy: 761, 457
   size: 150, 150
@@ -6846,7 +6846,7 @@ MUNICIPAL LIBERIA
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC GUANT�NAMO
+FC GUANTANAMO
   rotate: false
   xy: 457, 609
   size: 150, 150
@@ -6916,7 +6916,7 @@ SHILLONG LAJONG
   orig: 150, 150
   offset: 0, 0
   index: -1
-YENI BOGAZI�I
+YENI BOGAZICI
   rotate: false
   xy: 153, 305
   size: 150, 150
@@ -7047,21 +7047,21 @@ TRACTOR SAZI
   orig: 150, 150
   offset: 0, 0
   index: -1
-DEPORTIVO MICTL�N
+DEPORTIVO MICTLAN
   rotate: false
   xy: 1, 609
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-DI�SGY�RI
+DIOSGYORI
   rotate: false
   xy: 153, 761
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-UMF FJ�LNIR
+UMF FJOLNIR
   rotate: false
   xy: 1, 457
   size: 150, 150
@@ -7215,7 +7215,7 @@ ERMIS FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-UNA-STRASSEN
+UNA STRASSEN
   rotate: false
   xy: 761, 609
   size: 150, 150
@@ -7271,7 +7271,7 @@ BARBICAN FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC PA�OS
+FC PACOS
   rotate: false
   xy: 609, 1
   size: 150, 150
@@ -7444,14 +7444,14 @@ FK AKTOBE
   orig: 150, 150
   offset: 0, 0
   index: -1
-QUER�TARO FC
+QUERETARO FC
   rotate: false
   xy: 153, 1
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-AM�RICA FC
+AMERICA FC
   rotate: false
   xy: 305, 153
   size: 150, 150
@@ -7568,7 +7568,7 @@ PUSAMANIA
   orig: 150, 150
   offset: 0, 0
   index: -1
-HAFNARFJ�ROUR
+HAFNARFJOROUR
   rotate: false
   xy: 153, 761
   size: 150, 150
@@ -7736,7 +7736,7 @@ MALAVAN BANDAR
   orig: 150, 150
   offset: 0, 0
   index: -1
-IZ KH�MISSET
+IZ KHEMISSET
   rotate: false
   xy: 305, 1
   size: 150, 150
@@ -7771,7 +7771,7 @@ GD INTERCLUBE
   orig: 150, 150
   offset: 0, 0
   index: -1
-KF V�KINGUR
+KF VIKINGUR
   rotate: false
   xy: 609, 153
   size: 150, 150
@@ -7937,7 +7937,7 @@ NEW RADIANT SC
   orig: 150, 150
   offset: 0, 0
   index: -1
-AS AN�RTHOSIS
+AS ANORTHOSIS
   rotate: false
   xy: 457, 457
   size: 150, 150
@@ -8021,7 +8021,7 @@ OQABAN HINDUKUSH
   orig: 150, 150
   offset: 0, 0
   index: -1
-AS SOLIDARIT�
+AS SOLIDARITE
   rotate: false
   xy: 457, 1
   size: 150, 150
@@ -8035,7 +8035,7 @@ FC SAPOVNELA
   orig: 150, 150
   offset: 0, 0
   index: -1
-ELECTRICIT�
+ELECTRICITE
   rotate: false
   xy: 761, 305
   size: 150, 150
@@ -8180,7 +8180,7 @@ WAIBOP UNITED
   orig: 150, 150
   offset: 0, 0
   index: -1
-NS� RUNAV�K
+NSI RUNAVIK
   rotate: false
   xy: 153, 153
   size: 150, 150
@@ -8271,7 +8271,7 @@ CLUB BRUGGE
   orig: 150, 150
   offset: 0, 0
   index: -1
-VICTORIA-ROSPORT
+VICTORIA ROSPORT
   rotate: false
   xy: 761, 457
   size: 150, 150
@@ -8437,7 +8437,7 @@ RIVOLI UNITED
   orig: 150, 150
   offset: 0, 0
   index: -1
-BORUSSIA-M�NCHENGLADBACH
+MONCHENGLADBACH
   rotate: false
   xy: 153, 153
   size: 150, 150
@@ -8451,7 +8451,7 @@ DEVONSHIRE COUGARS
   orig: 150, 150
   offset: 0, 0
   index: -1
-T�RK OCAGI
+TURK OCAGI
   rotate: false
   xy: 457, 457
   size: 150, 150
@@ -8472,7 +8472,7 @@ CHAMPASAK UNITED
   orig: 150, 150
   offset: 0, 0
   index: -1
-AEL LEMES�S
+AEL LEMESOS
   rotate: false
   xy: 153, 1
   size: 150, 150
@@ -8486,7 +8486,7 @@ SORINET FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-FERENCV�ROSI
+FERENCVAROSI
   rotate: false
   xy: 457, 305
   size: 150, 150
@@ -8521,7 +8521,7 @@ CLB CAN THO
   orig: 150, 150
   offset: 0, 0
   index: -1
-CD ATL�TICO CHIRIQUI
+CD ATLETICO CHIRIQUI
   rotate: false
   xy: 609, 305
   size: 150, 150
@@ -8542,7 +8542,7 @@ REWA FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-SEIN�JOEN JK
+SEINAJOEN JK
   rotate: false
   xy: 609, 153
   size: 150, 150
@@ -8603,7 +8603,7 @@ FK BODO
   orig: 150, 150
   offset: 0, 0
   index: -1
-B�K�SCSABAI
+BEKESCSABAI
   rotate: false
   xy: 1, 457
   size: 150, 150
@@ -8736,7 +8736,7 @@ CHEPO FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-GAZ�LEC-AJACCIO
+GAZELEC AJACCIO
   rotate: false
   xy: 305, 153
   size: 150, 150
@@ -8799,7 +8799,7 @@ MP UNITED FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-SKODA X�NTHI
+SKODA XANTHI
   rotate: false
   xy: 609, 153
   size: 150, 150
@@ -8813,7 +8813,7 @@ WAPDA FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-CD MARATH�N
+CD MARATHON
   rotate: false
   xy: 609, 1
   size: 150, 150
@@ -8846,7 +8846,7 @@ SAVAN FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-BAYER-LEVERKUSEN
+BAYER LEVERKUSEN
   rotate: false
   xy: 1, 609
   size: 150, 150
@@ -8888,7 +8888,7 @@ HAJDUK SPLIT
   orig: 150, 150
   offset: 0, 0
   index: -1
-OLYMPIQUE-LYONNAIS
+OLYMPIQUE LYONNAIS
   rotate: false
   xy: 153, 457
   size: 150, 150
@@ -8916,14 +8916,14 @@ FK AHAL
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC CAMAG�EY
+FC CAMAGUEY
   rotate: false
   xy: 153, 305
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-EINTRACHT-FRANKFURT
+EINTRACHT FRANKFURT
   rotate: false
   xy: 305, 457
   size: 150, 150
@@ -9070,7 +9070,7 @@ LANEXANG UNITED
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC BAN�K
+FC BANIK
   rotate: false
   xy: 609, 1
   size: 150, 150
@@ -9084,7 +9084,7 @@ GLOBAL FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-FSV-MAINZ-05
+FSV MAINZ
   rotate: false
   xy: 761, 1
   size: 150, 150
@@ -9187,7 +9187,7 @@ PHILADELPHIA UNION
   orig: 150, 150
   offset: 0, 0
   index: -1
-A�K L�RNAKA
+AEK LARNAKA
   rotate: false
   xy: 457, 609
   size: 150, 150
@@ -9271,14 +9271,14 @@ HNK RIJEKA
   orig: 150, 150
   offset: 0, 0
   index: -1
-MONDORF-LES-BAINS
+MONDORF LES BAINS
   rotate: false
   xy: 761, 609
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-FOLA-ESCH
+FOLA ESCH
   rotate: false
   xy: 305, 1
   size: 150, 150
@@ -9341,7 +9341,7 @@ MUMBAI FC
   orig: 150, 150
   offset: 0, 0
   index: -1
-�F FUGLAFJOROUR
+IF FUGLAFJOROUR
   rotate: false
   xy: 761, 1
   size: 150, 150
@@ -9416,7 +9416,7 @@ PAIDE LINNAMEESKOND
   orig: 150, 150
   offset: 0, 0
   index: -1
-COB�N IMPERIAL
+COBAN IMPERIAL
   rotate: false
   xy: 457, 761
   size: 150, 150
@@ -9570,7 +9570,7 @@ JUVENTUS
   orig: 150, 150
   offset: 0, 0
   index: -1
-DIFFERDANGE-03
+DIFFERDANGE 03
   rotate: false
   xy: 609, 153
   size: 150, 150
@@ -9659,7 +9659,7 @@ PERSIPURA
   orig: 150, 150
   offset: 0, 0
   index: -1
-MAGUSA T�RK
+MAGUSA TURK
   rotate: false
   xy: 153, 457
   size: 150, 150
@@ -9708,7 +9708,7 @@ SEMEN PADANG
   orig: 150, 150
   offset: 0, 0
   index: -1
-PANAITOLIK�S
+PANAITOLIKOS
   rotate: false
   xy: 609, 761
   size: 150, 150
@@ -9841,7 +9841,7 @@ SHAKHTYOR SOLIGORSK
   orig: 150, 150
   offset: 0, 0
   index: -1
-SANTOS DE GU�PILES
+SANTOS DE GUAPILES
   rotate: false
   xy: 609, 1
   size: 150, 150
@@ -9965,7 +9965,7 @@ CMAC UNITED
   orig: 150, 150
   offset: 0, 0
   index: -1
-SCHALKE-04
+SCHALKE 04
   rotate: false
   xy: 609, 761
   size: 150, 150
@@ -10056,7 +10056,7 @@ JIANGSU
   orig: 150, 150
   offset: 0, 0
   index: -1
-BEL�N BRIDGESTONE
+BELEN BRIDGESTONE
   rotate: false
   xy: 457, 153
   size: 150, 150
@@ -10215,7 +10215,7 @@ IFK GOTEBORG
   orig: 150, 150
   offset: 0, 0
   index: -1
-�AYKUR RIZESPOR K
+CAYKUR RIZESPOR K
   rotate: false
   xy: 457, 609
   size: 150, 150
@@ -10430,14 +10430,14 @@ ELITE SC
   orig: 150, 150
   offset: 0, 0
   index: -1
-FC-K�LN
+FC KOLN
   rotate: false
   xy: 153, 457
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-HAMBURGER-SV
+HAMBURGER SV
   rotate: false
   xy: 305, 609
   size: 150, 150
@@ -10535,7 +10535,7 @@ AARHUS GF
   orig: 150, 150
   offset: 0, 0
   index: -1
-F91-DUDELANGE
+F91 DUDELANGE
   rotate: false
   xy: 305, 153
   size: 150, 150
@@ -10619,7 +10619,7 @@ KALMAR FF
   orig: 150, 150
   offset: 0, 0
   index: -1
-ETZELLA-ETTELBR�CK
+ETZELLA ETTELBRUCK
   rotate: false
   xy: 761, 153
   size: 150, 150

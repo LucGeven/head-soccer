@@ -187,6 +187,6 @@ public class GameRender {
 
         spritebatchFont.end();
 
-        box2DDebugRenderer.render(PlayScreen.getWorld(),cam.combined);
+        //box2DDebugRenderer.render(PlayScreen.getWorld(),cam.combined);
     }
 }

@@ -17,6 +17,7 @@ import com.badlogic.gdx.physics.box2d.ContactListener;
 import com.badlogic.gdx.physics.box2d.FixtureDef;
 import com.badlogic.gdx.physics.box2d.Manifold;
 import com.badlogic.gdx.physics.box2d.PolygonShape;
+import com.geven.headsoccer.handler.VariablesHandler;
 import com.geven.headsoccer.screens.play_screen.PlayScreen;
 
 public class SpriteHome {
@@ -60,6 +61,11 @@ public class SpriteHome {
         size = new Vector2(200 / PPM,200 / PPM);
 
         velocityWalk = 300 / PPM;    //160
+        //velocityWalk = 300 - ((300 / (VariablesHandler.finalCompetition.length - 1) * VariablesHandler.positionInFinalCompetition));
+        /*velocityWalk = (300 - ((300 / VariablesHandler.lenghtPositionInFinalCompetition) * VariablesHandler.positionInFinalCompetition)) / PPM;
+        if (velocityWalk < 200 / PPM){
+            velocityWalk = 200 / PPM;
+        }*/
 
         runTime = 0;
         shootIsPressed = false;
@@ -282,9 +288,6 @@ public class SpriteHome {
             hBody2.setGravityScale(1);
         }
 
-        Gdx.app.log("LUC",Boolean.toString(hBody1.getPosition().y >= ((1360 - 200 - 190) / PPM ) + ((128.8f / 2) / PPM)) + " " +
-        Boolean.toString(com.geven.headsoccer.screens.play_screen.objects.ContactListener.test) + " " +
-        Float.toString(hBody1.getGravityScale()));
 
     }
 

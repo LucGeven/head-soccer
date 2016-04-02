@@ -1,11 +1,13 @@
 package com.geven.headsoccer.screens.play_screen.objects;
 
+import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.BodyDef;
 import com.badlogic.gdx.physics.box2d.CircleShape;
 import com.badlogic.gdx.physics.box2d.FixtureDef;
 import com.badlogic.gdx.physics.box2d.PolygonShape;
+import com.geven.headsoccer.handler.VariablesHandler;
 import com.geven.headsoccer.screens.play_screen.PlayScreen;
 
 import static com.geven.headsoccer.handler.Vars.COLLISION;
@@ -55,6 +57,12 @@ public class SpriteOut {
         size = new Vector2(200 / PPM,200 / PPM);
 
         velocityWalk = 300 / PPM;    //160  //200
+        //velocityWalk = 300 - ((300 / (VariablesHandler.computerFinalCompetition.length - 1) * VariablesHandler.positionInFinalComputerCompetition));
+        /*velocityWalk = (300 - ((300 / VariablesHandler.lengthPositionInFinalComputerCompetition) * VariablesHandler.positionInFinalComputerCompetition)) / PPM;
+        if (velocityWalk < 200 / PPM){
+            velocityWalk = 200 / PPM;
+        }*/
+
 
         runTime = 0;
         shootIsPressed = false;
@@ -89,7 +97,7 @@ public class SpriteOut {
 
         updateShoePosition();
 
-        oBody2.setTransform(oBody1.getPosition().x,oBody2.getPosition().y,0);
+        oBody2.setTransform(oBody1.getPosition().x, oBody2.getPosition().y, 0);
 
     }
     private void b2dHead(){

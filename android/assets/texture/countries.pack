@@ -297,7 +297,7 @@ COOK-EILANDEN
   orig: 128, 128
   offset: 0, 0
   index: -1
-COSTA-RICA
+COSTA RICA
   rotate: false
   xy: 781, 1561
   size: 128, 128
@@ -367,7 +367,7 @@ EGYPTE
   orig: 128, 128
   offset: 0, 0
   index: -1
-EL-SALVADOR
+EL SALVADOR
   rotate: false
   xy: 911, 1561
   size: 128, 128
@@ -409,7 +409,7 @@ ETHIOPI�
   orig: 128, 128
   offset: 0, 0
   index: -1
-FAER�ER
+FAEROER
   rotate: false
   xy: 391, 911
   size: 128, 128
@@ -472,7 +472,7 @@ GAMBIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-GEORGI�
+GEORGIE
   rotate: false
   xy: 131, 521
   size: 128, 128
@@ -489,6 +489,13 @@ GHANA
 GIBRALTAR
   rotate: false
   xy: 391, 781
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GOZO
+  rotate: false
+  xy: 1821, 1821
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -528,6 +535,13 @@ GUATEMALA
   orig: 128, 128
   offset: 0, 0
   index: -1
+GUERNSEY
+  rotate: false
+  xy: 1041, 1691
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 GUINEE
   rotate: false
   xy: 1171, 1561
@@ -542,7 +556,7 @@ GUYANA
   orig: 128, 128
   offset: 0, 0
   index: -1
-HA�TI
+HAITI
   rotate: false
   xy: 1431, 1821
   size: 128, 128
@@ -591,7 +605,7 @@ INDIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-INDONESI�
+INDONESIE
   rotate: false
   xy: 781, 1041
   size: 128, 128
@@ -612,14 +626,14 @@ IRAN
   orig: 128, 128
   offset: 0, 0
   index: -1
-ISRA�L
+ISRAEL
   rotate: false
   xy: 1171, 1431
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-ITALI�
+ITALIE
   rotate: false
   xy: 1301, 1561
   size: 128, 128
@@ -661,7 +675,7 @@ JERSEY
   orig: 128, 128
   offset: 0, 0
   index: -1
-JORDANI�
+JORDANIE
   rotate: false
   xy: 391, 521
   size: 128, 128
@@ -703,7 +717,7 @@ KENIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-KIRGIZI�
+KIRGIZIE
   rotate: false
   xy: 1171, 1301
   size: 128, 128
@@ -724,7 +738,7 @@ KOEWEIT
   orig: 128, 128
   offset: 0, 0
   index: -1
-KROATI�
+KROATIE
   rotate: false
   xy: 1561, 1691
   size: 128, 128
@@ -794,7 +808,7 @@ MACAU
   orig: 128, 128
   offset: 0, 0
   index: -1
-MACEDONI�
+MACEDONIE
   rotate: false
   xy: 1041, 1041
   size: 128, 128
@@ -822,7 +836,7 @@ MALDIVEN
   orig: 128, 128
   offset: 0, 0
   index: -1
-MALEISI�
+MALEISIE
   rotate: false
   xy: 1561, 1561
   size: 128, 128
@@ -899,7 +913,7 @@ MICRONESIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-MOLDAVI�
+MOLDAVIE
   rotate: false
   xy: 1171, 1041
   size: 128, 128
@@ -913,7 +927,7 @@ MONACO
   orig: 128, 128
   offset: 0, 0
   index: -1
-MONGOLI�
+MONGOLIE
   rotate: false
   xy: 1431, 1301
   size: 128, 128
@@ -1025,7 +1039,7 @@ NOORD-KOREA
   orig: 128, 128
   offset: 0, 0
   index: -1
-NOORDELIJKE MARIANEN
+NOORDELIJKE-MARIANEN
   rotate: false
   xy: 1821, 1561
   size: 128, 128
@@ -1046,7 +1060,7 @@ OEGANDA
   orig: 128, 128
   offset: 0, 0
   index: -1
-OEKRA�NE
+OEKRAINE
   rotate: false
   xy: 651, 261
   size: 128, 128
@@ -1158,7 +1172,7 @@ QATAR
   orig: 128, 128
   offset: 0, 0
   index: -1
-ROEMENI�
+ROEMENIE
   rotate: false
   xy: 1301, 781
   size: 128, 128
@@ -1221,7 +1235,7 @@ SAMOA
   orig: 128, 128
   offset: 0, 0
   index: -1
-SAOEDI-ARABI�
+SAOEDI-ARABIE
   rotate: false
   xy: 1171, 521
   size: 128, 128
@@ -1249,7 +1263,7 @@ SENEGAL
   orig: 128, 128
   offset: 0, 0
   index: -1
-SERVI�
+SERVIE
   rotate: false
   xy: 1691, 1041
   size: 128, 128
@@ -1277,7 +1291,7 @@ SINGAPORE
   orig: 128, 128
   offset: 0, 0
   index: -1
-SLOVENI�
+SLOVENIE
   rotate: false
   xy: 1041, 261
   size: 128, 128
@@ -1389,7 +1403,7 @@ TSJAAD
   orig: 128, 128
   offset: 0, 0
   index: -1
-TSJECHI�
+TSJECHIE
   rotate: false
   xy: 1171, 131
   size: 128, 128
