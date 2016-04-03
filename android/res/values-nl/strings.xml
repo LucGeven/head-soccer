@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">HeadSoccer</string>
-    <string name="title_activity_ad">AdActivity</string>
+    <string name="aftrap">AFTRAP</string>
     <string name="banner_ad_unit_id">ca-app-pub-9208655874199429/4648638991</string>
-    <string name="aftrap">MATCH</string>
-
+    <string name="title_activity_ad">AdActivity</string>
 </resources>

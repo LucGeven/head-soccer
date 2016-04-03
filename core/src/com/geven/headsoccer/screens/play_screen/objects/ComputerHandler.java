@@ -24,7 +24,7 @@ public class ComputerHandler {
             check = false;
         }
         //If the ball is behind the player, then go backward
-        if ((Ball.ball.getPosition().x - (35 / PPM)) > (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM))){
+        if ((Ball.ball.getPosition().x - (35 / PPM)) > (SpriteOut.getoBody1().getPosition().x /*+ (128.8f / 2 / PPM)*/)){
             SpriteOut.rightIsPressed(true);
             rightIsPressedBool = true;
         }
@@ -34,14 +34,14 @@ public class ComputerHandler {
         }
 
         //If (the ball is not anymore on his side
-        if (SpriteOut.getoBody1().getPosition().x < (((2040 - (250 + 20 + 200)) / PPM) + (54.4f / PPM) + ((128.8f / 2) / PPM)) && !check) {      //The values is the begin position of spriteOut.
+        /*if (SpriteOut.getoBody1().getPosition().x < (((2040 - (250 + 20 + 200)) / PPM) + (54.4f / PPM) + ((128.8f / 2) / PPM)) && !check) {      //The values is the begin position of spriteOut.
             SpriteOut.rightIsPressed(true);
         }
         else {
             if (!rightIsPressedBool) {
                 SpriteOut.rightIsPressed(false);
             }
-        }
+        }*/
 
         //If the ball is above SpriteOut head
         if ((Ball.ball.getPosition().x) + (/*100*/150 / PPM) > (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM)) &&
@@ -62,7 +62,7 @@ public class ComputerHandler {
             }
         }
         else {
-            if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (150/*100*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))) {
+            if (((Ball.ball.getPosition().x + (35 / PPM)) >= (SpriteOut.getoBody1().getPosition().x - (128.8f / 2 / PPM) - (200/*150*//*100*/ / PPM))) && ((Ball.ball.getPosition().x + (35 / PPM)) < (SpriteOut.getoBody1().getPosition().x + (128.8f / 2 / PPM)))) {
                 SpriteOut.shootIsPressed(true);
             } else {
                 SpriteOut.shootIsPressed(false);

@@ -60,12 +60,7 @@ public class SpriteHome {
         position = new Vector2(hBody1.getPosition().x - (16.8f / PPM) - ((128.8f / 2) / PPM), hBody1.getPosition().y - ((128.8f / 2) / PPM));  //Position sprite
         size = new Vector2(200 / PPM,200 / PPM);
 
-        velocityWalk = 300 / PPM;    //160
-        //velocityWalk = 300 - ((300 / (VariablesHandler.finalCompetition.length - 1) * VariablesHandler.positionInFinalCompetition));
-        /*velocityWalk = (300 - ((300 / VariablesHandler.lenghtPositionInFinalCompetition) * VariablesHandler.positionInFinalCompetition)) / PPM;
-        if (velocityWalk < 200 / PPM){
-            velocityWalk = 200 / PPM;
-        }*/
+        velocityWalk = (500 - ((200 / VariablesHandler.lenghtPositionInFinalCompetition) * VariablesHandler.positionInFinalCompetition)) / PPM;
 
         runTime = 0;
         shootIsPressed = false;

@@ -55,14 +55,8 @@ public class SpriteOut {
         b2dHead();
         position = new Vector2(oBody1.getPosition().x - (54.4f / PPM) - ((128.8f /2) / PPM), oBody1.getPosition().y - ((128.8f / 2) / PPM));  //Position sprite
         size = new Vector2(200 / PPM,200 / PPM);
-
-        velocityWalk = 300 / PPM;    //160  //200
-        //velocityWalk = 300 - ((300 / (VariablesHandler.computerFinalCompetition.length - 1) * VariablesHandler.positionInFinalComputerCompetition));
-        /*velocityWalk = (300 - ((300 / VariablesHandler.lengthPositionInFinalComputerCompetition) * VariablesHandler.positionInFinalComputerCompetition)) / PPM;
-        if (velocityWalk < 200 / PPM){
-            velocityWalk = 200 / PPM;
-        }*/
-
+        
+        velocityWalk = (500 - ((200 / VariablesHandler.lengthPositionInFinalComputerCompetition) * VariablesHandler.positionInFinalComputerCompetition)) / PPM;
 
         runTime = 0;
         shootIsPressed = false;

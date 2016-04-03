@@ -3,6 +3,7 @@ package com.geven.headsoccer.game.android;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -18,6 +19,7 @@ import java.io.InputStreamReader;
 public class AdActivity extends Activity {
 
     private InterstitialAd interstitialAd;
+    private boolean adblockerActive;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,25 +37,36 @@ public class AdActivity extends Activity {
             @Override
             public void onAdClosed() {
                 //requestNewInterstitial();
-                startActivity(new Intent("com.geven.headsoccer.LIBGDX"));
+                startActivity(new Intent("com.geven.headsoccer.game.android.MAIN_ACTIVITY"));
             }
 
             @Override
             public void onAdFailedToLoad(int errorCode) {
                 super.onAdFailedToLoad(errorCode);
-                if (errorCode == 2){
+                adblockerActive = false;
+                if (errorCode == 2) {
                     BufferedReader in;
                     try {
                         in = new BufferedReader(new InputStreamReader(new FileInputStream("/etc/hosts")));
                         String line;
-                        while ((line = in.readLine()) != null){
-                            if (line.contains("admob")){
-                                Toast.makeText(getApplicationContext(),"Disable AdBlocker!",Toast.LENGTH_LONG).show();
+                        while ((line = in.readLine()) != null) {
+                            if (line.contains("admob")) {
+                                Toast.makeText(getApplicationContext(), "Disable AdBlocker! Wait 10 seconds!", Toast.LENGTH_LONG).show();
+                                adblockerActive = true;
+                                new Handler().postDelayed(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        startActivity(new Intent("com.geven.headsoccer.game.android.MAIN_ACTIVITY"));
+                                    }
+                                }, 10000);
                                 break;
                             }
                         }
-                    }catch(Exception e){
+                    } catch (Exception e) {
                         e.printStackTrace();
+                    }
+                    if (!adblockerActive) {
+                        startActivity(new Intent("com.geven.headsoccer.game.android.MAIN_ACTIVITY"));
                     }
                 }
             }
@@ -64,7 +77,7 @@ public class AdActivity extends Activity {
     }
     private void requestNewInterstitial() {
         AdRequest adRequest = new AdRequest.Builder()
-                .addTestDevice("0B89FBE8066B801ADC39642F5CA1A263")
+                //.addTestDevice("0B89FBE8066B801ADC39642F5CA1A263")
                 .build();
 
         interstitialAd.loadAd(adRequest);

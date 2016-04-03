@@ -25,8 +25,8 @@ public class HeadSoccer extends Game {
 	public void create() {
 		AssetLoader.load();						//Load textures
 
-		setScreen(new CreateMenu(this));		//Start CreateMenu with parameter Game
-
+		//setScreen(new CreateMenu(this));		//Start CreateMenu with parameter Game
+		setScreen(new ChooseCountry(this));		//Start ChooseCountry with parameter Game
 	}
 
 	@Override

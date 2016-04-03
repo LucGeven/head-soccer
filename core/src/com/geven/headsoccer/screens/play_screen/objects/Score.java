@@ -46,7 +46,7 @@ public class Score {
         //SpriteHome.setPositionY(1360 - 200 - 190);                                  //Set the position from the sprite
 
         Ball.ball.setLinearVelocity(0, 0);
-        Ball.ball.setTransform(2040 / 2 / PPM, (1360 - 190 - 35) / PPM, 0);
+        Ball.ball.setTransform(2040 / 2 / PPM, ((1360 - 190 - 35) / PPM) - (500 / PPM), 0);
         SpriteHome.gethBody1().setTransform(((250 + 20) / PPM) + (16.8f / PPM) + ((128.8f / 2) / PPM), ((1360 - 200 - 190) / PPM) + ((128.8f / 2) / PPM), 0);
         SpriteHome.gethBody2().setTransform(((250 + 20) / PPM) + (16.8f / PPM) + ((128.8f / 2) / PPM), ((1360 - 200 - 190) / PPM) + ((161 - 128.8f) / PPM) + ((128.8f / 2) / PPM), 0);
         SpriteOut.getoBody1().setTransform(((2040 - (250 + 20 + 200)) / PPM) + (54.4f / PPM) + ((128.8f / 2) / PPM), ((1360 - 200 - 190) / PPM) + ((128.8f / 2) / PPM), 0);
