@@ -87,4 +87,8 @@ public class AdActivity extends Activity {
             interstitialAd.show();
         }
     }
+    @Override
+    public void onBackPressed() {
+
+    }
 }

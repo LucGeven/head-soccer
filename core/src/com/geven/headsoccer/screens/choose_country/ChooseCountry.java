@@ -16,8 +16,8 @@ public class ChooseCountry implements Screen {
         this.headsoccer = headsoccer;
 
         Gdx.input.setInputProcessor(new GestureDetector(new GestureHandler()));
-
         render = new GameRender();
+
 
     }
     @Override

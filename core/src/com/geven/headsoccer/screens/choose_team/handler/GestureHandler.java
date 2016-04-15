@@ -3,9 +3,11 @@ package com.geven.headsoccer.screens.choose_team.handler;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.input.GestureDetector;
 import com.badlogic.gdx.math.Vector2;
+import com.geven.headsoccer.game.HeadSoccer;
 import com.geven.headsoccer.handler.VariablesHandler;
 import com.geven.headsoccer.screens.choose_team.ChooseTeam;
 import com.geven.headsoccer.screens.choose_team.gameworld.GameRender;
+import com.geven.headsoccer.screens.competition.handler.CreateData;
 import com.geven.headsoccer.screens.create_menu.CreateMenu;
 
 public class GestureHandler implements GestureDetector.GestureListener {
@@ -39,33 +41,38 @@ public class GestureHandler implements GestureDetector.GestureListener {
 
             //Check if you touch the button:
             if (screenY >= GameRender.buttonsPositionY[i] &&
-                    screenY <= GameRender.buttonsPositionY[i] + GameRender.surfaceRectangle.y){
+                    screenY <= GameRender.buttonsPositionY[i] + GameRender.surfaceRectangle.y) {
 
                 //Check if myTeam not is used:
-                if (VariablesHandler.myTeam.equals("")){
-                    VariablesHandler.myTeam = VariablesHandler.finalCompetition[i];
+                if (HeadSoccer.situation.equals("COMPETITION")) {
+                    CreateData createData = new CreateData(ChooseTeam.headsoccer,VariablesHandler.finalCompetition,VariablesHandler.finalCompetition[i],i,VariablesHandler.finalCompetition.length - 1);
+                    createData.create();
+                } else {
+                    if (VariablesHandler.myTeam.equals("")) {
+                        VariablesHandler.myTeam = VariablesHandler.finalCompetition[i];
 
-                    VariablesHandler.positionInFinalCompetition = i;
-                    VariablesHandler.lenghtPositionInFinalCompetition = VariablesHandler.finalCompetition.length - 1;
-                    //CreateMenu.startChooseCountry();        //Start again choosecountry
-                    ChooseTeam.startChooseCountry();
+                        VariablesHandler.positionInFinalCompetition = i;
+                        VariablesHandler.lenghtPositionInFinalCompetition = VariablesHandler.finalCompetition.length - 1;
+                        //CreateMenu.startChooseCountry();        //Start again choosecountry
+                        ChooseTeam.startChooseCountry();
+                    }
+                    //If myTeam is used
+                    else {
+                        VariablesHandler.computerTeam = VariablesHandler.finalCompetition[i];
+
+                        VariablesHandler.positionInFinalComputerCompetition = i;
+                        VariablesHandler.lengthPositionInFinalComputerCompetition = VariablesHandler.finalCompetition.length - 1;
+
+
+                        Gdx.app.log("TEAM", VariablesHandler.myTeam);
+                        Gdx.app.log("TEAM", VariablesHandler.computerTeam);
+
+                        ChooseTeam.startGameScreen();           //Start the GameScreen
+                    }
+
+
+                    break;          //Go out loop
                 }
-                //If myTeam is used
-                else {
-                    VariablesHandler.computerTeam = VariablesHandler.finalCompetition[i];
-
-                    VariablesHandler.positionInFinalComputerCompetition = i;
-                    VariablesHandler.lengthPositionInFinalComputerCompetition = VariablesHandler.finalCompetition.length - 1;
-
-
-                    Gdx.app.log("TEAM",VariablesHandler.myTeam);
-                    Gdx.app.log("TEAM",VariablesHandler.computerTeam);
-
-                    ChooseTeam.startGameScreen();           //Start the GameScreen
-                }
-
-
-                break;          //Go out loop
             }
         }
         return true;

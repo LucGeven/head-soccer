@@ -20,6 +20,10 @@ public class AndroidLauncher extends AndroidApplication {					//Superclass is An
 		startActivityAndroid = new StartActivity(this);						//Initialise StartActivity with parameter the Activity
 
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
-		initialize(new HeadSoccer(screenRotationAndroid,startActivityAndroid), config);			//Parameter from headsoccer is the screenRotationAndroid
+		initialize(new HeadSoccer(screenRotationAndroid,startActivityAndroid,MainActivity.situation), config);			//Parameter from headsoccer is the screenRotationAndroid
 	}																		//I'll say that because that the HeadSoccer class know that the screenRotation = screenRotationAndroid
+	@Override
+	public void onBackPressed() {
+		//Nothing when back pressed
+	}
 }

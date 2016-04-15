@@ -2,7 +2,13 @@ package com.geven.headsoccer.screens.play_screen.objects;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.utils.Timer;
+import com.geven.headsoccer.game.HeadSoccer;
+import com.geven.headsoccer.handler.VariablesHandler;
+import com.geven.headsoccer.screens.competition.Competition;
+import com.geven.headsoccer.screens.competition.handler.MatchHandler;
 import com.geven.headsoccer.screens.play_screen.PlayScreen;
+
+import javafx.print.PageLayout;
 
 public class TimerHandler {
 
@@ -14,8 +20,8 @@ public class TimerHandler {
 
     public TimerHandler(){
         //Initialize how long the match is
-        minute = 2;
-        tientallen = 0;
+        minute = 0;
+        tientallen = 1;
         second = 0;
 
         timer = 0;
@@ -34,7 +40,14 @@ public class TimerHandler {
         if (minute <= 0 && tientallen <= 0 && second <= -1){
             minute = tientallen = second = -1;
 
-            PlayScreen.headsoccer.startActivity.startActivity("com.geven.headsoccer.game.android.AD_ACTIVITY");
+            if (HeadSoccer.situation.equals("COMPETITION")) {
+                MatchHandler matchHandler = new MatchHandler(PlayScreen.headsoccer, VariablesHandler.computerTeam);
+                matchHandler.handle();
+            }
+            //TODO if situation.equals "match"
+            else {
+                PlayScreen.headsoccer.startActivity.startActivity("com.geven.headsoccer.game.android.AD_ACTIVITY");
+            }
 
         }
         else {

@@ -7,6 +7,9 @@ import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
+import com.geven.headsoccer.game.HeadSoccer;
+import com.geven.headsoccer.screens.choose_country.ChooseCountry;
+import com.geven.headsoccer.screens.competition.Competition;
 
 public class AssetLoader {
     public static TextureAtlas countriesFlags;
@@ -25,7 +28,9 @@ public class AssetLoader {
     public static Sound boo;
     public static Sound shoot;
 
-    public static void load(){
+    public static Texture buttonBack, buttonDelete,buttonFixture,buttonPlay;
+
+    public static void load(HeadSoccer headsoccer){
         countriesFlags = new TextureAtlas(Gdx.files.internal("texture/countries.pack"));
         //teamslogos     = new TextureAtlas(Gdx.files.internal("texture/all.pack"));
         teamslogos = new TextureAtlas(Gdx.files.internal("texture/clubs/clubs.pack"));
@@ -52,9 +57,30 @@ public class AssetLoader {
         ball.flip(false,true);
         spriteBall = new Sprite(ball);
 
+        buttonBack = new Texture(Gdx.files.internal("texture/button_back.png"));
+        buttonDelete = new Texture(Gdx.files.internal("texture/button_delete.png"));
+        buttonFixture = new Texture(Gdx.files.internal("texture/button_fixture.png"));
+        buttonPlay = new Texture(Gdx.files.internal("texture/button_play.png"));
+
         goal = Gdx.audio.newSound(Gdx.files.internal("sound/goal.mp3"));
         boo = Gdx.audio.newSound(Gdx.files.internal("sound/boo.mp3"));
         shoot = Gdx.audio.newSound(Gdx.files.internal("sound/shoot.mp3"));
+
+        try {
+            if (Gdx.app.getPreferences("competition").getString("State").equals("Break")) {
+                headsoccer.setScreen(new ChooseCountry(headsoccer));
+            } else {
+                if (HeadSoccer.situation.equals("MATCH")){
+                    headsoccer.setScreen(new ChooseCountry(headsoccer));
+                }
+                else {
+                    headsoccer.setScreen(new Competition(headsoccer));
+                }
+            }
+        }catch (Exception e){
+            headsoccer.setScreen(new ChooseCountry(headsoccer));
+        }
+
 
     }
     public static void dispose(){
@@ -67,5 +93,9 @@ public class AssetLoader {
         goal.dispose();
         boo.dispose();
         shoot.dispose();
+        buttonBack.dispose();
+        buttonDelete.dispose();
+        buttonFixture.dispose();
+        buttonPlay.dispose();
     }
 }

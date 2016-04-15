@@ -54,4 +54,8 @@ public class AboutActivity extends Activity {
                 .build();
         mAdView.loadAd(adRequest);
     }
+    @Override
+    public void onBackPressed() {
+
+    }
 }

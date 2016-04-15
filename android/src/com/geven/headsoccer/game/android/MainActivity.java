@@ -15,6 +15,8 @@ public class MainActivity extends Activity {
     private ImageButton match,competition,tournament,about;
     private AdView mAdView;
 
+    public static String situation;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,13 +37,16 @@ public class MainActivity extends Activity {
         match.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                situation = "MATCH";
                 startActivity(new Intent("com.geven.headsoccer.LIBGDX"));
             }
         });
         competition.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                situation = "COMPETITION";
                 Toast.makeText(getApplicationContext(), "Coming Soon!", Toast.LENGTH_LONG).show();
+                startActivity(new Intent("com.geven.headsoccer.LIBGDX"));
             }
         });
         tournament.setOnClickListener(new View.OnClickListener() {
@@ -56,5 +61,10 @@ public class MainActivity extends Activity {
                 startActivity(new Intent("com.geven.headsoccer.game.android.ABOUT_ACTIVITY"));
             }
         });
+    }
+
+    @Override
+    public void onBackPressed() {
+
     }
 }

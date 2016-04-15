@@ -10,21 +10,21 @@ AFGHANISTAN
   orig: 128, 128
   offset: 0, 0
   index: -1
-ALBANIË
+ALBANIA
   rotate: false
   xy: 1, 1691
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-ALGERIJE
+ALGERIA
   rotate: false
   xy: 131, 1821
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-AMERIKAANS-SAMOA
+AMERICAN SAMOA
   rotate: false
   xy: 1, 1561
   size: 128, 128
@@ -59,21 +59,21 @@ ANGUILLA
   orig: 128, 128
   offset: 0, 0
   index: -1
-ANTIGUA EN BARBUDA
+ANTIGUA AND BARBUDA
   rotate: false
   xy: 261, 1691
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-ARGENTINIË
+ARGENTINA
   rotate: false
   xy: 391, 1821
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-ARMENIË
+ARMENIA
   rotate: false
   xy: 1, 1301
   size: 128, 128
@@ -87,14 +87,14 @@ ARUBA
   orig: 128, 128
   offset: 0, 0
   index: -1
-AUSTRALIË
+AUSTRALIA
   rotate: false
   xy: 261, 1561
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-AZERBEIDZJAN
+AZERBAIJAN
   rotate: false
   xy: 391, 1691
   size: 128, 128
@@ -129,7 +129,7 @@ BARBADOS
   orig: 128, 128
   offset: 0, 0
   index: -1
-BELGIË
+BELGIUM
   rotate: false
   xy: 391, 1561
   size: 128, 128
@@ -171,7 +171,7 @@ BOLIVIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-BOSNIË
+BOSNIA
   rotate: false
   xy: 391, 1431
   size: 128, 128
@@ -185,7 +185,7 @@ BOTSWANA
   orig: 128, 128
   offset: 0, 0
   index: -1
-BRAZILIË
+BRAZIL
   rotate: false
   xy: 651, 1691
   size: 128, 128
@@ -213,7 +213,7 @@ BRUNEI
   orig: 128, 128
   offset: 0, 0
   index: -1
-BULGARIJE
+BULGARIA
   rotate: false
   xy: 261, 1171
   size: 128, 128
@@ -234,7 +234,7 @@ BURUNDI
   orig: 128, 128
   offset: 0, 0
   index: -1
-CAMBODJA
+CAMBODIA
   rotate: false
   xy: 651, 1561
   size: 128, 128
@@ -255,7 +255,7 @@ CENTRAALAFRIKAANSEREPUBLIEK
   orig: 128, 128
   offset: 0, 0
   index: -1
-CHILI
+CHILE
   rotate: false
   xy: 1, 781
   size: 128, 128
@@ -318,7 +318,7 @@ CYPRUS
   orig: 128, 128
   offset: 0, 0
   index: -1
-DENEMARKEN
+DENMARK
   rotate: false
   xy: 1, 651
   size: 128, 128
@@ -346,7 +346,7 @@ DOMINICAANSE REPUBLIEK
   orig: 128, 128
   offset: 0, 0
   index: -1
-DUITSLAND
+GERMANY
   rotate: false
   xy: 521, 1171
   size: 128, 128
@@ -374,7 +374,7 @@ EL SALVADOR
   orig: 128, 128
   offset: 0, 0
   index: -1
-ENGELAND
+ENGLAND
   rotate: false
   xy: 1041, 1691
   size: 128, 128
@@ -395,7 +395,7 @@ ERITREA
   orig: 128, 128
   offset: 0, 0
   index: -1
-ESTLAND
+ESTONIA
   rotate: false
   xy: 131, 651
   size: 128, 128
@@ -409,7 +409,7 @@ ETHIOPI�
   orig: 128, 128
   offset: 0, 0
   index: -1
-FAEROER
+FAROE ISLANDS
   rotate: false
   xy: 391, 911
   size: 128, 128
@@ -430,7 +430,7 @@ FIJI
   orig: 128, 128
   offset: 0, 0
   index: -1
-FILIPIJNEN
+PHILIPPINES
   rotate: false
   xy: 781, 1301
   size: 128, 128
@@ -444,7 +444,7 @@ FINLAND
   orig: 128, 128
   offset: 0, 0
   index: -1
-FRANKRIJK
+FRANCE
   rotate: false
   xy: 1041, 1561
   size: 128, 128
@@ -472,7 +472,7 @@ GAMBIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-GEORGIE
+GEORGIA
   rotate: false
   xy: 131, 521
   size: 128, 128
@@ -507,14 +507,14 @@ GRENADA
   orig: 128, 128
   offset: 0, 0
   index: -1
-GRIEKENLAND
+GREECE
   rotate: false
   xy: 651, 1041
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-GROENLAND
+GREENLAND
   rotate: false
   xy: 781, 1171
   size: 128, 128
@@ -570,7 +570,7 @@ HONDURAS
   orig: 128, 128
   offset: 0, 0
   index: -1
-HONGARIJE
+HUNGARY
   rotate: false
   xy: 131, 391
   size: 128, 128
@@ -584,14 +584,14 @@ HONGKONG
   orig: 128, 128
   offset: 0, 0
   index: -1
-IERLAND
+IRELAND
   rotate: false
   xy: 391, 651
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-IJSLAND
+ICELAND
   rotate: false
   xy: 521, 781
   size: 128, 128
@@ -605,7 +605,7 @@ INDIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-INDONESIE
+INDONESIA
   rotate: false
   xy: 781, 1041
   size: 128, 128
@@ -633,7 +633,7 @@ ISRAEL
   orig: 128, 128
   offset: 0, 0
   index: -1
-ITALIE
+ITALY
   rotate: false
   xy: 1301, 1561
   size: 128, 128
@@ -675,14 +675,14 @@ JERSEY
   orig: 128, 128
   offset: 0, 0
   index: -1
-JORDANIE
+JORDAN
   rotate: false
   xy: 391, 521
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-KAAIMANEILANDEN
+CAYMAN ISLANDS
   rotate: false
   xy: 521, 651
   size: 128, 128
@@ -703,7 +703,7 @@ KAMEROEN
   orig: 128, 128
   offset: 0, 0
   index: -1
-KAZACHSTAN
+KAZAKHSTAN
   rotate: false
   xy: 911, 1041
   size: 128, 128
@@ -717,7 +717,7 @@ KENIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-KIRGIZIE
+KYRGYZSTAN
   rotate: false
   xy: 1171, 1301
   size: 128, 128
@@ -738,7 +738,7 @@ KOEWEIT
   orig: 128, 128
   offset: 0, 0
   index: -1
-KROATIE
+CROATIA
   rotate: false
   xy: 1561, 1691
   size: 128, 128
@@ -759,7 +759,7 @@ LESOTHO
   orig: 128, 128
   offset: 0, 0
   index: -1
-LETLAND
+LATVIA
   rotate: false
   xy: 131, 131
   size: 128, 128
@@ -787,28 +787,28 @@ LIECHTENSTEIN
   orig: 128, 128
   offset: 0, 0
   index: -1
-LITOUWEN
+LITHUANIA
   rotate: false
   xy: 651, 651
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-LUXEMBURG
+LUXEMBOURG
   rotate: false
   xy: 781, 781
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-MACAU
+MACAO
   rotate: false
   xy: 911, 911
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-MACEDONIE
+MACEDONIA
   rotate: false
   xy: 1041, 1041
   size: 128, 128
@@ -829,14 +829,14 @@ MALAWI
   orig: 128, 128
   offset: 0, 0
   index: -1
-MALDIVEN
+MALDIVES
   rotate: false
   xy: 1431, 1431
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-MALEISIE
+MALAYSIA
   rotate: false
   xy: 1561, 1561
   size: 128, 128
@@ -864,7 +864,7 @@ MAN
   orig: 128, 128
   offset: 0, 0
   index: -1
-MAROKKO
+MOROCCO
   rotate: false
   xy: 261, 131
   size: 128, 128
@@ -913,7 +913,7 @@ MICRONESIA
   orig: 128, 128
   offset: 0, 0
   index: -1
-MOLDAVIE
+MOLDOVA
   rotate: false
   xy: 1171, 1041
   size: 128, 128
@@ -927,7 +927,7 @@ MONACO
   orig: 128, 128
   offset: 0, 0
   index: -1
-MONGOLIE
+MONGOLIA
   rotate: false
   xy: 1431, 1301
   size: 128, 128
@@ -976,7 +976,7 @@ NAURU
   orig: 128, 128
   offset: 0, 0
   index: -1
-NEDERLAND
+NETHERLANDS
   rotate: false
   xy: 651, 391
   size: 128, 128
@@ -1004,7 +1004,7 @@ NICARAGUA
   orig: 128, 128
   offset: 0, 0
   index: -1
-NIEUW-ZEELAND
+NEW ZEALAND
   rotate: false
   xy: 1171, 911
   size: 128, 128
@@ -1032,21 +1032,21 @@ NIUE
   orig: 128, 128
   offset: 0, 0
   index: -1
-NOORD-KOREA
+NORTH KOREA
   rotate: false
   xy: 1691, 1431
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NOORDELIJKE-MARIANEN
+NORTHERN MARIANA
   rotate: false
   xy: 1821, 1561
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NOORWEGEN
+NORWAY
   rotate: false
   xy: 391, 1
   size: 128, 128
@@ -1060,14 +1060,14 @@ OEGANDA
   orig: 128, 128
   offset: 0, 0
   index: -1
-OEKRAINE
+UKRAINE
   rotate: false
   xy: 651, 261
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-OEZBEKISTAN
+UZBEKISTAN
   rotate: false
   xy: 781, 391
   size: 128, 128
@@ -1116,7 +1116,7 @@ PANAMA
   orig: 128, 128
   offset: 0, 0
   index: -1
-PAPOEA-NIEUW-GUINEA
+PAPUA NEW GUINEA
   rotate: false
   xy: 1691, 1301
   size: 128, 128
@@ -1144,7 +1144,7 @@ PITCAIRNEILANDEN
   orig: 128, 128
   offset: 0, 0
   index: -1
-POLEN
+POLAND
   rotate: false
   xy: 781, 261
   size: 128, 128
@@ -1172,14 +1172,14 @@ QATAR
   orig: 128, 128
   offset: 0, 0
   index: -1
-ROEMENIE
+ROMANIA
   rotate: false
   xy: 1301, 781
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-RUSLAND
+RUSSIA
   rotate: false
   xy: 1431, 911
   size: 128, 128
@@ -1221,7 +1221,7 @@ SAINT-VINCENT-EN-DE-GRENADINES
   orig: 128, 128
   offset: 0, 0
   index: -1
-SALOMONSEILANDEN
+SOLOMON ISLANDS
   rotate: false
   xy: 911, 261
   size: 128, 128
@@ -1235,7 +1235,7 @@ SAMOA
   orig: 128, 128
   offset: 0, 0
   index: -1
-SAOEDI-ARABIE
+SAUDI ARABIA
   rotate: false
   xy: 1171, 521
   size: 128, 128
@@ -1249,7 +1249,7 @@ SAOTOM�ENPRINCIPE
   orig: 128, 128
   offset: 0, 0
   index: -1
-SCHOTLAND
+SCOTLAND
   rotate: false
   xy: 1431, 781
   size: 128, 128
@@ -1263,7 +1263,7 @@ SENEGAL
   orig: 128, 128
   offset: 0, 0
   index: -1
-SERVIE
+SERBIA
   rotate: false
   xy: 1691, 1041
   size: 128, 128
@@ -1291,14 +1291,14 @@ SINGAPORE
   orig: 128, 128
   offset: 0, 0
   index: -1
-SLOVENIE
+SLOVENIA
   rotate: false
   xy: 1041, 261
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-SLOWAKIJE
+SLOVAKIA
   rotate: false
   xy: 1171, 391
   size: 128, 128
@@ -1312,7 +1312,7 @@ SOMALI�
   orig: 128, 128
   offset: 0, 0
   index: -1
-SPANJE
+SPAIN
   rotate: false
   xy: 1431, 651
   size: 128, 128
@@ -1347,7 +1347,7 @@ SYRI�
   orig: 128, 128
   offset: 0, 0
   index: -1
-TADZJIKISTAN
+TAJIKISTAN
   rotate: false
   xy: 1041, 131
   size: 128, 128
@@ -1403,7 +1403,7 @@ TSJAAD
   orig: 128, 128
   offset: 0, 0
   index: -1
-TSJECHIE
+CZECH REPUBLIC
   rotate: false
   xy: 1171, 131
   size: 128, 128
@@ -1417,7 +1417,7 @@ TUNESI�
   orig: 128, 128
   offset: 0, 0
   index: -1
-TURKIJE
+TURKEY
   rotate: false
   xy: 1431, 391
   size: 128, 128
@@ -1459,7 +1459,7 @@ VANUATU
   orig: 128, 128
   offset: 0, 0
   index: -1
-VATICAANSTAD
+VATICAN CITY
   rotate: false
   xy: 1431, 261
   size: 128, 128
@@ -1480,7 +1480,7 @@ VERENIGDE-ARABISCHE-EMIRATEN
   orig: 128, 128
   offset: 0, 0
   index: -1
-VERENIGDE-STATEN
+UNITED STATES
   rotate: false
   xy: 1821, 651
   size: 128, 128
@@ -1501,7 +1501,7 @@ WALLIS-EN-FUTUNA
   orig: 128, 128
   offset: 0, 0
   index: -1
-WIT-RUSLAND
+BELARUS
   rotate: false
   xy: 1561, 261
   size: 128, 128
@@ -1522,7 +1522,7 @@ ZIMBABWE
   orig: 128, 128
   offset: 0, 0
   index: -1
-ZUID-AFRIKA
+SOUTH AFRICA
   rotate: false
   xy: 1431, 1
   size: 128, 128
@@ -1536,21 +1536,21 @@ ZUID-GEORGI�-EN-DE-ZUIDELIJKE-SANDWICHEILANDEN
   orig: 128, 128
   offset: 0, 0
   index: -1
-ZUID-KOREA
+SOUTH KOREA
   rotate: false
   xy: 1691, 261
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-ZWEDEN
+SWEDEN
   rotate: false
   xy: 1821, 391
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-ZWITSERLAND
+SWITZERLAND
   rotate: false
   xy: 1561, 1
   size: 128, 128

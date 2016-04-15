@@ -3,19 +3,19 @@ package com.geven.headsoccer.handler;
 public class SetCompetition {
 
     public static void setCompetition(){                                   //finalCompetition is set by your chosen country:
-        if (VariablesHandler.myCountry == "NEDERLAND"){
+        if (VariablesHandler.myCountry == "NETHERLANDS"){
             VariablesHandler.finalCompetition = VariablesHandler.NEDERLAND;
         }
         else if (VariablesHandler.myCountry == "AFGHANISTAN"){
             VariablesHandler.finalCompetition = VariablesHandler.AFGHANISTAN;
         }
-        else if (VariablesHandler.myCountry == "ALBANIË"){
+        else if (VariablesHandler.myCountry == "ALBANIA"){
             VariablesHandler.finalCompetition = VariablesHandler.ALBANIË;
         }
-        else if (VariablesHandler.myCountry == "ALGERIJE"){
+        else if (VariablesHandler.myCountry == "ALGERIA"){
             VariablesHandler.finalCompetition = VariablesHandler.ALGERIJE;
         }
-        else if (VariablesHandler.myCountry == "AMERIKAANS-SAMOA"){
+        else if (VariablesHandler.myCountry == "AMERICAN SAMOA"){
             VariablesHandler.finalCompetition = VariablesHandler.AMERIKAANS_SAMOA;
         }
         else if (VariablesHandler.myCountry == "ANDORRA"){
@@ -27,25 +27,25 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "ANGUILLA"){
             VariablesHandler.finalCompetition = VariablesHandler.ANGUILLA;
         }
-        else if (VariablesHandler.myCountry == "ANTIGUA EN BARBUDA"){
+        else if (VariablesHandler.myCountry == "ANTIGUA AND BARBUDA"){
             VariablesHandler.finalCompetition = VariablesHandler.ANTIGUA_EN_BARBUDA;
         }
-        else if (VariablesHandler.myCountry == "ARGENTINIË"){
+        else if (VariablesHandler.myCountry == "ARGENTINA"){
             VariablesHandler.finalCompetition = VariablesHandler.ARGENTINIË;
         }
-        else if (VariablesHandler.myCountry == "ARMENIË"){
+        else if (VariablesHandler.myCountry == "ARMENIA"){
             VariablesHandler.finalCompetition = VariablesHandler.ARMENIË;
         }
         else if (VariablesHandler.myCountry == "ARUBA"){
             VariablesHandler.finalCompetition = VariablesHandler.ARUBA;
         }
-        else if (VariablesHandler.myCountry == "AUSTRALIË"){
+        else if (VariablesHandler.myCountry == "AUSTRALIA"){
             VariablesHandler.finalCompetition = VariablesHandler.AUSTRALIË;
         }
-        else if (VariablesHandler.myCountry == "AZERBEIDZJAN"){
+        else if (VariablesHandler.myCountry == "AZERBAIJAN"){
             VariablesHandler.finalCompetition = VariablesHandler.AZERBEIDZJAN;
         }
-        else if (VariablesHandler.myCountry == "BELGIË"){
+        else if (VariablesHandler.myCountry == "BELGIUM"){
             VariablesHandler.finalCompetition = VariablesHandler.BELGIË;
         }
         else if (VariablesHandler.myCountry == "BERMUDA"){
@@ -54,19 +54,19 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "BHUTAN"){
             VariablesHandler.finalCompetition = VariablesHandler.BHUTAN;
         }
-        else if (VariablesHandler.myCountry == "BOSNIË"){
+        else if (VariablesHandler.myCountry == "BOSNIA"){
             VariablesHandler.finalCompetition = VariablesHandler.BOSNIË;
         }
-        else if (VariablesHandler.myCountry == "BRAZILIË"){
+        else if (VariablesHandler.myCountry == "BRAZIL"){
             VariablesHandler.finalCompetition = VariablesHandler.BRAZILIË;
         }
-        else if (VariablesHandler.myCountry == "BULGARIJE"){
+        else if (VariablesHandler.myCountry == "BULGARIA"){
             VariablesHandler.finalCompetition = VariablesHandler.BULGARIJE;
         }
-        else if (VariablesHandler.myCountry == "CAMBODJA"){
+        else if (VariablesHandler.myCountry == "CAMBODIA"){
             VariablesHandler.finalCompetition = VariablesHandler.CAMBODJA;
         }
-        else if (VariablesHandler.myCountry == "CHILI"){
+        else if (VariablesHandler.myCountry == "CHILE"){
             VariablesHandler.finalCompetition = VariablesHandler.CHILI;
         }
         else if (VariablesHandler.myCountry == "CHINA"){
@@ -81,40 +81,40 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "CYPRUS"){
             VariablesHandler.finalCompetition = VariablesHandler.CYPRUS;
         }
-        else if (VariablesHandler.myCountry == "DENEMARKEN"){
+        else if (VariablesHandler.myCountry == "DENMARK"){
             VariablesHandler.finalCompetition = VariablesHandler.DENEMARKEN;
         }
-        else if (VariablesHandler.myCountry == "DUITSLAND"){
+        else if (VariablesHandler.myCountry == "GERMANY"){
             VariablesHandler.finalCompetition = VariablesHandler.DUITSLAND;
         }
         else if (VariablesHandler.myCountry == "EL SALVADOR"){
             VariablesHandler.finalCompetition = VariablesHandler.EL_SALVADOR;
         }
-        else if (VariablesHandler.myCountry == "ENGELAND"){
+        else if (VariablesHandler.myCountry == "ENGLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.ENGELAND;
         }
-        else if (VariablesHandler.myCountry == "ESTLAND"){
+        else if (VariablesHandler.myCountry == "ESTONIA"){
             VariablesHandler.finalCompetition = VariablesHandler.ESTLAND;
         }
-        else if (VariablesHandler.myCountry == "FAEROER"){
+        else if (VariablesHandler.myCountry == "FAROE ISLANDS"){
             VariablesHandler.finalCompetition = VariablesHandler.FAEROER;
         }
         else if (VariablesHandler.myCountry == "FIJI"){
             VariablesHandler.finalCompetition = VariablesHandler.FIJI;
         }
-        else if (VariablesHandler.myCountry == "FILIPIJNEN"){
+        else if (VariablesHandler.myCountry == "PHILIPPINES"){
             VariablesHandler.finalCompetition = VariablesHandler.FILIPIJNEN;
         }
         else if (VariablesHandler.myCountry == "FINLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.FINLAND;
         }
-        else if (VariablesHandler.myCountry == "FRANKRIJK"){
+        else if (VariablesHandler.myCountry == "FRANCE"){
             VariablesHandler.finalCompetition = VariablesHandler.FRANKRIJK;
         }
         else if (VariablesHandler.myCountry == "GABON"){
             VariablesHandler.finalCompetition = VariablesHandler.GABON;
         }
-        else if (VariablesHandler.myCountry == "GEORGIE"){
+        else if (VariablesHandler.myCountry == "GEORGIA"){
             VariablesHandler.finalCompetition = VariablesHandler.GEORGIE;
         }
         else if (VariablesHandler.myCountry == "GIBRALTAR"){
@@ -123,10 +123,10 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "GOZO"){
             VariablesHandler.finalCompetition = VariablesHandler.GOZO;
         }
-        else if (VariablesHandler.myCountry == "GRIEKENLAND"){
+        else if (VariablesHandler.myCountry == "GREECE"){
             VariablesHandler.finalCompetition = VariablesHandler.GRIEKENLAND;
         }
-        else if (VariablesHandler.myCountry == "GROENLAND"){
+        else if (VariablesHandler.myCountry == "GREENLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.GROENLAND;
         }
         else if (VariablesHandler.myCountry == "GUATEMALA"){
@@ -141,22 +141,22 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "HONDURAS"){
             VariablesHandler.finalCompetition = VariablesHandler.HONDURAS;
         }
-        else if (VariablesHandler.myCountry == "HONGARIJE"){
+        else if (VariablesHandler.myCountry == "HUNGARY"){
             VariablesHandler.finalCompetition = VariablesHandler.HONGARIJE;
         }
         else if (VariablesHandler.myCountry == "HONGKONG"){
             VariablesHandler.finalCompetition = VariablesHandler.HONGKONG;
         }
-        else if (VariablesHandler.myCountry == "IERLAND"){
+        else if (VariablesHandler.myCountry == "IRELAND"){
             VariablesHandler.finalCompetition = VariablesHandler.IERLAND;
         }
-        else if (VariablesHandler.myCountry == "IJSLAND"){
+        else if (VariablesHandler.myCountry == "ICELAND"){
             VariablesHandler.finalCompetition = VariablesHandler.IJSLAND;
         }
         else if (VariablesHandler.myCountry == "INDIA"){
             VariablesHandler.finalCompetition = VariablesHandler.INDIA;
         }
-        else if (VariablesHandler.myCountry == "INDONESIE"){
+        else if (VariablesHandler.myCountry == "INDONESIA"){
             VariablesHandler.finalCompetition = VariablesHandler.INDONESIE;
         }
         else if (VariablesHandler.myCountry == "IRAN"){
@@ -165,49 +165,49 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "ISRAEL"){
             VariablesHandler.finalCompetition = VariablesHandler.ISRAEL;
         }
-        else if (VariablesHandler.myCountry == "ITALIE"){
+        else if (VariablesHandler.myCountry == "ITALY"){
             VariablesHandler.finalCompetition = VariablesHandler.ITALIE;
         }
         else if (VariablesHandler.myCountry == "JAMAICA"){
             VariablesHandler.finalCompetition = VariablesHandler.JAMAICA;
         }
-        else if (VariablesHandler.myCountry == "JORDANIE"){
+        else if (VariablesHandler.myCountry == "JORDAN"){
             VariablesHandler.finalCompetition = VariablesHandler.JORDANIE;
         }
-        else if (VariablesHandler.myCountry == "KAAIMANEILANDEN"){
+        else if (VariablesHandler.myCountry == "CAYMAN ISLANDS"){
             VariablesHandler.finalCompetition = VariablesHandler.KAAIMANEILANDEN;
         }
-        else if (VariablesHandler.myCountry == "KAZACHSTAN"){
+        else if (VariablesHandler.myCountry == "KAZAKHSTAN"){
             VariablesHandler.finalCompetition = VariablesHandler.KAZACHTSTAN;
         }
-        else if (VariablesHandler.myCountry == "KIRGIZIE"){
+        else if (VariablesHandler.myCountry == "KYRGYZSTAN"){
             VariablesHandler.finalCompetition = VariablesHandler.KIRGIZIE;
         }
-        else if (VariablesHandler.myCountry == "KROATIE"){
+        else if (VariablesHandler.myCountry == "CROATIA"){
             VariablesHandler.finalCompetition = VariablesHandler.KROATIE;
         }
         else if (VariablesHandler.myCountry == "LAOS"){
             VariablesHandler.finalCompetition = VariablesHandler.LAOS;
         }
-        else if (VariablesHandler.myCountry == "LETLAND"){
+        else if (VariablesHandler.myCountry == "LATVIA"){
             VariablesHandler.finalCompetition = VariablesHandler.LETLAND;
         }
-        else if (VariablesHandler.myCountry == "LITOUWEN"){
+        else if (VariablesHandler.myCountry == "LITHUANIA"){
             VariablesHandler.finalCompetition = VariablesHandler.LITOUWEN;
         }
-        else if (VariablesHandler.myCountry == "LUXEMBURG"){
+        else if (VariablesHandler.myCountry == "LUXEMBOURG"){
             VariablesHandler.finalCompetition = VariablesHandler.LUXEMBURG;
         }
-        else if (VariablesHandler.myCountry == "MACAU"){
+        else if (VariablesHandler.myCountry == "MACAO"){
             VariablesHandler.finalCompetition = VariablesHandler.MACAU;
         }
-        else if (VariablesHandler.myCountry == "MACEDONIE"){
+        else if (VariablesHandler.myCountry == "MACEDONIA"){
             VariablesHandler.finalCompetition = VariablesHandler.MACEDONIE;
         }
-        else if (VariablesHandler.myCountry == "MALDIVEN"){
+        else if (VariablesHandler.myCountry == "MALDIVES"){
             VariablesHandler.finalCompetition = VariablesHandler.MALDIVEN;
         }
-        else if (VariablesHandler.myCountry == "MALEISIE"){
+        else if (VariablesHandler.myCountry == "MALAYSIA"){
             VariablesHandler.finalCompetition = VariablesHandler.MALEISIE;
         }
         else if (VariablesHandler.myCountry == "MALTA"){
@@ -216,22 +216,22 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "MAN"){
             VariablesHandler.finalCompetition = VariablesHandler.MAN;
         }
-        else if (VariablesHandler.myCountry == "MAROKKO"){
+        else if (VariablesHandler.myCountry == "MOROCCO"){
             VariablesHandler.finalCompetition = VariablesHandler.MAROKKO;
         }
         else if (VariablesHandler.myCountry == "MEXICO"){
             VariablesHandler.finalCompetition = VariablesHandler.MEXICO;
         }
-        else if (VariablesHandler.myCountry == "MOLDAVIE"){
+        else if (VariablesHandler.myCountry == "MOLDOVA"){
             VariablesHandler.finalCompetition = VariablesHandler.MOLDAVIE;
         }
-        else if (VariablesHandler.myCountry == "MONGOLIE"){
+        else if (VariablesHandler.myCountry == "MONGOLIA"){
             VariablesHandler.finalCompetition = VariablesHandler.MONGOLIE;
         }
         else if (VariablesHandler.myCountry == "MONTENEGRO"){
             VariablesHandler.finalCompetition = VariablesHandler.MONTENEGRO;
         }
-        else if (VariablesHandler.myCountry == "NIEUW-ZEELAND"){
+        else if (VariablesHandler.myCountry == "NEW ZEALAND"){
             VariablesHandler.finalCompetition = VariablesHandler.NIEUW_ZEELAND;
         }
         else if (VariablesHandler.myCountry == "NOORD-CYPRUS"){
@@ -240,19 +240,19 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "NOORD-IERLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.NOORD_IERLAND;
         }
-        else if (VariablesHandler.myCountry == "NOORD-KOREA"){
+        else if (VariablesHandler.myCountry == "NORTH KOREA"){
             VariablesHandler.finalCompetition = VariablesHandler.NOORD_KOREA;
         }
-        else if (VariablesHandler.myCountry == "NOORDELIJKE-MARIANEN"){
+        else if (VariablesHandler.myCountry == "NORTHERN MARIANA"){
             VariablesHandler.finalCompetition = VariablesHandler.NOORDELIJKE_MARIANEN;
         }
-        else if (VariablesHandler.myCountry == "NOORWEGEN"){
+        else if (VariablesHandler.myCountry == "NORWAY"){
             VariablesHandler.finalCompetition = VariablesHandler.NOORWEGEN;
         }
-        else if (VariablesHandler.myCountry == "OEKRAINE"){
+        else if (VariablesHandler.myCountry == "UKRAINE"){
             VariablesHandler.finalCompetition = VariablesHandler.OEKRAINE;
         }
-        else if (VariablesHandler.myCountry == "OEZBEKISTAN"){
+        else if (VariablesHandler.myCountry == "UZBEKISTAN"){
             VariablesHandler.finalCompetition = VariablesHandler.OEZBEKISTAN;
         }
         else if (VariablesHandler.myCountry == "PAKISTAN"){
@@ -261,13 +261,13 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "PANAMA"){
             VariablesHandler.finalCompetition = VariablesHandler.PANAMA;
         }
-        else if (VariablesHandler.myCountry == "PAPOEA-NIEUW-GUINEA"){
+        else if (VariablesHandler.myCountry == "PAPUA NEW GUINEA"){
             VariablesHandler.finalCompetition = VariablesHandler.PAPOEA_NIEUW_GUINEA;
         }
         else if (VariablesHandler.myCountry == "PARAGUAY"){
             VariablesHandler.finalCompetition = VariablesHandler.PARAGUAY;
         }
-        else if (VariablesHandler.myCountry == "POLEN"){
+        else if (VariablesHandler.myCountry == "POLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.POLEN;
         }
         else if (VariablesHandler.myCountry == "PORTUGAL"){
@@ -276,52 +276,52 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "QATAR"){
             VariablesHandler.finalCompetition = VariablesHandler.QATAR;
         }
-        else if (VariablesHandler.myCountry == "ROEMENIE"){
+        else if (VariablesHandler.myCountry == "ROMANIA"){
             VariablesHandler.finalCompetition = VariablesHandler.ROEMENIE;
         }
-        else if (VariablesHandler.myCountry == "RUSLAND"){
+        else if (VariablesHandler.myCountry == "RUSSIA"){
             VariablesHandler.finalCompetition = VariablesHandler.RUSLAND;
         }
-        else if (VariablesHandler.myCountry == "SALOMONSEILANDEN"){
+        else if (VariablesHandler.myCountry == "SOLOMON ISLANDS"){
             VariablesHandler.finalCompetition = VariablesHandler.SALOMONSEILANDEN;
         }
         else if (VariablesHandler.myCountry == "SAN MARINO"){
             VariablesHandler.finalCompetition = VariablesHandler.SAN_MARINO;
         }
-        else if (VariablesHandler.myCountry == "SAOEDI-ARABIE"){
+        else if (VariablesHandler.myCountry == "SAUDI ARABIA"){
             VariablesHandler.finalCompetition = VariablesHandler.SAOEDI_ARABIE;
         }
-        else if (VariablesHandler.myCountry == "SCHOTLAND"){
+        else if (VariablesHandler.myCountry == "SCOTLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.SCHOTLAND;
         }
-        else if (VariablesHandler.myCountry == "SERVIE"){
+        else if (VariablesHandler.myCountry == "SERBIA"){
             VariablesHandler.finalCompetition = VariablesHandler.SERVIE;
         }
         else if (VariablesHandler.myCountry == "SINGAPORE"){
             VariablesHandler.finalCompetition = VariablesHandler.SINGAPORE;
         }
-        else if (VariablesHandler.myCountry == "SLOVENIE"){
+        else if (VariablesHandler.myCountry == "SLOVENIA"){
             VariablesHandler.finalCompetition = VariablesHandler.SLOVENIE;
         }
-        else if (VariablesHandler.myCountry == "SLOWAKIJE"){
+        else if (VariablesHandler.myCountry == "SLOVAKIA"){
             VariablesHandler.finalCompetition = VariablesHandler.SLOWAKIJE;
         }
-        else if (VariablesHandler.myCountry == "SPANJE"){
+        else if (VariablesHandler.myCountry == "SPAIN"){
             VariablesHandler.finalCompetition = VariablesHandler.SPANJE;
         }
         else if (VariablesHandler.myCountry == "SURINAME"){
             VariablesHandler.finalCompetition = VariablesHandler.SURINAME;
         }
-        else if (VariablesHandler.myCountry == "TADZJIKISTAN"){
+        else if (VariablesHandler.myCountry == "TAJIKISTAN"){
             VariablesHandler.finalCompetition = VariablesHandler.TADZJIKISTAN;
         }
         else if (VariablesHandler.myCountry == "THAILAND"){
             VariablesHandler.finalCompetition = VariablesHandler.THAILAND;
         }
-        else if (VariablesHandler.myCountry == "TSJECHIE"){
+        else if (VariablesHandler.myCountry == "CZECH REPUBLIC"){
             VariablesHandler.finalCompetition = VariablesHandler.TSJECHIE;
         }
-        else if (VariablesHandler.myCountry == "TURKIJE"){
+        else if (VariablesHandler.myCountry == "TURKEY"){
             VariablesHandler.finalCompetition = VariablesHandler.TURKIJE;
         }
         else if (VariablesHandler.myCountry == "TURKMENISTAN"){
@@ -336,28 +336,28 @@ public class SetCompetition {
         else if (VariablesHandler.myCountry == "VANUATU"){
             VariablesHandler.finalCompetition = VariablesHandler.VANUATU;
         }
-        else if (VariablesHandler.myCountry == "VATICAANSTAD"){
+        else if (VariablesHandler.myCountry == "VATICAN CITY"){
             VariablesHandler.finalCompetition = VariablesHandler.VATICAANSTAD;
         }
-        else if (VariablesHandler.myCountry == "VERENIGDE-STATEN"){
+        else if (VariablesHandler.myCountry == "UNITED STATES"){
             VariablesHandler.finalCompetition = VariablesHandler.VERENIGDE_STATEN;
         }
         else if (VariablesHandler.myCountry == "VIETNAM"){
             VariablesHandler.finalCompetition = VariablesHandler.VIETNAM;
         }
-        else if (VariablesHandler.myCountry == "WIT-RUSLAND"){
+        else if (VariablesHandler.myCountry == "BELARUS"){
             VariablesHandler.finalCompetition = VariablesHandler.WIT_RUSLAND;
         }
-        else if (VariablesHandler.myCountry == "ZUID-AFRIKA"){
+        else if (VariablesHandler.myCountry == "SOUTH AFRICA"){
             VariablesHandler.finalCompetition = VariablesHandler.ZUID_AFRIKA;
         }
-        else if (VariablesHandler.myCountry == "ZUID-KOREA"){
+        else if (VariablesHandler.myCountry == "SOUTH KOREA"){
             VariablesHandler.finalCompetition = VariablesHandler.ZUID_KOREA;
         }
-        else if (VariablesHandler.myCountry == "ZWEDEN"){
+        else if (VariablesHandler.myCountry == "SWEDEN"){
             VariablesHandler.finalCompetition = VariablesHandler.ZWEDEN;
         }
-        else if (VariablesHandler.myCountry == "ZWITSERLAND"){
+        else if (VariablesHandler.myCountry == "SWITZERLAND"){
             VariablesHandler.finalCompetition = VariablesHandler.ZWITSERLAND;
         }
 

@@ -11,7 +11,7 @@ import com.geven.headsoccer.screens.game.GameScreen;
 
 public class ChooseTeam implements Screen {
     private GameRender gamerender;
-    private static HeadSoccer headsoccer;
+    public static HeadSoccer headsoccer;
 
     public ChooseTeam(HeadSoccer headsoccer){
         this.headsoccer = headsoccer;

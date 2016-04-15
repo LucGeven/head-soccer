@@ -74,7 +74,7 @@ public class GameRender {
 
         draw = true;
         i = 1;
-
+Gdx.app.log("TEST","TEST");
         atlasCountries = new TextureRegion();
         definitiveCountry = new TextureRegion();
         atlasDraggedCountry = new TextureRegion();
